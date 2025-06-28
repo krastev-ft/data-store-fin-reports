@@ -1,0 +1,2702 @@
+ticker;name;sector;mcap in millions usd;simfin_id
+OMC;OMNICOM GROUP INC.;Advertising & Marketing Services;15347.544;251397
+IPG;Interpublic Group;Advertising & Marketing Services;12068.17;378168
+CMPR;CIMPRESS N.V.;Advertising & Marketing Services;1238.200253;889944
+QUOT;Quotient Technology Inc.;Advertising & Marketing Services;230.79298;651172
+SCOR;COMSCORE, INC.;Advertising & Marketing Services;199.59534;896179
+NCMI;National CineMedia, Inc.;Advertising & Marketing Services;144.197742;716509
+FUEL;Rocket Fuel Inc.;Advertising & Marketing Services;122.183443;63100
+STGW;Stagwell Inc;Advertising & Marketing Services;0.902675;625541
+RTX;RAYTHEON TECHNOLOGIES CORP;Aerospace & Defense;140597.96;261978
+LMT;LOCKHEED MARTIN CORP;Aerospace & Defense;117522.72;103644
+BA;BOEING CO;Aerospace & Defense;102628.512;70844
+NOC;NORTHROP GRUMMAN CORP /DE/;Aerospace & Defense;75738;333824
+GD;GENERAL DYNAMICS CORP;Aerospace & Defense;66720.924;234391
+TDG;TransDigm Group;Aerospace & Defense;40099.712;378229
+RTN;RAYTHEON CO/;Aerospace & Defense;32566.45936;354596
+PCP;PRECISION CASTPARTS CORP;Aerospace & Defense;32361.699812;438657
+COL;Rockwell Collins;Aerospace & Defense;23219.399686;378209
+HEI;HEICO CORP;Aerospace & Defense;22498.11396;250786
+TXT;Textron Inc.;Aerospace & Defense;14855.481;378225
+MTX.DE;MTU Aero Engines;Aerospace & Defense;10746.355522;1117259
+HII;HUNTINGTON INGALLS INDUSTRIES, INC.;Aerospace & Defense;9364.954;903401
+AXON;AXON ENTERPRISE, INC.;Aerospace & Defense;9234.1713;493957
+OA;ORBITAL ATK, INC.;Aerospace & Defense;7777.778844;609619
+WWD;Woodward Inc;Aerospace & Defense;6322.877;449272
+OSK;OSHKOSH CORP;Aerospace & Defense;5995.598928;975076
+HXL;HEXCEL CORP /DE/;Aerospace & Defense;5418.48;103406
+BWXT;BWX Technologies, Inc.;Aerospace & Defense;4986.50318;914354
+PSN;PARSONS CORP;Aerospace & Defense;4458.938289;971592
+KLXI;KLX Inc.;Aerospace & Defense;3791.082503;98588
+ESL;ESTERLINE TECHNOLOGIES CORP;Aerospace & Defense;3637.03408;758715
+SPR;Spirit AeroSystems Holdings, Inc.;Aerospace & Defense;3629.988;131997
+AJRD;AEROJET ROCKETDYNE HOLDINGS, INC.;Aerospace & Defense;3554.078;516551
+AVAV;AeroVironment Inc;Aerospace & Defense;2546.490712;75856
+CUB;CUBIC CORP /DE/;Aerospace & Defense;2382.6432;727716
+MAXR;Maxar Technologies Inc.;Aerospace & Defense;1978.35;1145425
+AIR;AAR CORP;Aerospace & Defense;1678.833;671123
+TGI;TRIUMPH GROUP INC;Aerospace & Defense;997.75748;629705
+SWBI;SMITH & WESSON BRANDS, INC.;Aerospace & Defense;732.49077;952565
+ATRO;ASTRONICS CORP;Aerospace & Defense;392.3384;683677
+RDW;Redwire Corp;Aerospace & Defense;217.953891;1300408
+ISSC;INNOVATIVE SOLUTIONS & SUPPORT INC;Aerospace & Defense;107.365591;153113
+MICT;MICT, Inc.;Aerospace & Defense;101.621528;706645
+CODA;Coda Octopus Group, Inc.;Aerospace & Defense;53.528328;511749
+AIRI;AIR INDUSTRIES GROUP;Aerospace & Defense;23.093318;166965
+ASTC;ASTROTECH Corp;Aerospace & Defense;22.79136;671045
+LLL;L-3 Communications Holdings;Aerospace & Defense;7.012843;378176
+PSSR;PASSUR Aerospace, Inc.;Aerospace & Defense;1.311055;210051
+CTVA;Corteva, Inc.;Agriculture;45146.7;1169062
+CF;CF Industries Holdings, Inc.;Agriculture;21492.486;119051
+MOS;MOSAIC CO;Agriculture;19749.009;94993
+SMG;SCOTTS MIRACLE-GRO CO;Agriculture;4685.178;355003
+BHIL;Benson Hill, Inc.;Agriculture;743.9753;1340566
+IPI;Intrepid Potash, Inc.;Agriculture;593.15588;260195
+LMNR;Limoneira CO;Agriculture;236.3985;1077535
+KANP;KAANAPALI LAND LLC;Agriculture;42.435;275886
+CGA;China Green Agriculture, Inc.;Agriculture;39.891856;532888
+RKDA;Arcadia Biosciences, Inc.;Agriculture;20.857583;824887
+LUV;SOUTHWEST AIRLINES CO;Airlines;23642.91;205563
+DAL;DELTA AIR LINES INC /DE/;Airlines;22511.58;231789
+UAL;United Continental Holdings, Inc.;Airlines;13163.90581;219075
+AAL;American Airlines Group Inc.;Airlines;10080.363;68568
+ALK;ALASKA AIR GROUP, INC.;Airlines;6104.43432;65470
+JBLU;JETBLUE AIRWAYS CORP;Airlines;2900.525;720902
+SAVE;Spirit Airlines, Inc.;Airlines;2679.77908;170150
+ALGT;Allegiant Travel CO;Airlines;2012.92517;735180
+SKYW;SKYWEST INC;Airlines;1244.86208;861606
+BE;Bloom Energy Corp;Alternative Energy Sources & Other;4670.4092;1059129
+AY;Atlantica Sustainable Infrastructure plc;Alternative Energy Sources & Other;3899.93738;1300945
+STEM;STEM, INC.;Alternative Energy Sources & Other;2429.010961;1295063
+LFG;Archaea Energy Inc.;Alternative Energy Sources & Other;1016.780032;1293028
+FLNC;Fluence Energy, Inc.;Alternative Energy Sources & Other;963.434803;1329471
+CLSK;CLEANSPARK, INC.;Alternative Energy Sources & Other;230.656788;998456
+WNDW;SolarWindow Technologies, Inc.;Alternative Energy Sources & Other;179.810589;92543
+OPTT;Ocean Power Technologies, Inc.;Alternative Energy Sources & Other;78.168629;1020998
+MSFT;MICROSOFT CORP;Application Software;2187714.54;59265
+TCEHY;Tencent Holdings Limited;Application Software;1849984.834421;965744
+BIDU;Baidu, Inc.;Application Software;473085.148648;1204713
+ORCL;ORACLE CORP;Application Software;212079.84;257930
+ADBE;Adobe Systems;Application Software;211695.88;14099
+CRM;SALESFORCE COM INC;Application Software;187883.69;85017
+INTU;INTUIT INC;Application Software;138154.94;183557
+IBM;INTERNATIONAL BUSINESS MACHINES CORP;Application Software;122808.408;69543
+SAP.DE;SAP;Application Software;111053.24611;858325
+NOW;ServiceNow, Inc.;Application Software;99844.74;617429
+TEAM;Atlassian Corp Plc;Application Software;65282.79896;1204607
+ATVI;Activision Blizzard;Application Software;63117.6;243
+PDD;Pinduoduo Inc.;Application Software;62064.155791;1253410
+SNPS;SYNOPSYS INC;Application Software;59091.58606;744723
+SNOW;Snowflake Inc.;Application Software;52608.31335;1016067
+CDNS;CADENCE DESIGN SYSTEMS INC;Application Software;52302.8976;107614
+PANW;Palo Alto Networks Inc;Application Software;51510.81;199345
+VMW;VMWARE, INC.;Application Software;51489.30024;83200
+ADSK;AUTODESK INC;Application Software;50699.88;185035
+SQ;Square, Inc.;Application Software;49926.338;83293
+CRWD;CrowdStrike Holdings, Inc.;Application Software;46330.58339;1039026
+SHOP;SHOPIFY INC.;Application Software;46078.71811;1202864
+WDAY;Workday, Inc.;Application Software;44757.38797;186213
+SE;Sea Ltd;Application Software;42867.995139;1253411
+FTNT;FORTINET INC;Application Software;42108.476;130256
+EA;ELECTRONIC ARTS INC.;Application Software;37695.69;372651
+CTSH;COGNIZANT TECHNOLOGY SOLUTIONS CORP;Application Software;36368.8;128066
+TTD;Trade Desk, Inc.;Application Software;35860.4994;650768
+DDOG;Datadog, Inc.;Application Software;35741.8243;963381
+VEEV;VEEVA SYSTEMS INC;Application Software;35468.6887;199530
+RHT;RED HAT INC;Application Software;33429.838344;94011
+ZM;Zoom Video Communications, Inc.;Application Software;32579.489599;963384
+RBLX;Roblox Corp;Application Software;28366.00128;1338975
+CERN;CERNER CORP /MO/;Application Software;27847.91436;259186
+WORK;Slack Technologies, Inc.;Application Software;26290.435541;949110
+MDB;MongoDB, Inc.;Application Software;25350.668479;720635
+IT;Gartner Inc;Application Software;25348.77909;447532
+DASH;DoorDash, Inc.;Application Software;25342.58433;1200821
+NET;Cloudflare, Inc.;Application Software;25300.3266;961018
+ZS;Zscaler, Inc.;Application Software;25257.9692;896477
+CDW;CDW Corp;Application Software;24815.96;683318
+ANSS;ANSYS INC;Application Software;24736.41192;126145
+PAYC;Paycom Software, Inc.;Application Software;23013.11331;746934
+ZI;ZoomInfo Technologies Inc.;Application Software;20647.242906;1205635
+PLTR;Palantir Technologies Inc.;Application Software;20013.74226;1039027
+TTWO;TAKE TWO INTERACTIVE SOFTWARE INC;Application Software;18644.535;372538
+CA;CA, INC.;Application Software;18585.797812;262416
+SPLK;SPLUNK INC;Application Software;18171.21887;51255
+HUBS;HUBSPOT INC;Application Software;17935.78464;504719
+TYL;TYLER TECHNOLOGIES INC;Application Software;17050.275;693134
+NUAN;Nuance Communications Inc;Application Software;16482.78412;448077
+OKTA;Okta, Inc.;Application Software;16301.21112;708398
+SSNC;SS&C Technologies Holdings Inc;Application Software;15931.25;721918
+AKAM;AKAMAI TECHNOLOGIES INC;Application Software;15865.12656;69211
+TWLO;TWILIO INC;Application Software;15820.500681;670420
+U;Unity Software Inc.;Application Software;15473.47716;1039024
+PCTY;Paylocity Holding Corp;Application Software;14990.01789;1054411
+DATA;Tableau Software Inc;Application Software;14827.528475;711049
+DOCU;DOCUSIGN INC;Application Software;14729.36082;810159
+PTC;PTC INC.;Application Software;14501.97152;148538
+AZPN;Aspen Technology Inc;Application Software;14363.97025;445871
+LDOS;Leidos Holdings, Inc.;Application Software;14272.02;902720
+LVGO;Livongo Health, Inc.;Application Software;14020.04916;936620
+NLOK;NortonLifeLock Inc.;Application Software;13993.38;427444
+FICO;Fair Isaac Corp;Application Software;13623.97883;446774
+CTXS;CITRIX SYSTEMS INC;Application Software;13081.5867;131663
+BSY;BENTLEY SYSTEMS INC;Application Software;12776.746048;1209290
+DT;Dynatrace, Inc.;Application Software;12074.90457;1251549
+PATH;UiPath, Inc.;Application Software;11271.5616;1253258
+OTEX;OPEN TEXT CORP;Application Software;10862.81192;714157
+CDAY;Ceridian HCM Holding Inc.;Application Software;10557.130852;1050283
+TOST;Toast, Inc.;Application Software;10516.749108;1307361
+ULTI;ULTIMATE SOFTWARE GROUP INC;Application Software;10497.617013;373736
+BKI;Black Knight, Inc.;Application Software;10459.65;889703
+FFIV;F5 NETWORKS INC;Application Software;10370.94675;60283
+MANH;MANHATTAN ASSOCIATES INC;Application Software;9757.87;105128
+PLAN;Anaplan, Inc.;Application Software;9551.66121;925650
+ZEN;Zendesk, Inc.;Application Software;9407.16378;747270
+ZNGA;ZYNGA INC;Application Software;9201.682;418866
+CLVT;CLARIVATE Plc;Application Software;9082.228374;1328920
+RP;REALPAGE INC;Application Software;9057.560187;243720
+DBX;DROPBOX, INC.;Application Software;8945.937;808182
+CFLT;Confluent, Inc.;Application Software;8843.388184;1334959
+CHNG;Change Healthcare Inc.;Application Software;8102.015178;987613
+AVLR;AVALARA, INC.;Application Software;8094.988;989057
+FIVN;Five9, Inc.;Application Software;7948.48208;901361
+ESTC;Elastic N.V.;Application Software;7879.779768;917843
+LDOS_old;Leidos, Inc.;Application Software;7368.875214;625661
+CNXC;Concentrix Corp;Application Software;7059.62724;1234046
+YNDX;Yandex N.V.;Application Software;6880.213929;1205993
+JCOM;J2 GLOBAL, INC.;Application Software;6831.441129;625587
+GWRE;Guidewire Software, Inc.;Application Software;6824.036041;37120
+CSRA;CSRA Inc.;Application Software;6758.570069;378123
+CDK;CDK Global, Inc.;Application Software;6636.912;749032
+CACI;CACI INTERNATIONAL INC /DE/;Application Software;6608.41545;254661
+INOV;Inovalon Holdings, Inc.;Application Software;6374.414392;497806
+SAIL;Sailpoint Technologies Holdings, Inc.;Application Software;6128.58036;902180
+STMP;STAMPS.COM INC;Application Software;6038.172395;650092
+QLYS;QUALYS, INC.;Application Software;6027.6328;1059904
+MDSO;Medidata Solutions, Inc.;Application Software;5759.73013;497390
+SYNA;SYNAPTICS Inc;Application Software;5682.268;260659
+NATI;NATIONAL INSTRUMENTS CORP;Application Software;5582.4579;56422
+COUP;Coupa Software Inc;Application Software;5558.27919;811353
+MNDT;Mandiant, Inc.;Application Software;5405.5144;276492
+SAIC;Science Applications International Corp;Application Software;5323.329;54785
+HQY;HEALTHEQUITY INC;Application Software;5225.32818;52958
+ASAN;Asana, Inc.;Application Software;5065.8448;1070494
+DOCN;DigitalOcean Holdings, Inc.;Application Software;4935.4713;1202261
+OMCL;OMNICELL, Inc;Application Software;4923.78565;495083
+TENB;Tenable Holdings, Inc.;Application Software;4869.14785;896983
+SMAR;SMARTSHEET INC;Application Software;4807.89579;1251882
+RNG;RingCentral Inc;Application Software;4772.6721;355550
+PRSP;Perspecta Inc.;Application Software;4725.820411;1057795
+AYX;Alteryx, Inc.;Application Software;4677.93728;695370
+CLDR;Cloudera, Inc.;Application Software;4672.511006;890662
+BOX;BOX INC;Application Software;4489.3695;47121
+NEWR;NEW RELIC, INC.;Application Software;4484.74592;908918
+NCR;NCR CORP;Application Software;4478.19;854994
+ALTR;Altair Engineering Inc.;Application Software;4442.40396;686620
+PINC;Premier Inc;Application Software;4409.38168;448306
+LOGM;LogMeIn, Inc.;Application Software;4218.383747;641732
+COTV;Cotiviti Holdings, Inc.;Application Software;4173.158487;146741
+MENT;MENTOR GRAPHICS CORP;Application Software;4111.76675;181078
+BL;BLACKLINE, INC.;Application Software;4085.99053;371763
+NTNX;Nutanix, Inc.;Application Software;4013.41292;544815
+RPD;Rapid7, Inc.;Application Software;3984.777926;1238784
+CALX;CALIX, INC;Application Software;3878.13441;1060039
+APPF;APPFOLIO INC;Application Software;3854.89299;959861
+ALRM;Alarm.com Holdings, Inc.;Application Software;3830.20128;819790
+CSOD;Cornerstone OnDemand Inc;Application Software;3805.813912;747052
+WK;WORKIVA INC;Application Software;3772.481344;618274
+VRNS;VARONIS SYSTEMS INC;Application Software;3431.74045;908839
+PEGA;Pegasystems Inc;Application Software;3422.02307;448267
+SYNT;SYNTEL INC;Application Software;3400.871437;693332
+PS;Pluralsight, Inc.;Application Software;3334.604307;698235
+ENV;ENVESTNET, INC.;Application Software;3308.875013;978454
+CXM;Sprinklr, Inc.;Application Software;3267.80616;1340853
+VRNT;VERINT SYSTEMS INC;Application Software;3233.06166;44422
+SQSP;Squarespace, Inc.;Application Software;3132.23437;1342099
+CVT;CVENT HOLDING CORP.;Application Software;3048.67728;1328921
+ACIW;ACI WORLDWIDE, INC.;Application Software;3039.87519;1057787
+XRX;Xerox Corp.;Application Software;3008.40488;378247
+BLKB;Blackbaud Inc;Application Software;2985.990714;445967
+EVH;Evolent Health, Inc.;Application Software;2982.25081;146041
+CVLT;COMMVAULT SYSTEMS INC;Application Software;2681.44799;1067483
+FOUR;Shift4 Payments, Inc.;Application Software;2661.50881;1248148
+MPLN;MultiPlan Corp;Application Software;2556.006024;1291787
+EVCM;EverCommerce Inc.;Application Software;2533.671825;1251883
+FROG;JFrog Ltd;Application Software;2468.9522;1205634
+NTCT;NETSCOUT SYSTEMS INC;Application Software;2462.67492;1234780
+PD;PagerDuty, Inc.;Application Software;2456.9814;987612
+APPS;Digital Turbine, Inc.;Application Software;2443.59356;826035
+EPAY;BOTTOMLINE TECHNOLOGIES INC /DE/;Application Software;2436.83541;989883
+CALD;CALLIDUS SOFTWARE INC;Application Software;2392.575084;100006
+AI;C3.ai, Inc.;Application Software;2293.08084;1326825
+PRGS;PROGRESS SOFTWARE CORP /MA;Application Software;2223.63225;748103
+YOU;Clear Secure, Inc.;Application Software;2201.286567;1334838
+GLUU;GLU MOBILE INC;Application Software;2185.272775;85988
+SDGR;Schrodinger, Inc.;Application Software;2137.703236;1252590
+SEMR;SEMrush Holdings, Inc.;Application Software;2035.23606;1291789
+MDRX;ALLSCRIPTS HEALTHCARE SOLUTIONS, INC.;Application Software;2024.10914;495816
+AMPL;Amplitude, Inc.;Application Software;2019.74484;1307359
+IMPV;IMPERVA INC;Application Software;1961.90943;131347
+CBLK;Carbon Black, Inc.;Application Software;1912.278836;896985
+CSGS;CSG SYSTEMS INTERNATIONAL INC;Application Software;1802.62459;366036
+MB;MINDBODY, Inc.;Application Software;1747.131334;698225
+APTI;Apptio Inc;Application Software;1712.617447;741619
+SWI;SolarWinds, Inc.;Application Software;1635.54934;885119
+EVOP;EVO Payments, Inc.;Application Software;1602.912613;977613
+IAS;INTEGRAL AD SCIENCE HOLDING CORP.;Application Software;1573.126536;1333933
+VRTU;VIRTUSA CORP;Application Software;1557.402811;34429
+RAMP;LiveRamp Holdings, Inc.;Application Software;1549.34127;1059127
+FSCT;FORESCOUT TECHNOLOGIES, INC;Application Software;1441.151895;897042
+FSLY;Fastly, Inc.;Application Software;1440.35496;996256
+EVBG;EVERBRIDGE, INC.;Application Software;1439.440698;914618
+EIGI;Endurance International Group Holdings, Inc.;Application Software;1344.295302;74731
+AGYS;AGILYSYS INC;Application Software;1320.66662;249502
+ZUO;ZUORA INC;Application Software;1293.56199;994625
+MGNI;MAGNITE, INC.;Application Software;1289.28624;683438
+PUBM;PubMatic, Inc.;Application Software;1283.043696;1240866
+PRO;PROS Holdings, Inc.;Application Software;1227.32508;969097
+HDP;Hortonworks, Inc.;Application Software;1227.035757;670518
+NXGN;NEXTGEN HEALTHCARE, INC.;Application Software;1180.08648;497184
+MNTV;MOMENTIVE GLOBAL INC.;Application Software;1152.0065;997480
+RDWR;RADWARE LTD;Application Software;1078.495169;1242105
+DOMO;DOMO, INC.;Application Software;1074.42965;770174
+LPSN;LIVEPERSON INC;Application Software;1048.83161;975527
+PDFS;PDF SOLUTIONS INC;Application Software;1023.08364;606334
+ZETA;Zeta Global Holdings Corp.;Application Software;998.891401;1314576
+CRNC;Cerence Inc.;Application Software;870.78295;1171317
+FLLC;Fellazo Corp;Application Software;858.3268;667668
+SCWX;SecureWorks Corp;Application Software;849.35682;201339
+TYPE;Monotype Imaging Holdings Inc.;Application Software;819.163582;344785
+PERI;Perion Network Ltd.;Application Software;798.976615;1214252
+EB;Eventbrite, Inc.;Application Software;782.38308;909936
+EBIX;EBIX INC;Application Software;748.06886;147655
+HSTM;Healthstream Inc;Application Software;725.38089;497494
+UIS;UNISYS CORP;Application Software;723.4209;717085
+MJCO;Majesco;Application Software;693.96024;110826
+YEXT;Yext, Inc.;Application Software;676.703324;795507
+TWOU;2U, Inc.;Application Software;658.440686;909826
+EGHT;8X8 INC /DE/;Application Software;650.08503;36662
+AMSWA;AMERICAN SOFTWARE INC;Application Software;637.60515;196458
+TIVO;TIVO INC;Application Software;610.440602;176762
+APIC;Apigee Corp;Application Software;529.06126;34899
+MITK;MITEK SYSTEMS INC;Application Software;507.44804;369106
+OSPN;OneSpan Inc.;Application Software;482.68714;147770
+CTLP;CANTALOUPE, INC.;Application Software;482.590873;234192
+CPSI;Computer Programs & Systems Inc;Application Software;446.22396;497906
+DMRC;Digimarc CORP;Application Software;387.06759;110139
+UPLD;Upland Software, Inc.;Application Software;372.486594;668870
+EXA;EXA CORP;Application Software;363.952159;177765
+SCPL;SciPlay Corp;Application Software;330.995;1011098
+LLNW;Limelight Networks, Inc.;Application Software;329.69658;1014805
+CSLT;CASTLIGHT HEALTH, INC.;Application Software;323.733415;494803
+DBD;DIEBOLD NIXDORF, Inc;Application Software;317.898;770497
+EGAN;EGAIN Corp;Application Software;296.6992;233349
+PRCH;Porch Group, Inc.;Application Software;290.650568;1200989
+VERI;Veritone, Inc.;Application Software;289.750625;1017399
+TLRA;Telaria, Inc.;Application Software;288.284952;646927
+OPRX;OptimizeRx Corp;Application Software;286.3355;654256
+SPRT;Support.com, Inc.;Application Software;286.006937;533572
+GUID;Guidance Software, Inc.;Application Software;236.35717;132676
+LTCH;Latch, Inc.;Application Software;167.403833;1297055
+MAMS;MAM SOFTWARE GROUP, INC.;Application Software;153.014673;265007
+SNCR;SYNCHRONOSS TECHNOLOGIES INC;Application Software;141.438;747268
+PHUN;Phunware, Inc.;Application Software;130.85072;895647
+SMSI;SMITH MICRO SOFTWARE INC;Application Software;129.68005;504067
+TRHC;Tabula Rasa HealthCare, Inc.;Application Software;123.871783;494892
+INOD;INNODATA INC;Application Software;122.24474;1077528
+COVS;Covisint Corp;Application Software;100.121448;43077
+MXPT;MaxPoint Interactive, Inc.;Application Software;93.681691;146869
+ISDR;ISSUER DIRECT CORP;Application Software;85.89336;997171
+STRM;STREAMLINE HEALTH SOLUTIONS INC.;Application Software;80.888956;494891
+MTBC;MEDICAL TRANSCRIPTION BILLING, CORP;Application Software;58.409533;497698
+MFON;MOBIVITY HOLDINGS CORP.;Application Software;55.410695;714287
+NTIP;NETWORK 1 TECHNOLOGIES INC;Application Software;54.091656;515715
+BOXL;Boxlight Corp;Application Software;50.6814;1017526
+ZDGE;Zedge, Inc.;Application Software;47.2131;372279
+AWRE;AWARE INC /MA/;Application Software;46.12515;512152
+FNJN;FINJAN HOLDINGS, INC.;Application Software;42.662623;679470
+BSQR;BSQUARE CORP /WA;Application Software;28.5684;101318
+BVSN;BROADVISION INC;Application Software;22.319089;156413
+TSRI;TSR INC;Application Software;17.266146;333363
+SSNT;SilverSun Technologies, Inc.;Application Software;15.922149;511627
+SOFO;SONIC FOUNDRY INC;Application Software;15.371108;374032
+PIXY;ShiftPixy, Inc.;Application Software;8.058253;1077532
+ANY;Sphere 3D Corp;Application Software;6.608436;1242009
+WEWA;WEWARDS, INC.;Application Software;3.224504;667762
+DTRM;DETERMINE, INC.;Application Software;2.744179;80268
+HMNY;Helios & Matheson Analytics Inc.;Application Software;0;698616
+BLK;BlackRock, Inc.;Asset Management;114539.073541;914
+BX;Blackstone Group L.P.;Asset Management;76100.187081;498254
+BK;Bank of New York Mellon Corp;Asset Management;36504.902928;467599
+APO;Apollo Global Management LLC;Asset Management;35514.904;817726
+KKR;KKR & Co. Inc.;Asset Management;33349.344943;805180
+AMP;AMERIPRISE FINANCIAL INC;Asset Management;32461.438;67872
+TROW;T. Rowe Price Group;Asset Management;29718.286;378221
+STT;State Street Corp.;Asset Management;27300.04816;378219
+NTRS;NORTHERN TRUST CORP;Asset Management;21588.830556;407194
+IEP;ICAHN ENTERPRISES L.P.;Asset Management;16790.22;980333
+BEN;Franklin Resources;Asset Management;14107.1;378153
+IVZ;Invesco Ltd.;Asset Management;8646.11;378170
+EV;EATON VANCE CORP;Asset Management;8378.27927;200412
+OAK;Oaktree Capital Group, LLC;Asset Management;8249.014702;628032
+SEIC;SEI INVESTMENTS CO;Asset Management;8084.37035;341472
+VOYA;Voya Financial, Inc.;Asset Management;7088.4;354109
+SF;STIFEL FINANCIAL CORP;Asset Management;7076.21421;1059910
+AMG;AFFILIATED MANAGERS GROUP, INC.;Asset Management;5580.232;62475
+JHG;JANUS HENDERSON GROUP PLC;Asset Management;4334.063;1234774
+CNS;COHEN & STEERS INC;Asset Management;3760.42525;820401
+MC;Moelis & Co;Asset Management;3157.413752;878834
+FHI;FEDERATED INVESTORS INC /PA/;Asset Management;3113.448;821505
+APAM;Artisan Partners Asset Management Inc.;Asset Management;2364.908;1299451
+STEP;StepStone Group Inc.;Asset Management;1858.781826;1338981
+BCOR;BLUCORA, INC.;Asset Management;1083.91796;651518
+UUUU;ENERGY FUELS INC;Asset Management;1063.411396;767720
+RESI;Altisource Residential Corp;Asset Management;776.63727;137841
+RA;RDA Holding Co.;Asset Management;525.988479;774807
+CIK;CrÃ©dit Suisse Asset Management Income Fund, INC.;Asset Management;352.790004;113301
+MN;Manning & Napier, Inc.;Asset Management;236.354182;826501
+WHG;WESTWOOD HOLDINGS GROUP INC;Asset Management;114.078884;646168
+HNNA;HENNESSY ADVISORS INC;Asset Management;71.737728;366890
+AINC;Ashford Inc.;Asset Management;54.61875;819902
+AAMC;Altisource Asset Management Corp;Asset Management;43.498486;847094
+TSLA;Tesla;Autos;953718.53;56317
+TM;TOYOTA MOTOR CORP/;Autos;220725.566796;1217248
+VOW.DE;Volkswagen;Autos;102119.431052;858327
+DAI.DE;Daimler AG;Autos;73463.06157;825113
+F;FORD MOTOR CO;Autos;65637.85;249937
+GM;General Motors Co;Autos;56847.42;125620
+BMW.DE;BMW Group;Autos;53125.316065;825112
+RACE;Ferrari N.V.;Autos;39196.627813;1202766
+RIVN;Rivian Automotive, Inc. / DE;Autos;34712.84;1329539
+CPRT;COPART INC;Autos;31686.50012;287342
+LCID;Lucid Group, Inc.;Autos;31599.92118;1291785
+APTV;Aptiv PLC;Autos;29279.4051;378125
+STLA;Stellantis N.V.;Autos;24051.88128;1239536
+KMX;CARMAX INC;Autos;16706.25756;327637
+CSL;Carlisle Companies Inc;Autos;16505.357;446361
+LKQ;LKQ CORP;Autos;15845.634;124743
+CON.DE;Continental AG;Autos;13673.295432;854464
+BWA;BORGWARNER INC;Autos;9533.948381;70746
+LEA;LEAR CORP;Autos;9030.683397;610198
+AN;AUTONATION, INC.;Autos;8227.629;66437
+LAD;LITHIA MOTORS INC;Autos;7891.792;1050282
+ALV;AUTOLIV INC;Autos;7470.952;104657
+PII;POLARIS INDUSTRIES INC/MN;Autos;7337.151;104458
+WBC;WABCO Holdings Inc.;Autos;7010.707689;102132
+GNTX;GENTEX CORP;Autos;6806.013873;327200
+HOG;Harley-Davidson;Autos;6204.94365;378159
+DRVN;Driven Brands Holdings Inc.;Autos;5261.08192;1340510
+THO;THOR INDUSTRIES INC;Autos;5214.456629;43246
+IAA;IAA, Inc.;Autos;5184.608;968230
+GT;Goodyear Tire & Rubber;Autos;4399.16;378156
+ABG;ASBURY AUTOMOTIVE GROUP INC;Autos;4388.397;545489
+ALSN;Allison Transmission Holdings Inc;Autos;3826.9;445706
+ADNT;Adient plc;Autos;3642.714;675558
+DORM;Dorman Products, Inc.;Autos;3367.71008;742104
+RUSHA;RUSH ENTERPRISES INC TX;Autos;2936.6792;909600
+NKLA;Nikola Corp;Autos;2934.731398;996264
+DAN;DANA INC;Autos;2588.37;980331
+MTOR;MERITOR INC;Autos;2580.55;772948
+XPEL;XPEL, Inc.;Autos;2385.21094;969955
+SAH;SONIC AUTOMOTIVE INC;Autos;2153.32;904847
+WGO;WINNEBAGO INDUSTRIES INC;Autos;2150.95349;670940
+MNRO;MONRO, INC.;Autos;1794.01914;989056
+TEN;TENNECO INC;Autos;1602.800326;534666
+CWH;Camping World Holdings, Inc.;Autos;1523.06264;744377
+DLPH;Delphi Technologies PLC;Autos;1469.672422;928642
+CARS;Cars.com Inc.;Autos;975.6354;650652
+GOEV;Canoo Inc.;Autos;961.37712;1104613
+SMP;STANDARD MOTOR PRODUCTS INC;Autos;905.734273;126577
+TOWR;Tower International, Inc.;Autos;641.404632;625334
+RIDE;Lordstown Motors Corp.;Autos;552.25775;998523
+MCFT;MCBC Holdings, Inc.;Autos;501.304386;208137
+VOXX;VOXX International Corp;Autos;241.927494;672273
+ACAT;ARCTIC CAT INC;Autos;241.643633;33956
+CVGI;Commercial Vehicle Group, Inc.;Autos;238.87617;773452
+CPS;Cooper-Standard Holdings Inc.;Autos;187.017713;530203
+SUP;SUPERIOR INDUSTRIES INTERNATIONAL INC;Autos;151.51878;826868
+STRT;STRATTEC SECURITY CORP;Autos;127.93655;202406
+CMT;CORE MOLDING TECHNOLOGIES INC;Autos;109.22028;776098
+SORL;SORL Auto Parts Inc;Autos;90.926178;543973
+ADOM;Envirotech Vehicles, Inc.;Autos;82.408929;807727
+JPM;JPMORGAN CHASE & CO;Banks;366216.786;243510
+BAC;BANK OF AMERICA CORP /DE/;Banks;298132.352;71941
+WFC;WELLS FARGO & COMPANY/MN;Banks;176460.466;58953
+MS;MORGAN STANLEY;Banks;156461.28;86439
+GS;GOLDMAN SACHS GROUP INC;Banks;126014.35;60439
+C;CITIGROUP INC;Banks;105190.47;89126
+USB;U.S. Bancorp;Banks;73259.8;378231
+PNC;PNC FINANCIAL SERVICES GROUP, INC.;Banks;72466.56;348075
+TFC;TRUIST FINANCIAL CORP;Banks;69181.6216;245217
+STI;SUNTRUST BANKS INC;Banks;31140.520361;335922
+SIVB;SVB FINANCIAL GROUP;Banks;28079.508806;708168
+FITB;Fifth Third Bancorp;Banks;25920.89478;378145
+MTB;M&T BANK CORP;Banks;24715.179429;335339
+RF;Regions Financial Corp.;Banks;21640.78;378207
+HBAN;Huntington Bancshares;Banks;20807.86;378164
+CFG;Citizens Financial Group;Banks;19704.115772;378202
+DBK.DE;Deutsche Bank AG;Banks;19103.634357;1088259
+KEY;KeyCorp;Banks;18282.69356;378174
+FCNCA;First Citizens Bancshares Inc;Banks;13735.280827;446741
+FHN;FIRST HORIZON CORP;Banks;12358.5;1234769
+CMA;Comerica Inc.;Banks;11327.208651;378118
+EWBC;EAST WEST BANCORP INC;Banks;10970.64753;335579
+WAL;WESTERN ALLIANCE BANCORPORATION;Banks;9253.552;345773
+JEF;Jefferies Financial Group Inc.;Banks;8985.98928;378180
+CFR;CULLEN/FROST BANKERS, INC.;Banks;8941.78242;419929
+ZION;Zions Bancorp;Banks;8885.95865;378250
+CBSH;COMMERCE BANCSHARES INC /MO/;Banks;8860.813766;593216
+PBCT;People's United Financial, Inc.;Banks;8118.925709;335764
+FFIN;FIRST FINANCIAL BANKSHARES INC;Banks;6733.175425;998435
+PNFP;PINNACLE FINANCIAL PARTNERS INC;Banks;6640.358607;783539
+BOKF;BOK FINANCIAL CORP ET AL;Banks;6404.733373;344670
+BPOP;POPULAR INC;Banks;6243.801134;883509
+GBCI;GLACIER BANCORP, INC.;Banks;6199.473433;1059909
+CIT;CIT GROUP INC;Banks;5305.57895;335466
+HOMB;Home Bancshares Inc;Banks;5249.03016;447371
+NYCB;NEW YORK COMMUNITY BANCORP INC;Banks;5081.31834;1234784
+OZRK;BANK OF THE OZARKS INC;Banks;5013.842779;135823
+UMBF;UMB FINANCIAL CORP;Banks;4776.705929;256663
+FNB;FNB Corp;Banks;4606.676004;446814
+HWC;HANCOCK WHITNEY CORP;Banks;4576.963759;734515
+TFSL;TFS Financial CORP;Banks;4330.580726;360767
+UMPQ;UMPQUA HOLDINGS CORP;Banks;4199.5305;998459
+EVR;Evercore Inc.;Banks;4079.069;1059906
+MBFI;MB Financial Inc;Banks;3580.239684;447767
+PACW;PACWEST BANCORP;Banks;3562.1286;537548
+FHB;FIRST HAWAIIAN, INC.;Banks;3548.011661;210774
+ABCB;Ameris Bancorp;Banks;3487.22216;919504
+BOH;BANK OF HAWAII CORP;Banks;3376.733957;998597
+TCBI;TEXAS CAPITAL BANCSHARES INC/TX;Banks;3300.842653;734517
+ISBC;Investors Bancorp, Inc.;Banks;3272.427355;641029
+IBOC;INTERNATIONAL BANCSHARES CORP;Banks;2912.935995;369401
+FULT;FULTON FINANCIAL CORP;Banks;2833.8012;1234770
+CLBK;Columbia Financial, Inc.;Banks;2397.029471;883513
+WAFD;WASHINGTON FEDERAL INC;Banks;2323.271659;1234802
+IBKC;IBERIABANK CORP;Banks;2268.759132;129297
+HTH;Hilltop Holdings Inc.;Banks;2186.47131;492790
+WSBC;WESBANCO INC;Banks;2164.301513;739365
+TRMK;TRUSTMARK CORP;Banks;2118.776362;1234797
+STBA;S&T BANCORP INC;Banks;1267.644588;347280
+SRCE;1ST SOURCE CORP;Banks;1254.587665;767938
+BNCL;Beneficial Bancorp Inc.;Banks;1204.023353;748225
+TSC;TriState Capital Holdings, Inc.;Banks;960.098181;988504
+ABTX;Allegiance Bancshares, Inc.;Banks;954.41381;953887
+ALTA;Altabancorp;Banks;833.472351;363174
+FMBH;FIRST MID ILLINOIS BANCSHARES INC;Banks;762.572387;743187
+PGC;PEAPACK GLADSTONE FINANCIAL CORP;Banks;671.681959;726431
+TREE;LendingTree, Inc.;Banks;582.96786;780144
+MBWM;MERCANTILE BANK CORP;Banks;579.586264;815912
+CNND;CANANDAIGUA NATIONAL CORP;Banks;415.19588;546895
+FMAO;FARMERS & MERCHANTS BANCORP INC;Banks;412.490607;939566
+PHH;PHH CORP;Banks;358.393508;257104
+MCBC;MACATAWA BANK CORP;Banks;339.464791;745864
+LION;FIDELITY SOUTHERN CORP;Banks;277.680406;692284
+OCN;OCWEN FINANCIAL CORP;Banks;271.51042;544026
+NKSH;NATIONAL BANKSHARES INC;Banks;202.649344;129536
+LARK;LANDMARK BANCORP INC;Banks;126.955187;130464
+MLVF;MALVERN BANCORP, INC.;Banks;119.843987;1249732
+PROV;PROVIDENT FINANCIAL HOLDINGS INC;Banks;107.810661;998465
+SFBC;Sound Financial Bancorp, Inc.;Banks;98.663954;158885
+JUVF;JUNIATA VALLEY FINANCIAL CORP;Banks;78.3901;141652
+CBKM;CONSUMERS BANCORP INC /OH/;Banks;59.333344;259775
+STZ;CONSTELLATION BRANDS, INC.;Beverages - Alcoholic;41031.18695;256994
+BF-A;BROWN FORMAN CORP;Beverages - Alcoholic;36238.84971;185450
+TAP;MOLSON COORS BREWING CO;Beverages - Alcoholic;12256.16;248956
+SAM;THE BOSTON BEER COMPANY, INC.;Beverages - Alcoholic;4658.92261;714419
+VWE;Vintage Wine Estates, Inc.;Beverages - Alcoholic;404.488178;1338978
+BREW;CRAFT BREW ALLIANCE, INC.;Beverages - Alcoholic;322.693035;63411
+EAST;Eastside Distilling, Inc.;Beverages - Alcoholic;8.5512;646929
+KO;COCA COLA CO;Beverages - Non-Alcoholic;281709.96;82117
+PEP;PEPSICO INC;Beverages - Non-Alcoholic;249382.56;218222
+KDP;Keurig Dr Pepper Inc.;Beverages - Non-Alcoholic;56833.44;378130
+MNST;Monster Beverage Corp;Beverages - Non-Alcoholic;48780.77676;333441
+CCE;COCA-COLA REFRESHMENTS USA, INC.;Beverages - Non-Alcoholic;27894.080553;849813
+CELH;Celsius Holdings, Inc.;Beverages - Non-Alcoholic;7431.075822;986557
+FIZZ;NATIONAL BEVERAGE CORP;Beverages - Non-Alcoholic;5308.21224;199147
+COKE;COCA COLA BOTTLING CO CONSOLIDATED /DE/;Beverages - Non-Alcoholic;4851.4648;156024
+COT;Primo Water Corp;Beverages - Non-Alcoholic;2312.48815;727266
+JSDA;JONES SODA CO;Beverages - Non-Alcoholic;37.168358;727078
+REED;REED'S, INC.;Beverages - Non-Alcoholic;18.728987;727073
+NUZE;NuZee, Inc.;Beverages - Non-Alcoholic;13.726255;1154275
+AMGN;AMGEN INC;Biotechnology;135435.25;65735
+GILD;GILEAD SCIENCES INC;Biotechnology;83310.48;239284
+VRTX;VERTEX PHARMACEUTICALS INC / MA;Biotechnology;77537.7;344083
+CELG;CELGENE CORP /DE/;Biotechnology;77035.975315;410976
+REGN;Regeneron;Biotechnology;69994.73;378206
+MRNA;Moderna, Inc.;Biotechnology;66512.16;917766
+ALXN;ALEXION PHARMACEUTICALS INC;Biotechnology;40336.009475;65359
+BNTX;BioNTech SE;Biotechnology;38274.827581;1212484
+BIIB;BIOGEN INC.;Biotechnology;32309.044;71079
+SGEN;SEATTLE GENETICS INC /WA;Biotechnology;31400.4054;487011
+ALNY;ALNYLAM PHARMACEUTICALS, INC.;Biotechnology;27582.4224;325251
+BMRN;BIOMARIN PHARMACEUTICAL INC;Biotechnology;17604.68762;135371
+INCY;INCYTE CORP;Biotechnology;16615.6336;671924
+TECH;BIO-TECHNE Corp;Biotechnology;14547.0586;176917
+KITE;Kite Pharma, Inc.;Biotechnology;10280.706833;73743
+NBIX;Neurocrine Biosciences Inc;Biotechnology;10144.116;447972
+UTHR;UNITED THERAPEUTICS Corp;Biotechnology;9952.534;438343
+JAZZ;Jazz Pharmaceuticals plc;Biotechnology;9909.84192;364811
+SRPT;Sarepta Therapeutics, Inc.;Biotechnology;9436.31113;749127
+LEGN;Legend Biotech Corp;Biotechnology;6736.24776;1334960
+IONS;IONIS PHARMACEUTICALS INC;Biotechnology;6249.12;855206
+HALO;HALOZYME THERAPEUTICS INC;Biotechnology;6237.16352;365463
+EXEL;EXELIXIS, INC.;Biotechnology;6195.73217;289286
+ARNA;ARENA PHARMACEUTICALS INC;Biotechnology;6113.3886;826177
+CRSP;CRISPR Therapeutics AG;Biotechnology;5879.385853;791051
+TXG;10x Genomics, Inc.;Biotechnology;5266.461482;1250890
+ITCI;Intra-Cellular Therapies, Inc.;Biotechnology;5073.482146;825240
+ARWR;ARROWHEAD PHARMACEUTICALS, INC.;Biotechnology;5037.01539;952053
+ARRY;ARRAY BIOPHARMA INC;Biotechnology;4876.299278;50863
+NTLA;Intellia Therapeutics, Inc.;Biotechnology;4865.56191;1253298
+MRTX;Mirati Therapeutics, Inc.;Biotechnology;4577.6487;782022
+BEAM;Beam Therapeutics Inc.;Biotechnology;4462.562028;1253264
+GBT;Global Blood Therapeutics, Inc.;Biotechnology;4394.851064;687412
+ALKS;Alkermes PLC;Biotechnology;4333.54155;445699
+TSRO;TESARO, Inc.;Biotechnology;4126.319822;349753
+BPMC;Blueprint Medicines Corp;Biotechnology;4065.8376;781830
+ACT;Actavis, Inc.;Biotechnology;3665.984;353702
+CCXI;ChemoCentryx, Inc.;Biotechnology;3622.96124;795982
+ABCL;AbCellera Biologics Inc.;Biotechnology;3556.40544;1250893
+VIR;Vir Biotechnology, Inc.;Biotechnology;3533.123709;1291786
+FOLD;AMICUS THERAPEUTICS INC;Biotechnology;3500.727038;143587
+NVAX;NOVAVAX INC;Biotechnology;3350.77184;826389
+TWST;Twist Bioscience Corp;Biotechnology;2874.57709;1252815
+CORT;CORCEPT THERAPEUTICS INC;Biotechnology;2852.79676;724383
+ARVN;ARVINAS, INC.;Biotechnology;2791.936;947146
+ACAD;Acadia Pharmaceuticals Inc;Biotechnology;2741.65184;445591
+ARQL;ARQULE INC;Biotechnology;2414.6739;795983
+EQRX;EQRx, Inc.;Biotechnology;2284.872352;1334626
+CBM;CAMBREX CORP;Biotechnology;2023.124776;100602
+ECYT;ENDOCYTE INC;Biotechnology;1969.306426;760760
+KRYS;Krystal Biotech, Inc.;Biotechnology;1941.432692;1294979
+RCUS;Arcus Biosciences, Inc.;Biotechnology;1933.170462;790458
+IBRX;ImmunityBio, Inc.;Biotechnology;1810.861917;786262
+XNCR;Xencor Inc;Biotechnology;1807.186608;781832
+LGND;LIGAND PHARMACEUTICALS INC;Biotechnology;1799.80148;898544
+DVAX;DYNAVAX TECHNOLOGIES CORP;Biotechnology;1799.18128;138695
+FPRX;FIVE PRIME THERAPEUTICS INC;Biotechnology;1769.737102;378616
+ADPT;Adaptive Biotechnologies Corp;Biotechnology;1680.624124;1147630
+ISEE;IVERIC bio, Inc.;Biotechnology;1575.08092;131911
+PCVX;Vaxcyte, Inc.;Biotechnology;1546.013337;1253394
+FLGT;Fulgent Genetics, Inc.;Biotechnology;1525.99412;1252817
+IMGN;IMMUNOGEN INC;Biotechnology;1504.81584;82671
+AGIO;AGIOS PHARMACEUTICALS INC;Biotechnology;1502.059229;737501
+BGNE;BeiGene, Ltd.;Biotechnology;1483.681833;734219
+VCEL;Vericel Corp;Biotechnology;1411.011846;1253391
+KDNY;CHINOOK THERAPEUTICS, INC.;Biotechnology;1390.89852;781554
+RGNX;REGENXBIO Inc.;Biotechnology;1379.12089;778666
+FGEN;FIBROGEN INC;Biotechnology;1349.779;781665
+SLP;SIMULATIONS PLUS INC;Biotechnology;1286.4938;495377
+CPXX;Celator Pharmaceuticals Inc;Biotechnology;1246.561445;436095
+CDMO;Avid Bioservices, Inc.;Biotechnology;1195.69296;97638
+EDIT;Editas Medicine, Inc.;Biotechnology;1185.288237;1253292
+DCPH;Deciphera Pharmaceuticals, Inc.;Biotechnology;1143.314834;785694
+KURA;Kura Oncology, Inc.;Biotechnology;1054.8175;795981
+CHRS;Coherus BioSciences, Inc.;Biotechnology;1038.457661;540930
+TGTX;TG THERAPEUTICS, INC.;Biotechnology;1031.298105;785880
+INVA;Innoviva, Inc.;Biotechnology;1018.87709;942592
+MNKD;MANNKIND CORP;Biotechnology;997.47252;486138
+BNGO;Bionano Genomics, Inc;Biotechnology;962.31698;1253246
+SGMO;SANGAMO THERAPEUTICS, INC;Biotechnology;902.28222;773304
+GERN;GERON CORP;Biotechnology;896.588543;793173
+ITOS;iTeos Therapeutics, Inc.;Biotechnology;884.399532;1338980
+NKTR;NEKTAR THERAPEUTICS;Biotechnology;874.224;526216
+AVXL;ANAVEX LIFE SCIENCES CORP.;Biotechnology;869.414123;436223
+SRNE;Sorrento Therapeutics, Inc.;Biotechnology;849.54996;133865
+SRRA;Sierra Oncology, Inc.;Biotechnology;839.967191;809435
+ALT;Altimmune, Inc.;Biotechnology;838.895898;511510
+CSTL;CASTLE BIOSCIENCES INC;Biotechnology;837.43632;1252818
+SAVA;CASSAVA SCIENCES INC;Biotechnology;807.5916;989411
+LUNG;Pulmonx Corp;Biotechnology;795.944059;1253400
+STOK;Stoke Therapeutics, Inc.;Biotechnology;784.774576;1060042
+NSTG;NanoString Technologies Inc;Biotechnology;720.08277;1252928
+COGT;Cogent Biosciences, Inc.;Biotechnology;699.347334;808945
+SEER;Seer, Inc.;Biotechnology;680.52839;1253247
+ACLX;Arcellx, Inc.;Biotechnology;674.225033;1342109
+IMGO;Imago BioSciences, Inc.;Biotechnology;657.847808;1253390
+BSTC;BIOSPECIFICS TECHNOLOGIES CORP;Biotechnology;650.248866;822442
+CRBU;Caribou Biosciences, Inc.;Biotechnology;646.943159;1253332
+MXCT;MAXCYTE, INC.;Biotechnology;625.807243;1253397
+ORGO;Organogenesis Holdings Inc.;Biotechnology;624.00796;1253253
+STML;STEMLINE THERAPEUTICS INC;Biotechnology;621.202587;795984
+DYN;Dyne Therapeutics, Inc.;Biotechnology;616.637256;1154967
+CTIC;CTI BIOPHARMA CORP;Biotechnology;587.14189;809274
+MASS;908 Devices Inc.;Biotechnology;585.23222;1250892
+MRSN;Mersana Therapeutics, Inc.;Biotechnology;577.883713;808876
+QSI;Quantum-Si Inc;Biotechnology;567.121065;1253402
+ACET;Adicet Bio, Inc.;Biotechnology;561.451591;1154966
+CDXS;CODEXIS, INC.;Biotechnology;557.55952;1253238
+GTHX;G1 Therapeutics, Inc.;Biotechnology;553.529463;820499
+ICPT;INTERCEPT PHARMACEUTICALS INC;Biotechnology;534.20341;72077
+AKYA;Akoya Biosciences, Inc.;Biotechnology;526.196511;1250889
+VXRT;Vaxart, Inc.;Biotechnology;525.94172;625536
+ADXS;Advaxis, Inc.;Biotechnology;517.016529;950904
+LXRX;LEXICON PHARMACEUTICALS, INC.;Biotechnology;489.212;56235
+BLUE;bluebird bio, Inc.;Biotechnology;484.86704;787981
+ADMA;ADMA BIOLOGICS, INC.;Biotechnology;471.247644;976582
+RBOT;Vicarious Surgical Inc.;Biotechnology;423.34947;1253250
+BTAI;BioXcel Therapeutics, Inc.;Biotechnology;416.19643;818572
+ABSI;Absci Corp;Biotechnology;415.266305;1250894
+IDYA;IDEAYA Biosciences, Inc.;Biotechnology;415.218829;1253393
+TCRT;Alaunos Therapeutics, Inc.;Biotechnology;397.747952;795980
+ABUS;Arbutus Biopharma Corp;Biotechnology;368.900119;953888
+PGNX;PROGENICS PHARMACEUTICALS INC;Biotechnology;355.046195;795979
+ZY;Zymergen Inc.;Biotechnology;345.791282;1243193
+ANIK;Anika Therapeutics, Inc.;Biotechnology;336.65715;823284
+SLGC;SomaLogic, Inc.;Biotechnology;321.659214;1250897
+BLI;Berkeley Lights, Inc.;Biotechnology;313.292888;1250891
+SMLR;Semler Scientific, Inc.;Biotechnology;298.229916;1338984
+OMIC;Singular Genomics Systems, Inc.;Biotechnology;290.09397;1253398
+MIST;Milestone Pharmaceuticals Inc.;Biotechnology;290.030942;998596
+VKTX;Viking Therapeutics, Inc.;Biotechnology;289.69434;890836
+IMDZ;IMMUNE DESIGN CORP.;Biotechnology;282.936701;809437
+PDLI;PDL BIOPHARMA, INC.;Biotechnology;282.854041;533398
+MGNX;MACROGENICS INC;Biotechnology;276.846093;790123
+AVEO;AVEO PHARMACEUTICALS INC;Biotechnology;273.38675;809080
+OTLK;Outlook Therapeutics, Inc.;Biotechnology;271.212326;908645
+RIGL;RIGEL PHARMACEUTICALS INC;Biotechnology;268.54932;909018
+ALPN;ALPINE IMMUNE SCIENCES, INC.;Biotechnology;264.736665;819011
+VSTM;Verastem, Inc.;Biotechnology;255.45431;135964
+SPPI;SPECTRUM PHARMACEUTICALS INC;Biotechnology;239.326377;53529
+SNCE;Science 37 Holdings, Inc.;Biotechnology;232.855515;1253262
+GRPH;Graphite Bio, Inc.;Biotechnology;225.385937;1253293
+HROW;HARROW HEALTH, INC.;Biotechnology;223.532184;1154965
+PSNL;Personalis, Inc.;Biotechnology;212.320017;1252816
+EPZM;Epizyme, Inc.;Biotechnology;211.97547;138374
+DMTK;DermTech, Inc.;Biotechnology;204.060622;1253392
+EVLO;Evelo Biosciences, Inc.;Biotechnology;199.898403;807946
+CTXR;Citius Pharmaceuticals, Inc.;Biotechnology;185.435455;998532
+RNLX;Renalytix plc;Biotechnology;184.103079;1253387
+SCPH;scPharmaceuticals Inc.;Biotechnology;168.805036;1311963
+INMB;Inmune Bio, Inc.;Biotechnology;168.692353;1295082
+TSHA;Taysha Gene Therapies, Inc.;Biotechnology;163.781004;1146378
+XBIT;XBiotech Inc.;Biotechnology;150.978814;156298
+CELC;Celcuity Inc.;Biotechnology;150.051907;1253241
+PBYI;PUMA BIOTECHNOLOGY, INC.;Biotechnology;147.342681;668565
+TLSA;Tiziana Life Sciences plc;Biotechnology;144.013094;1203753
+SESN;Sesen Bio, Inc.;Biotechnology;143.61408;818918
+TFFP;TFF Pharmaceuticals, Inc.;Biotechnology;141.839017;1295083
+ADVM;Adverum Biotechnologies, Inc.;Biotechnology;138.6;702608
+INFI;INFINITY PHARMACEUTICALS, INC.;Biotechnology;136.193559;819348
+DTIL;PRECISION BIOSCIENCES INC;Biotechnology;135.229829;1078151
+CODX;Co-Diagnostics, Inc.;Biotechnology;133.460952;1346268
+CSBR;CHAMPIONS ONCOLOGY, INC.;Biotechnology;126.986019;241725
+CTMX;CytomX Therapeutics, Inc.;Biotechnology;109.456413;789985
+OCX;Oncocyte Corp;Biotechnology;103.99864;1253242
+ANVS;Annovis Bio, Inc.;Biotechnology;98.456911;1253389
+CRIS;CURIS INC;Biotechnology;97.150007;168118
+UBX;Unity Biotechnology, Inc.;Biotechnology;94.869511;893323
+BDSX;BIODESIX INC;Biotechnology;93.38882;1253248
+SURF;Surface Oncology, Inc.;Biotechnology;87.732144;808799
+XGN;EXAGEN INC.;Biotechnology;84.95141;1251651
+ISO;IsoPlexis Corp;Biotechnology;81.572927;1253260
+VTVT;vTv Therapeutics Inc.;Biotechnology;80.810516;817635
+LUMO;LUMOS PHARMA, INC.;Biotechnology;74.043038;809595
+MBIO;MUSTANG BIO, INC.;Biotechnology;73.092482;809799
+HARP;Harpoon Therapeutics, Inc.;Biotechnology;69.707802;1333937
+DNAY;Codex DNA, Inc.;Biotechnology;66.524994;1253399
+ONCT;Oncternal Therapeutics, Inc.;Biotechnology;65.74057;796059
+NH;NantHealth, Inc.;Biotechnology;63.552634;1252840
+SYRS;Syros Pharmaceuticals, Inc.;Biotechnology;61.16958;807944
+TYME;TYME TECHNOLOGIES, INC.;Biotechnology;60.272413;809189
+ATNX;Athenex, Inc.;Biotechnology;58.763202;785769
+PLSE;Pulse Biosciences, Inc.;Biotechnology;56.6856;1253396
+ZYNE;Zynerba Pharmaceuticals, Inc.;Biotechnology;55.071048;901704
+MACK;MERRIMACK PHARMACEUTICALS INC;Biotechnology;54.5787;819013
+MTEM;Molecular Templates, Inc.;Biotechnology;51.259922;778777
+BSTG;Biostage, Inc.;Biotechnology;51.098889;148380
+CRVS;Corvus Pharmaceuticals, Inc.;Biotechnology;50.277792;808943
+ODT;Odonate Therapeutics, Inc.;Biotechnology;50.037437;790464
+GLYC;GLYCOMIMETICS INC;Biotechnology;44.730277;790345
+BLCM;BELLICUM PHARMACEUTICALS, INC;Biotechnology;44.702317;808260
+CASI;CASI Pharmaceuticals, Inc.;Biotechnology;44.083861;877522
+AGLE;Aeglea BioTherapeutics, Inc.;Biotechnology;43.570787;640634
+CLRB;Cellectar Biosciences, Inc.;Biotechnology;38.92149;99062
+OMED;OncoMed Pharmaceuticals Inc;Biotechnology;34.434179;819110
+CLBS;CALADRIUS BIOSCIENCES, INC.;Biotechnology;32.68782;798466
+PSTI;PLURISTEM THERAPEUTICS INC;Biotechnology;32.136352;201828
+HGEN;KALOBIOS PHARMACEUTICALS INC;Biotechnology;26.148259;263238
+OPGN;OPGEN INC;Biotechnology;26.081727;1253028
+RGLS;Regulus Therapeutics Inc.;Biotechnology;25.133177;768206
+SIOX;Sio Gene Therapies Inc.;Biotechnology;25.080199;41996
+APVO;Aptevo Therapeutics Inc.;Biotechnology;21.801213;819111
+ACER;Acer Therapeutics Inc.;Biotechnology;21.322264;1053636
+APRE;Aprea Therapeutics, Inc.;Biotechnology;19.942415;1164127
+ALRN;AILERON THERAPEUTICS INC;Biotechnology;19.920774;815574
+FBRX;Forte Biosciences, Inc.;Biotechnology;18.655998;809598
+CYCC;Cyclacel Pharmaceuticals, Inc.;Biotechnology;17.330904;899362
+NERV;Minerva Neurosciences, Inc.;Biotechnology;16.714813;254280
+CALA;Calithera Biosciences, Inc.;Biotechnology;16.564479;817563
+TTPH;TETRAPHASE PHARMACEUTICALS INC;Biotechnology;15.979119;1077529
+ADIL;ADIAL PHARMACEUTICALS, INC.;Biotechnology;13.860138;807531
+NBY;NovaBay Pharmaceuticals, Inc.;Biotechnology;13.7111;910154
+MYO;MYOMO, INC.;Biotechnology;12.255124;1200988
+PTI;Patheon N.V.;Biotechnology;11.90117;233042
+EVFM;Evofem Biosciences, Inc.;Biotechnology;10.309544;988215
+LFVN;Lifevantage Corp;Biotechnology;7.943112;1241829
+PTE;PolarityTE;Biotechnology;6.744019;184064
+ABMC;AMERICAN BIO MEDICA CORP;Biotechnology;0.880413;160965
+PRTX;PROTALEX INC;Biotechnology;0.473254;95453
+EGLT;Egalet Corp;Biotechnology;0.09361;286194
+SCHW;Charles Schwab Corporation;Brokers, Exchanges & Other;146333.28;378109
+SPGI;S&P Global, Inc.;Brokers, Exchanges & Other;131404.26;378217
+MMC;MARSH & MCLENNAN COMPANIES, INC.;Brokers, Exchanges & Other;86983.79;85544
+CME;CME Group Inc.;Brokers, Exchanges & Other;73686.37986;378116
+AON;Aon plc;Brokers, Exchanges & Other;64203.3;67471
+ICE;Intercontinental Exchange;Brokers, Exchanges & Other;61971.48;378167
+MCO;MOODYS CORP /DE/;Brokers, Exchanges & Other;59637.369;88874
+MSCI;MSCI Inc.;Brokers, Exchanges & Other;40754.44126;549638
+AJG;GALLAGHER ARTHUR J & CO;Brokers, Exchanges & Other;39618.57602;66898
+NDAQ;NASDAQ OMX Group;Brokers, Exchanges & Other;31439.919;378192
+DB1.DE;Deutsche BÃ¶rse;Brokers, Exchanges & Other;31390.331094;854467
+WTW;Willis Towers Watson;Brokers, Exchanges & Other;24579.52;378243
+COIN;Coinbase Global, Inc.;Brokers, Exchanges & Other;18946.10556;1202161
+BRO;BROWN & BROWN INC;Brokers, Exchanges & Other;18889.02126;245531
+LPLA;LPL Financial Holdings Inc.;Brokers, Exchanges & Other;18318.25611;639823
+FDS;FACTSET RESEARCH SYSTEMS INC;Brokers, Exchanges & Other;16982.67246;91248
+CBOE;CBOE Holdings, Inc.;Brokers, Exchanges & Other;12747.496;120616
+ERIE;Erie Indemnity Co;Brokers, Exchanges & Other;11468.146519;446629
+AFRM;Affirm Holdings, Inc.;Brokers, Exchanges & Other;11236.01747;1242005
+MORN;Morningstar, Inc.;Brokers, Exchanges & Other;10977.168;979788
+ETFC;E*Trade;Brokers, Exchanges & Other;10891.207679;378132
+MKTX;MARKETAXESS HOLDINGS INC;Brokers, Exchanges & Other;10415.04808;118024
+HOOD;Robinhood Markets, Inc.;Brokers, Exchanges & Other;9373.266899;1249895
+IBKR;Interactive Brokers Group, Inc.;Brokers, Exchanges & Other;6505.58049;718957
+HLI;HOULIHAN LOKEY, INC.;Brokers, Exchanges & Other;5559.569585;65213
+LAZ;Lazard LTD;Brokers, Exchanges & Other;3873.398392;447656
+FLYW;Flywire Corp;Brokers, Exchanges & Other;3019.770103;1326823
+VIRT;Virtu Financial, Inc.;Brokers, Exchanges & Other;2681.749104;970570
+PJT;PJT Partners Inc.;Brokers, Exchanges & Other;1881.074984;158528
+SNEX;StoneX Group Inc.;Brokers, Exchanges & Other;1841.413785;728087
+BGCP;BGC Partners, Inc.;Brokers, Exchanges & Other;1561.68952;625540
+AMTD;TD AMERITRADE HOLDING CORP;Brokers, Exchanges & Other;1520.036415;356477
+LPRO;Open Lending Corp;Brokers, Exchanges & Other;1464.171592;1338985
+ITG;INVESTMENT TECHNOLOGY GROUP, INC.;Brokers, Exchanges & Other;1026.237611;142922
+AC;Associated Capital Group, Inc.;Brokers, Exchanges & Other;920.003;919941
+AMRK;A-Mark Precious Metals, Inc.;Brokers, Exchanges & Other;805.363152;259435
+TIGR;UP Fintech Holding Ltd;Brokers, Exchanges & Other;575.784097;1214646
+OPY;OPPENHEIMER HOLDINGS INC;Brokers, Exchanges & Other;463.870053;505723
+TST;THESTREET, INC.;Brokers, Exchanges & Other;34.367955;122759
+JCI;JOHNSON CONTROLS INC;Building Materials;41246.9;360440
+VMC;Vulcan Materials;Building Materials;23725.87;378238
+MLM;Martin Marietta Materials;Building Materials;23185.968;378186
+MAS;MASCO CORP /DE/;Building Materials;13393.56;255010
+BLDR;Builders FirstSource, Inc.;Building Materials;11791.86138;826504
+OC;Owens Corning;Building Materials;8959.68;985860
+BLD;TopBuild Corp;Building Materials;6642.436754;1055096
+EXP;EAGLE MATERIALS INC;Building Materials;5639.471345;110585
+LPX;LOUISIANA-PACIFIC CORP;Building Materials;4957.2;849042
+AVNT;AVIENT CORP;Building Materials;4527.042;1234038
+AWI;ARMSTRONG WORLD INDUSTRIES INC;Building Materials;4440.588;253579
+MTX;MINERALS TECHNOLOGIES INC;Building Materials;2179.888;1234779
+GFF;GRIFFON CORP;Building Materials;1726.88092;358146
+HEI.DE;HeidelbergCement;Building Materials;1648.295895;854470
+ROCK;GIBRALTAR INDUSTRIES, INC.;Building Materials;1602.70572;548420
+PGTI;PGT, Inc.;Building Materials;1352.57496;127570
+USCR;US CONCRETE INC;Building Materials;1256.150945;819568
+APOG;APOGEE ENTERPRISES, INC.;Building Materials;1005.7151;327543
+NX;Quanex Building Products CORP;Building Materials;858.7663;921442
+BXC;BlueLinx Holdings Inc.;Building Materials;764.3808;673388
+USG;Usg Corp;Building Materials;672.477456;449068
+ASPN;ASPEN AEROGELS INC;Building Materials;495.728288;491354
+AFI;Armstrong Flooring, Inc.;Building Materials;7.735856;155205
+ADP;AUTOMATIC DATA PROCESSING INC;Business Services;108722.724;591496
+FISV;Fiserv Inc;Business Services;71436.544;378146
+FIS;Fidelity National Information Services, Inc.;Business Services;62934.08;88558
+PAYX;PAYCHEX INC;Business Services;49916.079;106287
+CTAS;CINTAS CORP;Business Services;45914.88594;331923
+INFO;IHS Markit Ltd.;Business Services;43293.281034;330628
+GPN;GLOBAL PAYMENTS INC;Business Services;37874.34315;182201
+VRSK;Verisk Analytics;Business Services;32303.84867;378235
+FDC;FIRST DATA CORP;Business Services;29978.74;520475
+EFX;Equifax Inc.;Business Services;26350.78;378137
+EPAM;EPAM Systems, Inc.;Business Services;25614.9;923418
+BR;BROADRIDGE FINANCIAL SOLUTIONS, INC.;Business Services;20781.904;143497
+ROL;ROLLINS INC;Business Services;18457.33923;744726
+FLT;FLEETCOR TECHNOLOGIES INC;Business Services;17796.58958;740486
+TRU;TransUnion;Business Services;16129.575;700411
+IRM;Iron Mountain Incorporated;Business Services;15704.06496;378171
+JKHY;Henry Jack & Associates Inc;Business Services;15352.808598;447566
+BAH;Booz Allen Hamilton Holding Corp;Business Services;12980.348015;182296
+SNX;SYNNEX CORP;Business Services;10002.28713;84398
+NLSN;Nielsen Holdings plc;Business Services;9922.6271;333689
+CSC;COMPUTER SCIENCES CORP;Business Services;9733.605439;218339
+G;Genpact LTD;Business Services;8951.666709;446906
+WEX;WEX Inc.;Business Services;7401.9954;749233
+DNB;Dun & Bradstreet Holdings, Inc.;Business Services;7062.986;125293
+DXC;DXC Technology Co;Business Services;6202.566373;740485
+CLGX;CORELOGIC, INC.;Business Services;5889.47856;896316
+TNET;TRINET GROUP INC;Business Services;5640.76;797860
+TMX;TERMINIX GLOBAL HOLDINGS INC;Business Services;5476.005;749230
+EEFT;EURONET WORLDWIDE INC;Business Services;5416.628668;484269
+MMS;Maximus Inc;Business Services;4003.22286;447855
+ABM;ABM INDUSTRIES INC /DE/;Business Services;3194.016;199984
+SABR;Sabre Corp;Business Services;2658.30422;980330
+EVTC;EVERTEC, Inc.;Business Services;2499.545445;961219
+WSTC;WEST CORP;Business Services;1966.023771;820561
+BV;BrightView Holdings, Inc.;Business Services;1124.16122;977402
+HCSG;HEALTHCARE SERVICES GROUP INC;Business Services;1114.77;923327
+LABL;MULTI COLOR Corp;Business Services;1027.373084;35331
+DLX;DELUXE CORP;Business Services;1017.85534;639822
+CNDT;CONDUENT Inc;Business Services;1002.08895;716302
+CLCT;COLLECTORS UNIVERSE INC;Business Services;852.638338;512060
+FORR;FORRESTER RESEARCH, INC.;Business Services;843.34499;506742
+RGP;RESOURCES CONNECTION INC;Business Services;707.91636;328011
+VEC;Vectrus, Inc.;Business Services;385.08184;710316
+SRT;StarTek, Inc.;Business Services;164.76156;144111
+PAYS;Paysign, Inc.;Business Services;149.219999;921205
+HIL;Hill International, Inc.;Business Services;99.6846;420734
+ALJJ;ALJ REGIONAL HOLDINGS INC;Business Services;82.69755;374775
+PBSV;Pharma-Bio Serv, Inc.;Business Services;16.085303;242378
+LIN;LINDE PLC;Chemicals;156467.90786;1117109
+SHW;Sherwin-Williams;Chemicals;66117.66;378215
+APD;AIR PRODUCTS & CHEMICALS INC /DE/;Chemicals;60725.88;185217
+ECL;Ecolab Inc.;Chemicals;50468.402;378133
+BAS.DE;BASF;Chemicals;41801.908203;854462
+DOW;Dow Chemical;Chemicals;40719.027;378129
+ALB;ALBEMARLE CORP;Chemicals;32887.34396;132877
+PPG;PPG INDUSTRIES INC;Chemicals;32463.886;256062
+IFF;Intl Flavors & Fragrances;Chemicals;31760.25;378169
+DD;DUPONT DE NEMOURS, INC.;Chemicals;31678.472;546332
+LYB;LyondellBasell;Chemicals;30527.6;378183
+FMC;FMC Corporation;Chemicals;14402.016;378149
+WLK;WESTLAKE CHEMICAL CORP;Chemicals;13640.095509;700084
+EMN;EASTMAN CHEMICAL CO;Chemicals;13146.39;122948
+CE;Celanese Corp;Chemicals;12772.772;109593
+RPM;RPM INTERNATIONAL INC/DE/;Chemicals;12196.80619;328948
+ARG;Airgas, Inc.;Chemicals;10378.17;442344
+OLN;Olin Corp;Chemicals;9225.216;448155
+1COV.DE;Covestro;Chemicals;6478.924329;854465
+HUN;Huntsman Corp;Chemicals;6352.95;447408
+AXTA;Axalta Coating Systems Ltd.;Chemicals;6166.974;702906
+ASH;Ashland Global Holdings Inc.;Chemicals;6051.92;136913
+CC;Chemours Co;Chemicals;5978.573993;536512
+VSM;Versum Materials, Inc.;Chemicals;5790.175756;375160
+LTHM;Livent Corp.;Chemicals;5106.29;920443
+ESI;Element Solutions Inc;Chemicals;5097.673;687589
+UNVR;Univar Solutions Inc.;Chemicals;4637.736;1234799
+GRA;W R GRACE & CO;Chemicals;4636.949624;127797
+CBT;CABOT CORP;Chemicals;4400.971;1050281
+BCPC;BALCHEM CORP;Chemicals;4378.40265;700317
+FUL;FULLER H B CO;Chemicals;3802.03179;256748
+PX;Praxair Inc.;Chemicals;3768.038142;378201
+SXT;SENSIENT TECHNOLOGIES CORP;Chemicals;3717.612;134902
+KWR;QUAKER CHEMICAL CORP;Chemicals;3542.432769;116818
+NEU;NEWMARKET CORP;Chemicals;3145.8588;1067475
+NGVT;Ingevity Corp;Chemicals;2855.16;979804
+TROX;Tronox Ltd;Chemicals;2540.55447;627774
+GPRE;Green Plains Inc.;Chemicals;2026.92126;627777
+FOE;FERRO CORP;Chemicals;1820.64519;350054
+KRO;KRONOS WORLDWIDE INC;Chemicals;1793.715;726370
+KRA;Kraton Corp;Chemicals;1494.56052;985521
+SHLM;SCHULMAN A INC;Chemicals;1298.402688;671141
+UAN;CVR PARTNERS, LP;Chemicals;1193.6701;1340565
+KMG;KMG CHEMICALS INC;Chemicals;1184.242272;51451
+LXU;LSB INDUSTRIES INC;Chemicals;1182.18877;926950
+TSE;Trinseo S.A.;Chemicals;1179.75;530044
+AMRS;AMYRIS, INC.;Chemicals;1104.261085;1250896
+WLKP;Westlake Chemical Partners LP;Chemicals;882.473265;1296417
+GEVO;Gevo, Inc.;Chemicals;751.119779;1059126
+RYAM;RAYONIER ADVANCED MATERIALS INC.;Chemicals;343.728299;124551
+FF;FutureFuel Corp.;Chemicals;330.412485;824527
+FTK;FLOTEK INDUSTRIES INC/CN/;Chemicals;86.09015;1145423
+TLCC;TWINLAB CONSOLIDATED HOLDINGS, INC.;Chemicals;25.909283;156530
+ARLP;ALLIANCE RESOURCE PARTNERS LP;Coal;2938.209559;786231
+SXC;SunCoke Energy, Inc.;Coal;592.334;112269
+NC;NACCO INDUSTRIES INC;Coal;319.26024;528497
+HNRG;HALLADOR ENERGY CO;Coal;198.8711;684673
+WLB;WESTMORELAND COAL Co;Coal;2.815746;596565
+CSCO;CISCO SYSTEMS, INC.;Communication Equipment;195638.91;82202
+LHX;L3HARRIS TECHNOLOGIES, INC.;Communication Equipment;45975.293;248838
+VOD;VODAFONE GROUP PUBLIC LTD CO;Communication Equipment;43634.048;1205636
+MSI;Motorola Solutions, Inc.;Communication Equipment;42901.848;333970
+UI;Ubiquiti Inc.;Communication Equipment;20132.19869;503387
+HPE;Hewlett Packard Enterprise Co;Communication Equipment;19539.65;47023
+JNPR;JUNIPER NETWORKS INC;Communication Equipment;9341.1;385619
+CIEN;CIENA CORP;Communication Equipment;8466.71911;49697
+ZAYO;Zayo Group Holdings, Inc.;Communication Equipment;8314.158297;694556
+LITE;Lumentum Holdings Inc.;Communication Equipment;6478.08;183087
+IRDM;Iridium Communications Inc.;Communication Equipment;5927.24918;1011100
+SLAB;SILICON LABORATORIES INC.;Communication Equipment;5163.25788;1033431
+ACIA;Acacia Communications, Inc.;Communication Equipment;4902.208489;353923
+ARRS;Arris Group Inc;Communication Equipment;4643.118892;445801
+BB;BLACKBERRY Ltd;Communication Equipment;4042.69866;1108872
+SMCI;Super Micro Computer, Inc.;Communication Equipment;3392.88168;175410
+FNSR;FINISAR CORP;Communication Equipment;2854.967802;198959
+COMM;Commscope Holding Company Inc;Communication Equipment;2231.7;446289
+SATS;EchoStar CORP;Communication Equipment;1795.03986;823480
+EXTR;EXTREME NETWORKS INC;Communication Equipment;1763.76289;187330
+CLFD;Clearfield, Inc.;Communication Equipment;1635.339422;824450
+BLOX;INFOBLOX INC;Communication Equipment;1580.7049;252645
+GIMO;Gigamon Inc.;Communication Equipment;1437.160533;252563
+INFN;INFINERA CORP;Communication Equipment;1247.79711;346530
+ADTN;ADTRAN INC;Communication Equipment;1219.72409;998420
+CEVA;CEVA INC;Communication Equipment;792.47673;1335016
+NTGR;NETGEAR, INC;Communication Equipment;746.54344;591520
+ARLO;Arlo Technologies, Inc.;Communication Equipment;611.55072;1251690
+CMBM;Cambium Networks Corp;Communication Equipment;538.470958;998419
+SHOR;ShoreTel Inc;Communication Equipment;518.647103;231330
+CASA;Casa Systems Inc;Communication Equipment;397.7672;1007468
+DZSI;DZS INC.;Communication Equipment;380.00718;202955
+AVNW;AVIAT NETWORKS, INC.;Communication Equipment;379.75622;208290
+CMTL;COMTECH TELECOMMUNICATIONS CORP /DE/;Communication Equipment;337.96672;48404
+CAMP;CalAmp Corp.;Communication Equipment;223.26875;75639
+LTRX;LANTRONIX INC;Communication Equipment;219.21;172507
+HEAR;Turtle Beach Corp;Communication Equipment;173.415;817639
+ITI;ITERIS, INC.;Communication Equipment;141.973;59550
+PCTI;PC TEL INC;Communication Equipment;89.90445;919132
+AVYA;Avaya Holdings Corp.;Communication Equipment;60.984;934338
+IDSY;ID SYSTEMS INC;Communication Equipment;60.877671;250487
+FEIM;FREQUENCY ELECTRONICS INC;Communication Equipment;60.229;118109
+TESS;TESSCO TECHNOLOGIES INC;Communication Equipment;48.676263;42813
+BKTI;BK Technologies;Communication Equipment;40.483874;546874
+FKWL;FRANKLIN WIRELESS CORP;Communication Equipment;34.203126;286530
+OCC;OPTICAL CABLE CORP;Communication Equipment;26.739836;232540
+WSTL;WESTELL TECHNOLOGIES INC;Communication Equipment;14.967559;543789
+CMRO;COMARCO INC;Communication Equipment;0.292283;692525
+VZ;VERIZON COMMUNICATIONS INC;Communication Services;192405.8;101219
+TMUS;T-Mobile US, Inc.;Communication Services;183864.193737;515267
+CMCSA;COMCAST CORP;Communication Services;182961.175917;106366
+T;AT&T INC.;Communication Services;133128.33;66790
+AMT;AMERICAN TOWER CORP /MA/;Communication Services;127746.1772;68339
+DTE.DE;Deutsche Telekom;Communication Services;93290.143452;1099105
+CHTR;Charter Communications;Communication Services;79208.077542;378110
+CCI;Crown Castle International Corp.;Communication Services;78940.23;378122
+YHOO;YAHOO INC;Communication Services;50382.103262;257807
+SBAC;SBA COMMUNICATIONS CORP;Communication Services;37535.0355;100897
+LBRDA;Liberty Broadband Corp;Communication Services;21757.26702;1174185
+LVLT;Level 3 Communications;Communication Services;19456.961319;378179
+LBTYA;Liberty Global plc;Communication Services;12193.092804;670717
+LUMN;Lumen Technologies, Inc.;Communication Services;11959.06584;373834
+DISH;DISH Network CORP;Communication Services;10284.61863;741324
+CABO;Cable One, Inc.;Communication Services;8294.723149;1053849
+FYBR;FRONTIER COMMUNICATIONS CORP;Communication Services;6787.90441;388949
+RAX;RACKSPACE HOSTING, INC.;Communication Services;4043.536;53986
+SPT;Sprout Social, Inc.;Communication Services;3488.179776;1238783
+CCOI;COGENT COMMUNICATIONS HOLDINGS, INC.;Communication Services;2867.769942;125781
+USM;UNITED STATES CELLULAR CORP;Communication Services;2628.16;903238
+IDCC;InterDigital, Inc.;Communication Services;1688.52976;549215
+SHEN;SHENANDOAH TELECOMMUNICATIONS CO/VA/;Communication Services;1209.78684;1097754
+CBB;CINCINNATI BELL INC;Communication Services;788.250052;618601
+CNSL;Consolidated Communications Holdings, Inc.;Communication Services;756.14807;897291
+IDT;IDT CORP;Communication Services;720.0478;535487
+WIFI;BOINGO WIRELESS INC;Communication Services;626.06663;651519
+RBBN;Ribbon Communications Inc.;Communication Services;506.1403;909370
+OOMA;OOMA INC;Communication Services;333.28511;208053
+HCOM;Hawaiian Telcom Holdco, Inc.;Communication Services;291.446781;692076
+HMTV;HEMISPHERE MEDIA GROUP, INC.;Communication Services;287.52212;652016
+ALSK;ALASKA COMMUNICATIONS SYSTEMS GROUP INC;Communication Services;184.530934;899013
+CALL;MAGICJACK VOCALTEC LTD;Communication Services;140.872752;144735
+SPOK;Spok Holdings, Inc;Communication Services;140.021915;997662
+GTT;GTT Communications, Inc.;Communication Services;138.81411;100512
+VATE;INNOVATE Corp.;Communication Services;129.091;625571
+OTEL;OTELCO INC.;Communication Services;40.171862;969956
+JCS;COMMUNICATIONS SYSTEMS INC;Communication Services;19.349506;945747
+WIN;WINDSTREAM HOLDINGS, INC.;Communication Services;14.619295;625612
+TEUM;PARETEUM Corp;Communication Services;0;890308
+AAPL;APPLE INC;Computer Hardware;2796674.37335;111052
+EMC;EMC CORP;Computer Hardware;56846.261843;261451
+APH;AMPHENOL CORP /DE/;Computer Hardware;47439.634;65820
+TEL;TE Connectivity Ltd.;Computer Hardware;44258.9;104745
+ANET;Arista Networks, Inc.;Computer Hardware;39850.41214;536189
+DELL;Dell Technologies Inc.;Computer Hardware;37074.17;59180
+HPQ;HP INC;Computer Hardware;36225;184360
+GLW;CORNING INC /NY;Computer Hardware;31511.34;261761
+KEYS;Keysight Technologies, Inc.;Computer Hardware;31225.29;186556
+FTV;Fortive Corp;Computer Hardware;24669.538;378151
+GRMN;GARMIN LTD;Computer Hardware;19156.43527;388839
+TRMB;TRIMBLE INC.;Computer Hardware;18063.792;627855
+STX;Seagate Technology;Computer Hardware;17434.05;378212
+NTAP;NetApp, Inc.;Computer Hardware;16598.94;183964
+SNDK;SANDISK CORP;Computer Hardware;15459.609402;505727
+WDC;WESTERN DIGITAL CORP;Computer Hardware;15362.88;250582
+LOGI;LOGITECH INTERNATIONAL SA;Computer Hardware;9579.37743;353811
+JBL;JABIL CIRCUIT INC;Computer Hardware;8829.756;79450
+FLEX;FLEXTRONICS INTERNATIONAL LTD.;Computer Hardware;8592.08;116586
+PSTG;Pure Storage, Inc.;Computer Hardware;8480.01275;40474
+HAR;Harman Int'l Industries;Computer Hardware;7793.119675;378160
+ARW;Arrow Electronics Inc;Computer Hardware;7577.16426;445806
+FLIR;FLIR SYSTEMS INC;Computer Hardware;7565.007314;367930
+ST;Sensata Technologies Holding plc;Computer Hardware;7129.09212;749178
+ADT;ADT Inc.;Computer Hardware;6927.8443;54871
+COHR;COHERENT INC;Computer Hardware;6533.57124;365654
+MKSI;MKS Instruments Inc;Computer Hardware;6521.913;447843
+LFUS;LITTELFUSE INC /DE;Computer Hardware;6177.56384;132253
+NOVT;NOVANTA INC;Computer Hardware;5591.0166;728364
+BRCD;BROCADE COMMUNICATIONS SYSTEMS INC;Computer Hardware;5267.879386;186307
+TECD;TECH DATA CORP;Computer Hardware;5166.926938;181744
+AVT;AVNET INC;Computer Hardware;4349.7123;884659
+TDC;Teradata Corp.;Computer Hardware;3691.845;378223
+AEIS;ADVANCED ENERGY INDUSTRIES INC;Computer Hardware;3617.6784;574583
+SANM;SANMINA CORP;Computer Hardware;3039.2796;418072
+BMI;BADGER METER INC;Computer Hardware;2991.733674;252337
+VSAT;VIASAT INC;Computer Hardware;2977.71629;986214
+MRCY;MERCURY SYSTEMS INC;Computer Hardware;2921.83074;166196
+ENS;EnerSys;Computer Hardware;2912.552254;35886
+GDI;GARDNER DENVER INC;Computer Hardware;2496.806309;668481
+PI;IMPINJ INC;Computer Hardware;2455.42424;182875
+ITRI;ITRON INC /WA/;Computer Hardware;2420.49486;693852
+ENR;ENERGIZER HOLDINGS, INC.;Computer Hardware;2289.443;674540
+FIT;FITBIT INC;Computer Hardware;1888.205679;642125
+OSIS;OSI SYSTEMS INC;Computer Hardware;1780.446252;344473
+TTMI;TTM TECHNOLOGIES INC;Computer Hardware;1683.87933;626042
+IRBT;IROBOT CORP;Computer Hardware;1618.7956;675457
+MEI;METHODE ELECTRONICS INC;Computer Hardware;1607.186237;64377
+KEM;KEMET CORP;Computer Hardware;1592.014788;641260
+DDD;3D SYSTEMS CORP;Computer Hardware;1548.61616;545133
+CRAY;CRAY INC;Computer Hardware;1449.914853;941302
+QLGC;QLOGIC CORP;Computer Hardware;1335.28844;80382
+GPRO;GoPro, Inc.;Computer Hardware;1076.15115;114240
+MLAB;MESA LABORATORIES INC /CO;Computer Hardware;1056.1819;43619
+BHE;BENCHMARK ELECTRONICS INC;Computer Hardware;992.13054;95106
+SSNI;SILVER SPRING NETWORKS INC;Computer Hardware;880.10502;331528
+MVIS;MICROVISION, INC.;Computer Hardware;877.41378;815811
+SCSC;SCANSOURCE INC;Computer Hardware;876.28625;177685
+FARO;FARO TECHNOLOGIES INC;Computer Hardware;711.489796;740727
+TRNS;TRANSCAT INC;Computer Hardware;609.86609;60740
+KE;Kimball Electronics, Inc.;Computer Hardware;580.59805;175788
+AMOT;ALLIED MOTION TECHNOLOGIES INC;Computer Hardware;530.75713;126799
+PCMI;PCM, INC.;Computer Hardware;431.595963;898543
+PLPC;PREFORMED LINE PRODUCTS CO;Computer Hardware;408.5312;728955
+IIN;INTRICON CORP;Computer Hardware;221.72328;519102
+MXWL;MAXWELL TECHNOLOGIES INC;Computer Hardware;208.68202;755086
+LUNA;LUNA INNOVATIONS INC;Computer Hardware;206.889548;816577
+AMSC;AMERICAN SUPERCONDUCTOR CORP /DE/;Computer Hardware;166.738;33387
+HURC;HURCO COMPANIES INC;Computer Hardware;165.668;188434
+IVAC;INTEVAC INC;Computer Hardware;122.68808;639373
+WATT;Energous Corp;Computer Hardware;111.599159;816792
+SOTK;SONO TEK CORP;Computer Hardware;84.151086;94282
+LGL;LGL GROUP INC;Computer Hardware;78.104771;528980
+HPJ;Highpower International, Inc.;Computer Hardware;75.157653;163221
+RFIL;R F INDUSTRIES LTD;Computer Hardware;73.887192;241093
+PRCP;PERCEPTRON INC/MI;Computer Hardware;68.163443;210612
+RSYS;RADISYS CORP;Computer Hardware;68.147318;342891
+LPTH;LIGHTPATH TECHNOLOGIES INC;Computer Hardware;41.593472;246855
+SCND;SCIENTIFIC INDUSTRIES INC;Computer Hardware;37.457229;331831
+ESP;ESPEY MFG & ELECTRONICS CORP;Computer Hardware;36.620677;230667
+PPSI;PIONEER POWER SOLUTIONS, INC.;Computer Hardware;34.63168;88673
+SGMA;SIGMATRON INTERNATIONAL INC;Computer Hardware;32.618233;231993
+IEHC;IEH CORPORATION;Computer Hardware;29.035575;248180
+SVT;SERVOTRONICS INC /DE/;Computer Hardware;27.4258;250129
+SMIT;SCHMITT INDUSTRIES INC;Computer Hardware;15.62792;332324
+MIND;MITCHAM INDUSTRIES INC;Computer Hardware;11.2955;198210
+VIDE;VIDEO DISPLAY CORP;Computer Hardware;7.9353;95336
+CGNX;COGNEX CORP;Computer Hardware;0.016538;710555
+TDY;TELEDYNE TECHNOLOGIES INC;Conglomerates;19330.425;1164973
+SEB;Seaboard Corp;Conglomerates;4864.848005;448625
+CODI;Compass Diversified Holdings;Conglomerates;1733.68125;705587
+LIVE;LIVE VENTURES Inc;Conglomerates;88.012342;655099
+ACN;Accenture plc;Consulting;202973.366005;61372
+FCN;FTI CONSULTING, INC;Consulting;5597.89969;1057788
+CBZ;CBIZ, Inc.;Consulting;2464.75452;1333026
+PLUS;EPLUS INC;Consulting;1400.94692;1234044
+URI;UNITED RENTALS INC /DE;Consulting & Outsourcing;24599.975;102754
+UHAL;Amerco;Consulting & Outsourcing;11581.339982;449042
+ALLE;Allegion plc;Consulting & Outsourcing;9566.172;69109
+EXPO;EXPONENT INC;Consulting & Outsourcing;5482.65858;1084550
+MSA;MSA Safety Inc;Consulting & Outsourcing;5210.37951;898420
+AL;AIR LEASE CORP;Consulting & Outsourcing;4558.893805;182952
+R;Ryder System;Consulting & Outsourcing;4289.344718;378210
+HRI;HERC HOLDINGS INC;Consulting & Outsourcing;3903.502;535488
+BCO;BRINKS CO;Consulting & Outsourcing;2890.026;494050
+BRC;BRADY CORP;Consulting & Outsourcing;2596.58234;246429
+KTOS;KRATOS DEFENSE & SECURITY SOLUTIONS, INC.;Consulting & Outsourcing;2016.08;895821
+RCII;RENT A CENTER INC DE;Consulting & Outsourcing;1685.81756;515845
+NSSC;NAPCO SECURITY TECHNOLOGIES, INC;Consulting & Outsourcing;969.6192;198892
+AAN;Aaron's Company, Inc.;Consulting & Outsourcing;465.93;441241
+MTMT;Mega Matrix Corp.;Consulting & Outsourcing;110.420275;696963
+ASCMA;Ascent Capital Group, Inc.;Consulting & Outsourcing;10.252517;707350
+PG;PROCTER & GAMBLE Co;Consumer Packaged Goods;378318.369;133209
+EL;ESTEE LAUDER COMPANIES INC;Consumer Packaged Goods;100007.042;172930
+MDLZ;Mondelez International;Consumer Packaged Goods;91618.44;378190
+CL;COLGATE PALMOLIVE CO;Consumer Packaged Goods;69203.778;255327
+KRFT;Kraft Foods Group, Inc.;Consumer Packaged Goods;52203.188776;359197
+ADM;ARCHER DANIELS MIDLAND CO;Consumer Packaged Goods;49004.28;66997
+HSY;HERSHEY CO;Consumer Packaged Goods;47597.76672;248677
+KHC;Kraft Heinz Co;Consumer Packaged Goods;47566.75;693432
+GIS;GENERAL MILLS INC;Consumer Packaged Goods;47555.904;78526
+KMB;KIMBERLY CLARK CORP;Consumer Packaged Goods;46300.43;384594
+HEN.DE;Henkel;Consumer Packaged Goods;28333.389001;854471
+HRL;HORMEL FOODS CORP /DE/;Consumer Packaged Goods;27583.70928;375369
+K;KELLOGG CO;Consumer Packaged Goods;25881.9;97995
+MKC;MCCORMICK & CO INC;Consumer Packaged Goods;24763.466;251282
+BEI.DE;Beiersdorf;Consumer Packaged Goods;23748.686152;854463
+TSN;TYSON FOODS INC;Consumer Packaged Goods;23724.01;138054
+CHD;Church & Dwight;Consumer Packaged Goods;21436.136;378113
+CLX;CLOROX CO /DE/;Consumer Packaged Goods;18452.4602;218764
+CAG;CONAGRA FOODS INC /DE/;Consumer Packaged Goods;17119.592;326285
+SJM;J M SMUCKER Co;Consumer Packaged Goods;15458.372;254348
+CPB;CAMPBELL SOUP CO;Consumer Packaged Goods;15257.69;249099
+BG;Bunge LTD;Consumer Packaged Goods;14183.280694;445920
+LW;Lamb Weston Holdings, Inc.;Consumer Packaged Goods;11942.925;1077538
+NWL;Newell Rubbermaid Co.;Consumer Packaged Goods;8863.596;378194
+PPC;PILGRIMS PRIDE CORP;Consumer Packaged Goods;7345.58496;423305
+COTY;COTY INC.;Consumer Packaged Goods;6508.435;376164
+INGR;Ingredion Inc;Consumer Packaged Goods;6330.576;610276
+FLO;FLOWERS FOODS INC;Consumer Packaged Goods;5938.02642;531177
+POST;Post Holdings, Inc.;Consumer Packaged Goods;5456.536;625659
+SAFM;SANDERSON FARMS INC;Consumer Packaged Goods;4502.076;684669
+LANC;LANCASTER COLONY CORP;Consumer Packaged Goods;4153.22362;253076
+SMPL;Simply Good Foods Co;Consumer Packaged Goods;3373.316965;858017
+HELE;HELEN OF TROY LTD;Consumer Packaged Goods;3355.65765;91621
+BRBR;BELLRING BRANDS, INC.;Consumer Packaged Goods;3303.912;1011103
+JJSF;J&J SNACK FOODS CORP;Consumer Packaged Goods;3025.46546;968241
+HLF;HERBALIFE LTD.;Consumer Packaged Goods;2949.928;335043
+THS;TreeHouse Foods, Inc.;Consumer Packaged Goods;2765.84;532132
+IPAR;INTER PARFUMS INC;Consumer Packaged Goods;2709.15156;853111
+CALM;CAL-MAINE FOODS INC;Consumer Packaged Goods;2661.8705;776100
+MGPI;MGP INGREDIENTS INC;Consumer Packaged Goods;2504.751508;968242
+TR;TOOTSIE ROLL INDUSTRIES INC;Consumer Packaged Goods;2484.7778;527072
+AVP;AVON PRODUCTS INC;Consumer Packaged Goods;2483.741938;335142
+CENT;CENTRAL GARDEN & PET CO;Consumer Packaged Goods;2422.2835;239618
+HAIN;HAIN CELESTIAL GROUP INC;Consumer Packaged Goods;2310.46452;1234772
+BYND;BEYOND MEAT, INC.;Consumer Packaged Goods;2277.844166;917697
+FRPT;Freshpet, Inc.;Consumer Packaged Goods;2221.10412;546551
+BGS;B&G Foods, Inc.;Consumer Packaged Goods;1704.25952;327019
+USNA;USANA HEALTH SCIENCES INC;Consumer Packaged Goods;1404.63499;741592
+COCO;Vita Coco Company, Inc.;Consumer Packaged Goods;875.010524;1334644
+VITL;Vital Farms, Inc.;Consumer Packaged Goods;561.58271;1299760
+REV;REVLON INC /DE/;Consumer Packaged Goods;467.554539;639819
+NUTR;NUTRACEUTICAL INTERNATIONAL CORP;Consumer Packaged Goods;386.524558;357986
+ALCO;ALICO INC;Consumer Packaged Goods;261.4678;798086
+NATR;NATURES SUNSHINE PRODUCTS INC;Consumer Packaged Goods;202.61448;687929
+BRID;BRIDGFORD FOODS CORP;Consumer Packaged Goods;130.615612;33021
+FARM;FARMER BROTHERS CO;Consumer Packaged Goods;91.979247;968243
+SNAK;INVENTURE FOODS, INC.;Consumer Packaged Goods;80.776;86600
+UG;UNITED GUARDIAN INC;Consumer Packaged Goods;72.957786;512245
+NAII;NATURAL ALTERNATIVES INTERNATIONAL INC;Consumer Packaged Goods;66.281549;257524
+NHTC;NATURAL HEALTH TRENDS CORP;Consumer Packaged Goods;60.70496;511953
+MMMB;MamaMancini's Holdings, Inc.;Consumer Packaged Goods;48.632572;233893
+RMCF;Rocky Mountain Chocolate Factory, Inc.;Consumer Packaged Goods;42.70374;515680
+SANW;S&W Seed Co;Consumer Packaged Goods;35.768776;246310
+PURE;PURE BIOSCIENCE, INC.;Consumer Packaged Goods;20.222839;53064
+CYAN;CYANOTECH CORP;Consumer Packaged Goods;16.62672;65022
+JVA;COFFEE HOLDING CO INC;Consumer Packaged Goods;15.812819;40037
+TIS;Orchids Paper Products CO /DE;Consumer Packaged Goods;13.231232;693955
+YGYI;Youngevity International, Inc.;Consumer Packaged Goods;4.077015;858111
+DFODQ;DEAN FOODS CO;Consumer Packaged Goods;3.677601;824643
+V;VISA INC.;Credit Services;359149.56;107326
+MA;Mastercard Inc;Credit Services;348831.75;331628
+AXP;AMERICAN EXPRESS CO;Credit Services;125169.95;413080
+PYPL;PayPal Holdings, Inc.;Credit Services;119841.92;109664
+COF;Capital One Financial;Credit Services;45167.952;378103
+DFS;Discover Financial Services;Credit Services;31483.95;378127
+TSS;Total System Services;Credit Services;23585.738917;378227
+SYF;Synchrony Financial;Credit Services;19376.934;493399
+CACC;CREDIT ACCEPTANCE CORP;Credit Services;8133.587228;980324
+WU;Western Union Co;Credit Services;6384.417;378242
+OMF;OneMain Holdings, Inc.;Credit Services;5005.244555;687414
+SLM;SLM CORP;Credit Services;4642.66564;103225
+UPST;Upstart Holdings, Inc.;Credit Services;3041.496178;1204606
+NAVI;NAVIENT CORP;Credit Services;2703.54;551008
+BFH;BREAD FINANCIAL HOLDINGS, INC.;Credit Services;2225.562;68960
+PSFE;Paysafe Ltd;Credit Services;1635.589983;1266886
+GDOT;GREEN DOT CORP;Credit Services;1259.2188;786096
+ENVA;Enova International, Inc.;Credit Services;1253.73426;625336
+PRG;PROG Holdings, Inc.;Credit Services;1135.3336;1234787
+NICK;NICHOLAS FINANCIAL INC;Credit Services;68.81808;141389
+TSSI;TSS, Inc.;Credit Services;10.56272;363007
+TCNT;TOUCAN INTERACTIVE CORP;Credit Services;3.621;658757
+BRK-A;BERKSHIRE HATHAWAY INC;Diversified Holdings;680280.4939;71306
+MRK.DE;Merck Group;Diversified Holdings;81376.361485;1117110
+CW;CURTISS WRIGHT CORP;Diversified Holdings;5728.22674;1057791
+MARA;Marathon Patent Group, Inc.;Diversified Holdings;1847.301506;914944
+RIOT;Riot Blockchain, Inc.;Diversified Holdings;880.90721;1072404
+BH;Biglari Holdings Inc.;Diversified Holdings;210.613176;995149
+DFCO;DALRADA FINANCIAL CORP;Diversified Holdings;11.940015;1077526
+JNJ;JOHNSON & JOHNSON;Drug Manufacturers;440644.661962;89661
+LLY;Lilly (Eli) & Co.;Drug Manufacturers;279372.093;378181
+PFE;PFIZER INC;Drug Manufacturers;278866.98;262090
+ABBV;AbbVie Inc.;Drug Manufacturers;252076.538565;61199
+MRK;Merck & Co., Inc.;Drug Manufacturers;229283.29;262201
+BMY;BRISTOL MYERS SQUIBB CO;Drug Manufacturers;163234.26;255210
+GWPH;GW PHARMACEUTICALS PLC;Drug Manufacturers;82884.23205;953793
+ZTS;Zoetis;Drug Manufacturers;80741.3;378251
+AGN;Allergan plc;Drug Manufacturers;63659.113779;61474
+AGN_old;Allergan Inc.;Drug Manufacturers;59374.083097;442340
+SHPGF;Shire plc;Drug Manufacturers;57633.578604;132453
+BAYN.DE;Bayer;Drug Manufacturers;54253.887344;849702
+CTLT;Catalent, Inc.;Drug Manufacturers;19113.5;1169061
+TEVA;TEVA PHARMACEUTICAL INDUSTRIES LTD;Drug Manufacturers;12166.09;616649
+ELAN;Elanco Animal Health Inc;Drug Manufacturers;9318.672;1094920
+MYL;Mylan N.V.;Drug Manufacturers;8588.917371;333504
+MYL_old;Mylan N.V.;Drug Manufacturers;5935.978868;378191
+PRGO;PERRIGO CO;Drug Manufacturers;5631.664;334568
+TXMD;TherapeuticsMD, Inc.;Drug Manufacturers;4097.94126;692917
+BHC;Bausch Health Companies Inc.;Drug Manufacturers;2289.6;542074
+TLRY;Tilray, Inc.;Drug Manufacturers;2039.80875;816689
+SUPN;SUPERNUS PHARMACEUTICALS INC;Drug Manufacturers;1815.421019;445197
+VERU;FEMALE HEALTH CO;Drug Manufacturers;1781.96759;370817
+ZGNX;ZOGENIX, INC.;Drug Manufacturers;1491.5454;816789
+EBS;Emergent BioSolutions Inc.;Drug Manufacturers;1469.5;1063681
+HIMS;Hims & Hers Health, Inc.;Drug Manufacturers;1419.488764;1297254
+IPXL;IMPAX LABORATORIES INC;Drug Manufacturers;1349.778647;625184
+PAHC;PHIBRO ANIMAL HEALTH CORP;Drug Manufacturers;759.45;177507
+KPTI;Karyopharm Therapeutics Inc.;Drug Manufacturers;437.28399;786011
+EYPT;EyePoint Pharmaceuticals, Inc.;Drug Manufacturers;403.82404;232734
+DPLO;Diplomat Pharmacy, Inc.;Drug Manufacturers;303.895852;349954
+IMMY;Imprimis Pharmaceuticals, Inc.;Drug Manufacturers;213.323418;703115
+ENDP;Endo International plc;Drug Manufacturers;86.46197;530918
+MEIP;MEI Pharma, Inc.;Drug Manufacturers;68.4315;187582
+NEOS;Neos Therapeutics, Inc.;Drug Manufacturers;57.220154;160118
+ENDP_old;Endo International;Drug Manufacturers;42.681125;378135
+LCI;LANNETT CO INC;Drug Manufacturers;23.407714;600871
+JAGX;Jaguar Health, Inc.;Drug Manufacturers;12.547391;1076278
+AXN;AOXING PHARMACEUTICAL COMPANY, INC.;Drug Manufacturers;9.145103;329205
+ACAN;AmeriCann, Inc.;Drug Manufacturers;7.879618;654226
+AKRX;AKORN INC;Drug Manufacturers;4.002231;195622
+MNK;Mallinckrodt plc;Drug Manufacturers;0.264;365935
+BSPM;Biostar Pharmaceuticals, Inc.;Drug Manufacturers;0.026372;543906
+GHC;Graham Holdings Co;Education;3004.67926;716648
+LOPE;Grand Canyon Education, Inc.;Education;2710.632;760533
+HMHC;Houghton Mifflin Harcourt Co;Education;2684.995008;651625
+STRA;Strategic Education, Inc.;Education;1686.42252;1067482
+PRDO;PERDOCEO EDUCATION Corp;Education;845.37817;1241826
+FC;FRANKLIN COVEY CO;Education;753.15322;702498
+ABCD;CAMBIUM LEARNING GROUP, INC.;Education;684.907794;358762
+APEI;AMERICAN PUBLIC EDUCATION INC;Education;221.55008;1234045
+ASPU;ASPEN GROUP, INC.;Education;24.265944;652699
+ZVO;Zovio Inc;Education;11.9427;901866
+RHI;Robert Half International;Employment Services;8949.32292;378208
+AMN;AMN HEALTHCARE SERVICES INC;Employment Services;4704.96288;683491
+MAN;ManpowerGroup Inc.;Employment Services;4348.277;348449
+KFY;KORN FERRY INTERNATIONAL;Employment Services;3519.05848;211211
+TBI;TrueBlue, Inc.;Employment Services;739.83234;108139
+HSII;HEIDRICK & STRUGGLES INTERNATIONAL INC;Employment Services;638.1361;727845
+BBSI;BARRETT BUSINESS SERVICES INC;Employment Services;614.71446;684470
+DHX;DHI GROUP, INC.;Employment Services;245.03418;653310
+MHH;Mastech Holdings, Inc.;Employment Services;188.49768;160053
+BGSF;BG Staffing, Inc.;Employment Services;135.616971;346052
+VOLT;VOLT INFORMATION SCIENCES, INC.;Employment Services;131.66619;207946
+OTIS;Otis Worldwide Corp;Engineering & Construction;34268.248;1161716
+PWR;Quanta Services Inc.;Engineering & Construction;20488.69793;378205
+J;Jacobs Engineering Group;Engineering & Construction;17357.78193;378172
+GNRC;GENERAC HOLDINGS INC.;Engineering & Construction;17030.35805;1048511
+PLUG;PLUG POWER INC;Engineering & Construction;16837.940539;1011101
+TER;TERADYNE, INC;Engineering & Construction;16208.40954;1094921
+WSO;WATSCO INC;Engineering & Construction;11782.726437;1014359
+ACM;Aecom Technology Corp;Engineering & Construction;10825.40992;445606
+RBC;REGAL BELOIT CORP;Engineering & Construction;9952.490978;1234788
+TTEK;TETRA TECH INC;Engineering & Construction;8022.83958;1055095
+KBR;KBR, INC.;Engineering & Construction;7335.03;1056225
+ITT;ITT Inc.;Engineering & Construction;6928.047;1056223
+EME;Emcor Group Inc;Engineering & Construction;6452.071812;446597
+CFX;Colfax CORP;Engineering & Construction;6214.187579;1067476
+MTZ;Mastec Inc;Engineering & Construction;6135.7569;447935
+IIVI;II-VI INC;Engineering & Construction;5796.2268;1234773
+SGMS;SCIENTIFIC GAMES CORP;Engineering & Construction;5632.79;1011099
+ROG;ROGERS CORP;Engineering & Construction;5064.027;1092274
+FOXF;FOX FACTORY HOLDING CORP;Engineering & Construction;4725.03856;1057789
+SSD;Simpson Manufacturing Co., Inc.;Engineering & Construction;4616.08355;1056224
+APY;ChampionX Corp;Engineering & Construction;4322.274434;1234042
+VNE;Veoneer, Inc.;Engineering & Construction;4136.922;998442
+VNT;Vontier Corp;Engineering & Construction;4023.075;1033570
+FLR;Fluor Corp.;Engineering & Construction;3902.9712;378148
+FIX;COMFORT SYSTEMS USA INC;Engineering & Construction;3868.2138;1014353
+FLOW;SPX FLOW, Inc.;Engineering & Construction;3630.072136;918101
+VICR;VICOR CORP;Engineering & Construction;3611.53584;1334839
+VC;VISTEON CORP;Engineering & Construction;3576.16;1009194
+AZEK;AZEK Co Inc.;Engineering & Construction;3459.740222;1312108
+DY;DYCOM INDUSTRIES INC;Engineering & Construction;3320.142073;252287
+CNR;Cornerstone Building Brands, Inc.;Engineering & Construction;3142.89234;1145421
+ACA;Arcosa, Inc.;Engineering & Construction;3125.493;919864
+TEX;TEREX CORP;Engineering & Construction;2656.588;1234793
+XMTR;Xometry, Inc.;Engineering & Construction;2368.776059;1262309
+KMT;KENNAMETAL INC;Engineering & Construction;2275.50132;1234776
+EVRI;Everi Holdings Inc.;Engineering & Construction;1915.326;917372
+CBI;CHICAGO BRIDGE & IRON CO N V;Engineering & Construction;1680.766948;111879
+ROAD;Construction Partners, Inc.;Engineering & Construction;1590.052622;1291788
+CTS;CTS CORP;Engineering & Construction;1370.62842;923326
+AXL;AMERICAN AXLE & MANUFACTURING HOLDINGS INC;Engineering & Construction;1337.282;980335
+TGLS;Tecnoglass Inc.;Engineering & Construction;1219.520693;1346351
+DM;Desktop Metal, Inc.;Engineering & Construction;1047.279999;1306306
+VLD;Velo3D, Inc.;Engineering & Construction;1030.137464;1212485
+AGX;ARGAN INC;Engineering & Construction;562.8525;529078
+LEGH;Legacy Housing Corp;Engineering & Construction;435.195777;998533
+ATOM;Atomera Inc;Engineering & Construction;335.09496;1070617
+NWPX;NORTHWEST PIPE CO;Engineering & Construction;331.36947;1031014
+VLDR;Velodyne Lidar, Inc.;Engineering & Construction;330.252116;1085789
+LAYN;LAYNE CHRISTENSEN CO;Engineering & Construction;309.248435;45965
+CDZI;CADIZ INC;Engineering & Construction;184.162;1159130
+NNDM;Nano Dimension Ltd.;Engineering & Construction;162.505513;1240368
+LMB;Limbach Holdings, Inc.;Engineering & Construction;75.097126;733746
+ENG;ENGLOBAL CORP;Engineering & Construction;59.90036;58098
+TPCS;TECHPRECISION CORP;Engineering & Construction;54.174171;74307
+NRTHF;Northern Power Systems Corp.;Engineering & Construction;0;243188
+DIS;The Walt Disney Company;Entertainment;228052;261356
+NFLX;NETFLIX INC;Entertainment;109223.20933;83548
+TWX;TIME WARNER INC.;Entertainment;77269.6902;121635
+FOX_old;21st Century Fox;Entertainment;62652.799744;242
+LVS;LAS VEGAS SANDS CORP;Entertainment;29245.92;1076498
+SIRI;SIRIUS XM HOLDINGS INC.;Entertainment;25924.8;97841
+LYV;Live Nation Entertainment, Inc.;Entertainment;22251.757231;682157
+FOX;Fox Corp;Entertainment;20075.3;885908
+WMG;Warner Music Group Corp.;Entertainment;15541.228548;1093102
+LSXMA;Liberty Media Corp;Entertainment;14850.44931;629561
+AMC;AMC ENTERTAINMENT HOLDINGS, INC.;Entertainment;12799.7271;1100848
+DISCA;Discovery Communications, Inc.;Entertainment;12361.58;120376
+ROKU;ROKU, INC;Entertainment;11511.73788;617783
+NWS;NEWS CORP;Entertainment;11075.4;160346
+VIA;Viacom Inc.;Entertainment;9770.529238;378236
+SNI;Scripps Networks Interactive Inc.;Entertainment;8666.363056;378211
+DKNG;DraftKings Inc.;Entertainment;8343.41704;1085359
+NXST;NEXSTAR MEDIA GROUP, INC.;Entertainment;8126.832;650370
+DLB;Dolby Laboratories, Inc.;Entertainment;8079.93914;357388
+WWE;WORLD WRESTLING ENTERTAINMENTINC;Entertainment;5699.628;641925
+ATUS;Altice USA, Inc.;Entertainment;5221.2096;997777
+TGNA;Tegna;Entertainment;4887.29875;378222
+RGC;Regal Entertainment Group;Entertainment;4799.5152;493690
+P;Pandora Media, Inc.;Entertainment;3255.431185;91899
+RRR;Red Rock Resorts, Inc.;Entertainment;2848.36257;980329
+SONO;Sonos Inc;Entertainment;2202.169368;974898
+MSGE;Madison Square Garden Entertainment Corp.;Entertainment;2188.99308;1033569
+CNK;Cinemark Holdings, Inc.;Entertainment;2076.774;760762
+SBGI;SINCLAIR BROADCAST GROUP INC;Entertainment;1928.89712;132115
+QRTEA;Qurate Retail, Inc.;Entertainment;1660.44;980380
+IHRT;iHeartMedia, Inc.;Entertainment;1532.3175;653413
+SSP;E.W. SCRIPPS Co;Entertainment;1437.6134;688615
+AMCX;Amc Networks Inc;Entertainment;1343.70312;445716
+CETV;CENTRAL EUROPEAN MEDIA ENTERPRISES LTD;Entertainment;1163.51525;651857
+EVC;ENTRAVISION COMMUNICATIONS CORP;Entertainment;505.506824;652141
+UONE;URBAN ONE, INC.;Entertainment;317.539663;653270
+CMLS;CUMULUS MEDIA INC;Entertainment;202.825455;659310
+TSQ;Townsquare Media, Inc.;Entertainment;170.36958;545597
+SGA;SAGA COMMUNICATIONS INC;Entertainment;143.72694;652364
+CIDM;Cinedigm Corp.;Entertainment;110.514865;620342
+ETM;ENTERCOM COMMUNICATIONS CORP;Entertainment;100.171232;550551
+RLJE;RLJ ENTERTAINMENT, INC.;Entertainment;97.591294;653411
+BWLA;BOWL AMERICA INC;Entertainment;79.117685;287640
+GAIA;GAIA, INC;Entertainment;66.48822;1291281
+EMMS;EMMIS COMMUNICATIONS CORP;Entertainment;40.197396;654077
+BBGI;BEASLEY BROADCAST GROUP INC;Entertainment;37.888318;652265
+ELYS;ELYS GAME TECHNOLOGY, CORP;Entertainment;17.540947;360213
+TBTC;TABLE TRAC INC;Entertainment;17.093115;263057
+DE;DEERE & CO;Farm & Construction Machinery;114360.818;373449
+CAT;CATERPILLAR INC;Farm & Construction Machinery;106404.024;253953
+AGCO;AGCO CORP /DE;Farm & Construction Machinery;8435.022;365265
+JOY;JOY GLOBAL INC;Farm & Construction Machinery;2819.256047;39382
+LNN;LINDSAY CORP;Farm & Construction Machinery;1802.36804;80469
+ALG;ALAMO GROUP INC;Farm & Construction Machinery;1668.79713;128246
+CMCO;COLUMBUS MCKINNON CORP;Farm & Construction Machinery;990.43651;899253
+TWI;TITAN INTERNATIONAL INC;Farm & Construction Machinery;968.7562;795301
+GENC;GENCOR INDUSTRIES INC;Farm & Construction Machinery;142.32918;543904
+WY;WEYERHAEUSER CO;Forest Products;27615.06278;57524
+WFG;WEST FRASER TIMBER CO., LTD;Forest Products;10276.31946;1242695
+RYN;RAYONIER INC;Forest Products;5507.440576;504942
+EVA;Enviva Partners, LP;Forest Products;4999.29624;900872
+PCH;POTLATCHDELTIC CORP;Forest Products;3441.4268;1067480
+UFS;Domtar CORP;Forest Products;2788.113251;890747
+RFP;Resolute Forest Products Inc.;Forest Products;1587.2;717558
+VRS;Verso Corp;Forest Products;791.72466;548204
+SWM;SCHWEITZER MAUDUIT INTERNATIONAL INC;Forest Products;727.002232;803493
+NP;Neenah Inc;Forest Products;537.12;743399
+UNH;UNITEDHEALTH GROUP INC;Health Care Plans;512354.27583;367714
+CVS;CVS HEALTH Corp;Health Care Plans;139742.59;256275
+ELV;Elevance Health Inc.;Health Care Plans;119018.902841;378099
+CI;CIGNA Corp.;Health Care Plans;92555.50707;378114
+AET;AETNA INC /PA/;Health Care Plans;69637.98;62217
+HUM;HUMANA INC;Health Care Plans;62862.23636;234479
+CNC;Centene Corporation;Health Care Plans;56222.42652;378107
+ESRX;Express Scripts Holding Co.;Health Care Plans;52061.1938;107733
+WCG;WELLCARE HEALTH PLANS, INC.;Health Care Plans;17610.637991;745218
+MJN;Mead Johnson;Health Care Plans;16523.92792;378188
+CNXR;CONNECTURE INC;Health Care Plans;7.906735;145641
+HCA;HCA Holdings;Health Care Providers;62899.764228;378161
+MOH;MOLINA HEALTHCARE, INC.;Health Care Providers;19396.94;1178120
+VTRS;Viatris Inc;Health Care Providers;13383.792;1251885
+FMS;Fresenius Medical Care;Health Care Providers;11114.985178;1108967
+DVA;DAVITA INC.;Health Care Providers;8952.09864;349826
+UHS;Universal Health Services, Inc.;Health Care Providers;8136.2532;378232
+ACHC;Acadia Healthcare Company Inc;Health Care Providers;7334.937;445598
+CHE;CHEMED CORP;Health Care Providers;7305.07556;115043
+THC;TENET HEALTHCARE CORP;Health Care Providers;6948.1434;1033571
+TDOC;Teladoc Health, Inc.;Health Care Providers;6366.350068;963383
+EHC;Encompass Health Corp;Health Care Providers;5290.336;117690
+LHCG;LHC Group, Inc;Health Care Providers;4962.32121;693030
+ENSG;ENSIGN GROUP, INC;Health Care Providers;4840.21618;1023444
+AMED;AMEDISYS INC;Health Care Providers;3951.37062;904598
+ONEM;1Life Healthcare Inc;Health Care Providers;3345.1936;1008081
+MGLN;MAGELLAN HEALTH INC;Health Care Providers;2481.762884;945856
+MD;MEDNAX, INC.;Health Care Providers;1756.8607;905672
+MODV;ModivCare Inc;Health Care Providers;1699.883014;492538
+MED;MEDIFAST INC;Health Care Providers;1670.43604;951290
+TVTY;TIVITY HEALTH, INC.;Health Care Providers;1616.29;895523
+ADUS;Addus HomeCare Corp;Health Care Providers;1519.6059;1023443
+NHC;NATIONAL HEALTHCARE CORP;Health Care Providers;1079.041232;728722
+NVTA;Invitae Corp;Health Care Providers;1009.47805;963379
+BKD;Brookdale Senior Living Inc.;Health Care Providers;965.55437;732304
+CANO;Cano Health, Inc.;Health Care Providers;833.176891;1242697
+KND;KINDRED HEALTHCARE, INC;Health Care Providers;821.345616;510383
+BVS;Bioventus Inc.;Health Care Providers;492.604047;1237813
+JYNT;JOINT Corp;Health Care Providers;323.968964;921297
+CSU;CAPITAL SENIOR LIVING CORP;Health Care Providers;216.119887;122647
+GOCO;GoHealth, Inc.;Health Care Providers;77.1528;1340517
+OTRK;Ontrak, Inc.;Health Care Providers;15.9216;495603
+RHE;REGIONAL HEALTH PROPERTIES, INC;Health Care Providers;6.319;712450
+DHI;D. R. Horton;Homebuilding & Construction;27757.191;378124
+LEN;LENNAR CORP /NEW/;Homebuilding & Construction;25886.4151;80077
+NVR;NVR INC;Homebuilding & Construction;14610.715;896899
+PHM;PULTEGROUP INC/MI/;Homebuilding & Construction;10528.4124;404717
+TOL;TOLL BROTHERS INC;Homebuilding & Construction;5831.85211;200636
+SKY;SKYLINE CORP;Homebuilding & Construction;3849.339725;132365
+REZI;RESIDEO TECHNOLOGIES, INC.;Homebuilding & Construction;3426.96692;918602
+TMHC;Taylor Morrison Home Corp;Homebuilding & Construction;3331.579;1234795
+KBH;KB HOME;Homebuilding & Construction;2907.22122;821503
+LGIH;LGI Homes, Inc.;Homebuilding & Construction;2612.95684;530141
+CVCO;CAVCO INDUSTRIES INC.;Homebuilding & Construction;2548.39851;890460
+TPH;Tri Pointe Homes, Inc.;Homebuilding & Construction;1916.603713;1234796
+CCS;Century Communities, Inc.;Homebuilding & Construction;1726.038969;350948
+MHO;M/I HOMES, INC.;Homebuilding & Construction;1343.1639;1251881
+BZH;BEAZER HOMES USA INC;Homebuilding & Construction;495.82;505724
+GRWG;GrowGeneration Corp.;Homebuilding & Construction;361.4982;1039023
+UFI;UNIFI INC;Homebuilding & Construction;242.86432;249809
+SCTY;MONITRONICS INTERNATIONAL INC;Homebuilding & Construction;10.8;146125
+ASGN;ASGN Inc;HR & Staffing;5484.048;1059907
+NSP;INSPERITY, INC.;HR & Staffing;4436.22648;994624
+HRT;HireRight Holdings Corp;HR & Staffing;1445.980929;1340571
+FAST;FASTENAL CO;Industrial Distribution;32256.775;339017
+GWW;GRAINGER W W INC;Industrial Distribution;29793.69;504823
+HDS;HD Supply Holdings, Inc.;Industrial Distribution;8712.044;218138
+WCC;WESCO INTERNATIONAL INC;Industrial Distribution;7249.191638;701296
+SON;SONOCO PRODUCTS CO;Industrial Distribution;6449.31419;992009
+SITE;SiteOne Landscape Supply, Inc.;Industrial Distribution;6317.502018;62823
+SLGN;SILGAN HOLDINGS INC;Industrial Distribution;5249.3824;1067479
+MSM;MSC INDUSTRIAL DIRECT CO INC;Industrial Distribution;4824.81906;87559
+AIT;APPLIED INDUSTRIAL TECHNOLOGIES INC;Industrial Distribution;4467.04896;253867
+WAIR;Wesco Aircraft Holdings, Inc;Industrial Distribution;1105.853616;359379
+TITN;Titan Machinery Inc.;Industrial Distribution;707.73664;825306
+DXPE;DXP ENTERPRISES INC;Industrial Distribution;538.95952;674720
+HON;HONEYWELL INTERNATIONAL INC;Industrial Products;138291.93;105257
+SIE.DE;Siemens;Industrial Products;91525.702814;849707
+GE;GENERAL ELECTRIC CO;Industrial Products;89230.909766;244314
+MMM;3M CO;Industrial Products;85798.46;22219
+ITW;Illinois Tool Works;Industrial Products;67418.836;378165
+ETN;Eaton Corp plc;Industrial Products;61347.17;124922
+EMR;EMERSON ELECTRIC CO;Industrial Products;53484.27;255983
+ROP;ROPER TECHNOLOGIES INC;Industrial Products;46207.347;119446
+TT;Trane Technologies plc;Industrial Products;39338.687768;378166
+PH;PARKER HANNIFIN CORP;Industrial Products;39333.21416;354246
+CARR;Carrier Global Corp;Industrial Products;37540.623;1169063
+CMI;CUMMINS INC;Industrial Products;33047.28;120498
+AME;AMETEK INC/;Industrial Products;30133.79657;67669
+ROK;ROCKWELL AUTOMATION INC;Industrial Products;30095.04;121874
+DOV;DOVER Corp;Industrial Products;20327.77656;336327
+XYL;Xylem Inc.;Industrial Products;18733.592;124467
+ZBRA;ZEBRA TECHNOLOGIES CORP;Industrial Products;18287.619007;1167257
+AVTR;Avantor, Inc.;Industrial Products;18153.556;1033572
+AVY;Avery Dennison Corp;Industrial Products;16679.520058;66346
+SWK;STANLEY BLACK & DECKER, INC.;Industrial Products;16531.8859;244442
+HWM;Howmet Aerospace Inc.;Industrial Products;16485.836975;195506
+IEX;IDEX CORP /DE/;Industrial Products;16479.678;824090
+NDSN;NORDSON CORP;Industrial Products;14292.59856;188156
+SNA;SNAP-ON Inc;Industrial Products;12437.555;288357
+DAR;DARLING INGREDIENTS INC.;Industrial Products;12404.07734;1234767
+GGG;GRACO INC;Industrial Products;12098.6604;103052
+HUBB;HUBBELL INC;Industrial Products;11944.739;628038
+AOS;Smith A O Corp;Industrial Products;10101.004351;445771
+LII;LENNOX INTERNATIONAL INC;Industrial Products;9770.736;98304
+TTC;TORO CO;Industrial Products;9576.77856;181580
+MIDD;MIDDLEBY CORP;Industrial Products;8661.4899;993573
+LECO;LINCOLN ELECTRIC HOLDINGS INC;Industrial Products;8585.78784;1056278
+PNR;PENTAIR plc;Industrial Products;8396.56;334445
+DCI;DONALDSON CO INC;Industrial Products;7036.268;50564
+AYI;ACUITY BRANDS INC;Industrial Products;6336.462;61705
+NVT;nVent Electric plc;Industrial Products;6181.76;1234783
+CR;CRANE CO /DE/;Industrial Products;6143.96;355869
+VMI;Valmont Industries Inc;Industrial Products;6097.28466;449113
+UFPI;UFP INDUSTRIES INC;Industrial Products;5674.138968;1242696
+QS;QuantumScape Corp;Industrial Products;5456.84785;1059132
+WTS;WATTS WATER TECHNOLOGIES INC;Industrial Products;5233.273;816791
+TKR;TIMKEN CO;Industrial Products;5206.382006;1056221
+FLS;Flowserve Corporation;Industrial Products;4537.7358;378147
+FELE;FRANKLIN ELECTRIC CO INC;Industrial Products;4436.768;124153
+CNM;Core & Main, Inc.;Industrial Products;4114.700419;1298294
+ATI;Allegheny Technologies Inc.;Industrial Products;4102.944;442346
+ATKR;Atkore International Group Inc.;Industrial Products;4082.451;368117
+CLC;CLARCOR INC.;Industrial Products;4031.100093;57096
+MLI;MUELLER INDUSTRIES INC;Industrial Products;3901.755;1338979
+HI;Hillenbrand, Inc.;Industrial Products;3476.514;361523
+AAON;AAON INC;Industrial Products;3360.400651;919501
+BDC;BELDEN INC.;Industrial Products;3071.0888;1234039
+SHLS;Shoals Technologies Group, Inc.;Industrial Products;2953.39352;1302456
+ARNC;Arconic Corp;Industrial Products;2932.228;1195675
+AIMC;Altra Industrial Motion Corp.;Industrial Products;2901.507;773555
+SPXC;SPX CORP;Industrial Products;2881.1496;768069
+FSS;FEDERAL SIGNAL CORP /DE/;Industrial Products;2597.804;968229
+WIRE;ENCORE WIRE CORP;Industrial Products;2578.06644;983825
+HLIO;HELIOS TECHNOLOGIES, INC.;Industrial Products;2245.5427;126033
+CSWI;CSW INDUSTRIALS, INC.;Industrial Products;2183.60637;49347
+RAVN;RAVEN INDUSTRIES INC;Industrial Products;2086.096357;664566
+GEF;GREIF, INC;Industrial Products;1925.308;998535
+EAF;GRAFTECH INTERNATIONAL LTD;Industrial Products;1880.158928;910562
+MTTR;Matterport, Inc./DE;Industrial Products;1646.58305;1291791
+KN;Knowles Corp;Industrial Products;1555.72;996259
+HNI;HNI CORP;Industrial Products;1542.07544;123823
+UCTT;Ultra Clean Holdings, Inc.;Industrial Products;1530.11112;1346700
+EPAC;ENERPAC TOOL GROUP CORP;Industrial Products;1351.49388;89259
+PRLB;Proto Labs Inc;Industrial Products;1248.257672;341185
+AZZ;AZZ INC;Industrial Products;1215.19775;82401
+OFLX;Omega Flex, Inc.;Industrial Products;1165.25136;728561
+ICHR;ICHOR HOLDINGS, LTD.;Industrial Products;1052.899609;926863
+BRSS;GLOBAL BRASS & COPPER HOLDINGS, INC.;Industrial Products;965.70266;778121
+CCF;CHASE CORP;Industrial Products;943.964769;90312
+MVST;Microvast Holdings, Inc.;Industrial Products;880.656959;1334958
+TPIC;TPI COMPOSITES, INC;Industrial Products;844.81584;180206
+HCCI;Heritage-Crystal Clean, Inc.;Industrial Products;800.48502;861202
+GRC;GORMAN RUPP CO;Industrial Products;701.931;122864
+ACCO;ACCO BRANDS Corp;Industrial Products;680.134;120923
+MCF;CONTANGO OIL & GAS CO;Industrial Products;646.211081;684099
+IIIN;INSTEEL INDUSTRIES INC;Industrial Products;634.9525;1338982
+XONE;ExOne Co;Industrial Products;598.113482;823071
+EBF;ENNIS, INC.;Industrial Products;585.714927;90209
+HAYN;HAYNES INTERNATIONAL INC;Industrial Products;551.30652;358061
+HDSN;HUDSON TECHNOLOGIES INC /NY;Industrial Products;462.643175;346795
+PBI;Pitney-Bowes;Industrial Products;442.183;378200
+TWIN;TWIN DISC INC;Industrial Products;140.7998;231580
+ADES;Advanced Emissions Solutions, Inc.;Industrial Products;109.36016;619745
+SMID;SMITH MIDLAND CORP;Industrial Products;99.2131;362372
+ALOT;AstroNova, Inc.;Industrial Products;87.72196;995248
+ARTX;AROTECH CORP;Industrial Products;79.99572;739639
+AP;AMPCO PITTSBURGH CORP;Industrial Products;77.32665;995247
+ULBI;ULTRALIFE CORP;Industrial Products;74.1934;739637
+PPIH;MFRI INC;Industrial Products;73.9466;209037
+VIRC;VIRCO MFG CORPORATION;Industrial Products;69.90388;54439
+JRSH;Jerash Holdings (US), Inc.;Industrial Products;65.876995;1348020
+CULP;CULP INC;Industrial Products;62.15908;209337
+CGRN;Capstone Green Energy Corp;Industrial Products;58.9743;51961
+SCX;STARRETT L S CO;Industrial Products;55.84353;218861
+FTEK;FUEL TECH, INC.;Industrial Products;41.50552;144208
+BGG;BRIGGS & STRATTON CORP;Industrial Products;33.113757;252726
+TAYD;TAYLOR DEVICES INC;Industrial Products;29.517551;338837
+ARCW;ARC Group Worldwide, Inc.;Industrial Products;22.208393;674718
+GLGI;GREYSTONE LOGISTICS, INC.;Industrial Products;21.706513;178127
+WSCI;WSI INDUSTRIES, INC.;Industrial Products;20.762278;65297
+CUO;CONTINENTAL MATERIALS CORP;Industrial Products;14.423354;884109
+ICPW;IRONCLAD PERFORMANCE WEAR CORP;Industrial Products;6.851708;161289
+CETX;CEMTREX INC;Industrial Products;6.361897;178699
+SHLO;SHILOH INDUSTRIES INC;Industrial Products;2.179486;202591
+ALV.DE;Allianz SE;Insurance;75406.168574;849433
+AIG;AMERICAN INTERNATIONAL GROUP INC;Insurance;48854.921917;251769
+HIG;HARTFORD FINANCIAL SERVICES GROUP INC/DE;Insurance;23340.991825;387752
+WRB;BERKLEY W R CORP;Insurance;18435.879;1161717
+AIZ;ASSURANT INC;Insurance;9295.804254;66661
+FAF;First American Financial Corp;Insurance;6391.996;1008640
+RNR;RENAISSANCERE HOLDINGS LTD;Insurance;6139.88338;971614
+PRI;Primerica, Inc.;Insurance;5292.27782;1055098
+AXS;AXIS CAPITAL HOLDINGS LTD;Insurance;4685.31094;971612
+ESGR;Enstar Group LTD;Insurance;3409.235191;446639
+GNW;GENWORTH FINANCIAL INC;Insurance;2244.69;527413
+OSCR;Oscar Health, Inc.;Insurance;1658.795228;1299459
+GSHD;Goosehead Insurance, Inc.;Insurance;1446.91596;986860
+EHTH;eHealth, Inc.;Insurance;241.4103;979798
+MET;METLIFE INC;Insurance - Life;56191.63;380562
+AFL;AFLAC INC;Insurance - Life;40998.84093;62581
+PRU;PRUDENTIAL FINANCIAL INC;Insurance - Life;39190.068;78741
+PFG;PRINCIPAL FINANCIAL GROUP INC;Insurance - Life;21016.578;367240
+GL;GLOBE LIFE INC.;Insurance - Life;10179.696757;378226
+LNC;LINCOLN NATIONAL CORP;Insurance - Life;8788.785501;243942
+UNM;Unum Group;Insurance - Life;8015.786016;378233
+BHF;Brighthouse Financial, Inc.;Insurance - Life;3941.004344;696260
+IHC;INDEPENDENCE HOLDING CO;Insurance - Life;836.618101;667823
+GWGH;GWG Holdings, Inc.;Insurance - Life;88.389838;734810
+AAME;ATLANTIC AMERICAN CORP;Insurance - Life;60.7324;450021
+CB;Chubb Limited;Insurance - Property & Casualty;84756.50615;378112
+PGR;Progressive Corp.;Insurance - Property & Casualty;71570.907;378203
+TRV;TRAVELERS COMPANIES, INC.;Insurance - Property & Casualty;41367.168;262327
+ALL;ALLSTATE CORP;Insurance - Property & Casualty;36973.05;68840
+MKL;MARKEL CORP;Insurance - Property & Casualty;17250.94024;205470
+CINF;CINCINNATI FINANCIAL CORP;Insurance - Property & Casualty;16940.382948;248488
+L;Loews Corp.;Insurance - Property & Casualty;14580.636;378182
+Y;Alleghany Corp;Insurance - Property & Casualty;11629.34734;449291
+CNA;Cna Financial Corp;Insurance - Property & Casualty;11482.042;446249
+AFG;AMERICAN FINANCIAL GROUP INC;Insurance - Property & Casualty;11468.576323;485236
+RLI;RLI CORP;Insurance - Property & Casualty;5341.34058;1059908
+SIGI;SELECTIVE INSURANCE GROUP INC;Insurance - Property & Casualty;5052.715604;627778
+MTG;MGIC INVESTMENT CORP;Insurance - Property & Casualty;4975.67934;1067477
+AFSI;Amtrust Financial Services, Inc.;Insurance - Property & Casualty;2916.093629;822262
+NMIH;NMI Holdings, Inc.;Insurance - Property & Casualty;1935.58018;1243192
+LMND;Lemonade, Inc.;Insurance - Property & Casualty;1892.357856;1070336
+UVE;UNIVERSAL INSURANCE HOLDINGS, INC.;Insurance - Property & Casualty;393.37804;529179
+HRTG;Heritage Insurance Holdings, Inc.;Insurance - Property & Casualty;77.508626;640779
+UIHC;UNITED INSURANCE HOLDINGS CORP.;Insurance - Property & Casualty;45.632181;774910
+CNFR;Conifer Holdings, Inc.;Insurance - Property & Casualty;21.173472;847219
+UNAM;UNICO AMERICAN CORP;Insurance - Property & Casualty;10.028017;251597
+SAFT;SAFETY INSURANCE GROUP INC;Insurance - Property & Casualty;0.051284;250043
+MUV2.DE;Munich Re;Insurance - Specialty;25220.679315;1117320
+ACGL;Arch Capital Group LTD;Insurance - Specialty;17542.649079;445596
+RE;EVEREST RE GROUP LTD;Insurance - Specialty;10907.047833;741323
+RGA;Reinsurance Group Of America Inc;Insurance - Specialty;8698.0842;448474
+ESNT;Essent Group Ltd.;Insurance - Specialty;4785.26384;1055099
+RDN;RADIAN GROUP INC;Insurance - Specialty;4062.95995;750984
+AGO;ASSURED GUARANTY LTD;Insurance - Specialty;3659.097;601095
+TRUP;TRUPANION INC.;Insurance - Specialty;3048.887152;640535
+AHL;ASPEN INSURANCE HOLDINGS LTD;Insurance - Specialty;2558.531499;700634
+VR;Validus Holdings LTD;Insurance - Specialty;1862.645554;449124
+NKE;NIKE INC;Manufacturing - Apparel & Furniture;186393.128;101814
+VFC;V F CORP;Manufacturing - Apparel & Furniture;18572.01896;330907
+WHR;WHIRLPOOL CORP /DE/;Manufacturing - Apparel & Furniture;9831.36;104227
+FBHS;Fortune Brands Home & Security;Manufacturing - Apparel & Furniture;9344.67;378152
+LEVI;LEVI STRAUSS & CO;Manufacturing - Apparel & Furniture;8049.517;705588
+MHK;MOHAWK INDUSTRIES INC;Manufacturing - Apparel & Furniture;8041.6224;333439
+CPRI;Capri Holdings Ltd;Manufacturing - Apparel & Furniture;7586.700308;38287
+RL;RALPH LAUREN CORP;Manufacturing - Apparel & Furniture;7070.286;331016
+SKX;SKECHERS USA INC;Manufacturing - Apparel & Furniture;6477.78914;176359
+TREX;TREX CO INC;Manufacturing - Apparel & Furniture;6431.972034;991604
+LEG;Leggett & Platt;Manufacturing - Apparel & Furniture;5674.169;378178
+TPX;TEMPUR SEALY INTERNATIONAL, INC.;Manufacturing - Apparel & Furniture;5175.993;686753
+PVH;PVH CORP. /DE/;Manufacturing - Apparel & Furniture;4940.208;46764
+CROX;Crocs, Inc.;Manufacturing - Apparel & Furniture;4875.4644;128143
+COLM;Columbia Sportswear Co;Manufacturing - Apparel & Furniture;4875.45876;446285
+UA;Under Armour, Inc.;Manufacturing - Apparel & Furniture;4399.88472;80553
+HBI;Hanesbrands Inc.;Manufacturing - Apparel & Furniture;3903.45552;331419
+VSCO;Victoria's Secret & Co.;Manufacturing - Apparel & Furniture;3635.45;1293027
+FL;FOOT LOCKER, INC.;Manufacturing - Apparel & Furniture;3146.384414;47224
+SPB;Spectrum Brands Holdings, Inc.;Manufacturing - Apparel & Furniture;2829.072;357600
+MLKN;MillerKnoll, Inc.;Manufacturing - Apparel & Furniture;2512.027274;1063680
+OXM;OXFORD INDUSTRIES INC;Manufacturing - Apparel & Furniture;1920.25768;185852
+WWW;WOLVERINE WORLD WIDE INC /DE/;Manufacturing - Apparel & Furniture;1898.135;983819
+PATK;PATRICK INDUSTRIES INC;Manufacturing - Apparel & Furniture;1446.5061;745754
+LZB;LA-Z-BOY INC;Manufacturing - Apparel & Furniture;1347.54403;63005
+JELD;JELD-WEN Holding, Inc.;Manufacturing - Apparel & Furniture;1214.089566;1077371
+GIII;G III APPAREL GROUP LTD /DE/;Manufacturing - Apparel & Furniture;1196.55872;183672
+SNBR;Sleep Number Corp;Manufacturing - Apparel & Furniture;1138.92135;925649
+CAL;CALERES INC;Manufacturing - Apparel & Furniture;1093.48542;49132
+AMWD;AMERICAN WOODMARK CORP;Manufacturing - Apparel & Furniture;905.915366;77084
+ETD;ETHAN ALLEN INTERIORS INC;Manufacturing - Apparel & Furniture;671.7242;993675
+LOVE;Lovesac Co;Manufacturing - Apparel & Furniture;586.058467;1207326
+FOSL;Fossil Group, Inc.;Manufacturing - Apparel & Furniture;295.407;419656
+CSPR;Casper Sleep Inc.;Manufacturing - Apparel & Furniture;281.022545;1011102
+PRPL;Purple Innovation, Inc.;Manufacturing - Apparel & Furniture;275.90445;978141
+RCKY;ROCKY BRANDS, INC.;Manufacturing - Apparel & Furniture;217.248;1300071
+LCUT;LIFETIME BRANDS, INC;Manufacturing - Apparel & Furniture;213.4044;276271
+BSET;BASSETT FURNITURE INDUSTRIES INC;Manufacturing - Apparel & Furniture;204.954081;675839
+HOFT;HOOKER FURNITURE CORP;Manufacturing - Apparel & Furniture;199.23014;985052
+VRA;Vera Bradley, Inc.;Manufacturing - Apparel & Furniture;157.80576;49797
+FLXS;FLEXSTEEL INDUSTRIES INC;Manufacturing - Apparel & Furniture;117.2691;248318
+VNCE;VINCE HOLDING CORP.;Manufacturing - Apparel & Furniture;91.395693;198318
+CRWS;CROWN CRAFTS INC;Manufacturing - Apparel & Furniture;66.86575;256343
+DRTT;DIRTT ENVIRONMENTAL SOLUTIONS LTD;Manufacturing - Apparel & Furniture;60.2161;963028
+FORD;FORWARD INDUSTRIES INC;Manufacturing - Apparel & Furniture;17.908909;257294
+EFOI;ENERGY FOCUS, INC/DE;Manufacturing - Apparel & Furniture;5.44616;807596
+SQBG;Sequential Brands Group, Inc.;Manufacturing - Apparel & Furniture;0;137237
+ABT;ABBOTT LABORATORIES;Medical Devices;196158.064637;63877
+MDT;Medtronic plc;Medical Devices;127486.656;73420
+SYK;STRYKER CORP;Medical Devices;84799.728;105030
+ISRG;INTUITIVE SURGICAL INC;Medical Devices;83691.551;103498
+EW;Edwards Lifesciences Corp;Medical Devices;63505.652;108955
+BSX;BOSTON SCIENTIFIC CORP;Medical Devices;60547.795;239516
+WST;WEST PHARMACEUTICAL SERVICES INC;Medical Devices;24844.392;1167256
+ZBH;Zimmer Biomet Holdings;Medical Devices;24338.752;378249
+STJ;St Jude Medical;Medical Devices;23082.266193;378218
+ALGN;Align Technology Inc;Medical Devices;22659.2908;445691
+VAR;VARIAN MEDICAL SYSTEMS INC;Medical Devices;16261.898618;361284
+FRE.DE;Fresenius;Medical Devices;14138.06325;849704
+ABMD;Abiomed Inc;Medical Devices;13267.794;445587
+TFX;Teleflex Inc;Medical Devices;11871.11211;448874
+MASI;MASIMO CORP;Medical Devices;9129.582;350340
+GMED;GLOBUS MEDICAL INC;Medical Devices;6750.99726;617302
+NVST;Envista Holdings Corp;Medical Devices;6653.444;1234782
+PEN;Penumbra Inc;Medical Devices;6409.903325;920930
+IART;Integra Lifesciences Holdings Corp;Medical Devices;4640.7744;447419
+NARI;Inari Medical, Inc.;Medical Devices;3970.630592;1253259
+HAE;HAEMONETICS CORP;Medical Devices;3909.41568;1057790
+MMSI;MERIT MEDICAL SYSTEMS INC;Medical Devices;3589.67412;1173714
+TNDM;TANDEM DIABETES CARE INC;Medical Devices;3458.39325;693227
+LIVN;LivaNova PLC;Medical Devices;3375.85;678892
+NUVA;NUVASIVE INC;Medical Devices;2704.10356;110456
+INMD;InMode Ltd.;Medical Devices;2680.38114;1329301
+ITGR;Integer Holdings Corp;Medical Devices;2499.8805;101027
+SPNC;SPECTRANETICS CORP;Medical Devices;1687.820002;114601
+ESTA;ESTABLISHMENT LABS HOLDINGS INC.;Medical Devices;1636.120609;1253256
+BFLY;Butterfly Network, Inc.;Medical Devices;1571.266925;1253249
+KTWO;K2M GROUP HOLDINGS, INC.;Medical Devices;1202.767775;350257
+NTUS;Natus Medical Inc;Medical Devices;1114.01504;497305
+CUTR;CUTERA INC;Medical Devices;979.319;1253252
+VREX;Varex Imaging Corp;Medical Devices;915.306;1253254
+HNGR;HANGER, INC.;Medical Devices;727.071489;626019
+VRAY;ViewRay, Inc.;Medical Devices;684.288445;1253251
+CSII;Cardiovascular Systems Inc;Medical Devices;678.007035;178927
+MDXG;MIMEDX GROUP, INC.;Medical Devices;476.302589;693702
+AXGN;AxoGen, Inc.;Medical Devices;469.499829;822853
+ZYXI;ZYNEX INC;Medical Devices;372.9696;171401
+SPNE;SeaSpine Holdings Corp;Medical Devices;273.91415;147451
+ARAY;ACCURAY INC;Medical Devices;258.76602;173115
+TCMD;TACTILE SYSTEMS TECHNOLOGY INC;Medical Devices;215.266579;201913
+FONR;FONAR CORP;Medical Devices;99.427366;512339
+ELMD;Electromed, Inc.;Medical Devices;80.205607;187864
+EAR;Eargo, Inc.;Medical Devices;79.515884;1253401
+RWLK;ReWalk Robotics Ltd.;Medical Devices;68.798914;908640
+MGCD;MGC DIAGNOSTICS Corp;Medical Devices;48.632241;55248
+ACRX;ACELRX PHARMACEUTICALS INC;Medical Devices;47.08449;113247
+IRIX;IRIDEX CORP;Medical Devices;45.69696;1241345
+NURO;NeuroMetrix, Inc.;Medical Devices;24.263937;922227
+SRGA;SURGALIGN HOLDINGS, INC.;Medical Devices;20.620959;1093872
+STRR;STAR EQUITY HOLDINGS, INC.;Medical Devices;15.53279;641822
+NSPR;InspireMD, Inc.;Medical Devices;14.522499;143799
+SINT;Sintx Technologies, Inc.;Medical Devices;13.594107;498391
+DYNT;DYNATRONICS CORP;Medical Devices;10.990659;286288
+AVGR;Avinger Inc;Medical Devices;10.09254;896087
+VIVE;VIVEVE MEDICAL, INC.;Medical Devices;8.938277;981944
+MICR;MICRON SOLUTIONS INC /DE/;Medical Devices;8.371034;706150
+AHPI;ALLIED HEALTHCARE PRODUCTS INC;Medical Devices;8.267886;262963
+THMO;ThermoGenesis Holdings, Inc.;Medical Devices;2.952;258731
+RSLS;ReShape Lifesciences Inc.;Medical Devices;2.836615;794492
+TMO;THERMO FISHER SCIENTIFIC INC.;Medical Diagnostics & Research;236027.12;372802
+DHR;DANAHER CORP /DE/;Medical Diagnostics & Research;215023.488;89750
+IQV;IQVIA HOLDINGS INC.;Medical Diagnostics & Research;46078.893;744724
+A;AGILENT TECHNOLOGIES INC;Medical Diagnostics & Research;39698.23;45846
+DXCM;DEXCOM INC;Medical Diagnostics & Research;35635.075;352596
+IDXX;Idexx Laboratories Inc;Medical Diagnostics & Research;32264.8784;447447
+LH;Laboratory Corp. of America Holding;Medical Diagnostics & Research;23919.545;378177
+ICLR;ICON PLC;Medical Diagnostics & Research;20070.540951;1253239
+PKI;PerkinElmer;Medical Diagnostics & Research;19731.4683;378197
+DGX;QUEST DIAGNOSTICS INC;Medical Diagnostics & Research;16442.01;341807
+BIO;BIO RAD LABORATORIES INC;Medical Diagnostics & Research;15909.10218;130356
+RGEN;REPLIGEN CORP;Medical Diagnostics & Research;13993.527565;933166
+CRL;CHARLES RIVER LABORATORIES INTERNATIONAL INC;Medical Diagnostics & Research;11593.74276;187129
+XLRN;ACCELERON PHARMA INC;Medical Diagnostics & Research;10823.294268;1291790
+PRAH;PRA Health Sciences, Inc.;Medical Diagnostics & Research;10704.848034;1054949
+SWAV;Shockwave Medical, Inc.;Medical Diagnostics & Research;10387.016814;1253257
+BRKR;BRUKER CORP;Medical Diagnostics & Research;9051.75;1253240
+OGN;Organon & Co.;Medical Diagnostics & Research;7920.28124;1243189
+EXAS;EXACT SCIENCES CORP;Medical Diagnostics & Research;7250.32404;41775
+SYNH;Syneos Health;Medical Diagnostics & Research;7071.94228;336622
+MEDP;Medpace Holdings, Inc.;Medical Diagnostics & Research;5891.63076;989058
+LNTH;Lantheus Holdings, Inc.;Medical Diagnostics & Research;5726.03812;179201
+GH;Guardant Health, Inc.;Medical Diagnostics & Research;5425.83899;882847
+NTRA;Natera, Inc.;Medical Diagnostics & Research;5323.43448;149288
+PRXL;PAREXEL INTERNATIONAL CORP;Medical Diagnostics & Research;4502.236505;210352
+PGNY;Progyny, Inc.;Medical Diagnostics & Research;4175.210001;1234786
+QDEL;QUIDEL CORP /DE/;Medical Diagnostics & Research;3705.60492;1055094
+GDRX;GoodRx Holdings, Inc.;Medical Diagnostics & Research;3012.70685;1243191
+PCRX;Pacira BioSciences, Inc.;Medical Diagnostics & Research;2577.3842;982111
+GHDX;GENOMIC HEALTH INC;Medical Diagnostics & Research;2384.557217;776327
+NEOG;NEOGEN CORP;Medical Diagnostics & Research;2361.51012;965693
+MYGN;MYRIAD GENETICS INC;Medical Diagnostics & Research;2148.888605;748224
+ABAX;ABAXIS INC;Medical Diagnostics & Research;1898.293;36105
+OPK;OPKO HEALTH, INC.;Medical Diagnostics & Research;1845.501032;1253386
+PACB;PACIFIC BIOSCIENCES OF CALIFORNIA, INC.;Medical Diagnostics & Research;1795.992;81196
+SIGA;SIGA TECHNOLOGIES INC;Medical Diagnostics & Research;1767.537059;1241827
+VCYT;VERACYTE, INC.;Medical Diagnostics & Research;1724.73919;1252953
+NEO;NEOGENOMICS INC;Medical Diagnostics & Research;1498.74144;778404
+RDNT;RadNet, Inc.;Medical Diagnostics & Research;1283.76997;143984
+TMDX;TransMedics Group, Inc.;Medical Diagnostics & Research;1231.212037;963380
+CDNA;CareDx, Inc.;Medical Diagnostics & Research;1199.712249;171003
+HSKA;HESKA CORP;Medical Diagnostics & Research;966.07915;1253403
+CERS;CERUS CORP;Medical Diagnostics & Research;891.79776;1253026
+OXFD;Oxford Immunotec Global PLC;Medical Diagnostics & Research;570.900356;124252
+SRDX;SURMODICS INC;Medical Diagnostics & Research;542.11668;366154
+SOLY;Soliton, Inc.;Medical Diagnostics & Research;487.649964;987539
+ARA;American Renal Associates Holdings, Inc.;Medical Diagnostics & Research;397.660758;84598
+ZOM;Zomedica Corp.;Medical Diagnostics & Research;322.903045;1164823
+OSUR;ORASURE TECHNOLOGIES INC;Medical Diagnostics & Research;316.976;1253129
+FLDM;FLUIDIGM CORP;Medical Diagnostics & Research;284.37892;1253027
+SDC;SmileDirectClub, Inc.;Medical Diagnostics & Research;240.428616;969099
+VYGR;Voyager Therapeutics, Inc.;Medical Diagnostics & Research;232.85443;1170785
+ENZ;ENZO BIOCHEM INC;Medical Diagnostics & Research;131.5251;50379
+DRIO;DarioHealth Corp.;Medical Diagnostics & Research;131.416471;1253255
+CRDF;Cardiff Oncology, Inc.;Medical Diagnostics & Research;119.95762;798464
+PTN;PALATIN TECHNOLOGIES INC;Medical Diagnostics & Research;76.248574;642335
+ISR;Isoray, Inc.;Medical Diagnostics & Research;58.20155;998412
+PMD;PSYCHEMEDICS CORP;Medical Diagnostics & Research;35.9996;512201
+CNTG;Centogene N.V.;Medical Diagnostics & Research;35.830582;1253237
+PRPO;Precipio, Inc.;Medical Diagnostics & Research;30.429669;778232
+TTOO;T2 Biosystems, Inc.;Medical Diagnostics & Research;26.587613;728864
+ONVO;ORGANOVO HOLDINGS, INC.;Medical Diagnostics & Research;26.394233;53151
+QTNT;Quotient Ltd;Medical Diagnostics & Research;24.056123;1253244
+HTGM;HTG MOLECULAR DIAGNOSTICS, INC;Medical Diagnostics & Research;11.002456;702606
+ALR;ALERE INC.;Medical Diagnostics & Research;10.421705;139220
+MCK;MCKESSON CORP;Medical Distribution;54543.256;380928
+ABC;AMERISOURCEBERGEN CORP;Medical Distribution;31888.3841;187024
+CAH;CARDINAL HEALTH INC;Medical Distribution;19148.22;159950
+HSIC;Henry Schein;Medical Distribution;10882.6575;378104
+PDCO;PATTERSON COMPANIES, INC.;Medical Distribution;2951.57328;196179
+PBH;Prestige Brands Holdings, Inc.;Medical Distribution;2827.35;641370
+OMI;OWENS & MINOR INC/VA/;Medical Distribution;2508.28058;347188
+BDX;BECTON DICKINSON & CO;Medical Instruments & Equipment;76232.9493;71373
+ILMN;ILLUMINA INC;Medical Instruments & Equipment;34513.31;86933
+RMD;RESMED INC;Medical Instruments & Equipment;34468.239;129653
+BAX;BAXTER INTERNATIONAL INC;Medical Instruments & Equipment;31167.36;254808
+MTD;METTLER TOLEDO INTERNATIONAL INC/;Medical Instruments & Equipment;30876.088918;334921
+BCR;BARD C R INC /NJ/;Medical Instruments & Equipment;24144.869301;71733
+STE;STERIS plc;Medical Instruments & Equipment;21264.42254;749030
+WAT;Waters Corporation;Medical Instruments & Equipment;19819.8152;378240
+PODD;INSULET CORP;Medical Instruments & Equipment;18629.71516;349262
+HOLX;HOLOGIC INC;Medical Instruments & Equipment;18267.5746;362221
+COO;COOPER COMPANIES INC;Medical Instruments & Equipment;16627.411;186450
+HRC;Hill-Rom Holdings, Inc.;Medical Instruments & Equipment;10276.79736;357864
+NVCR;Novocure Ltd;Medical Instruments & Equipment;8689.337876;440850
+XRAY;Dentsply Sirona;Medical Instruments & Equipment;8040.108;378126
+STAA;STAAR SURGICAL CO;Medical Instruments & Equipment;4886.11467;849329
+VWR;VWR Corp;Medical Instruments & Equipment;4384.665331;1071165
+ICUI;ICU MEDICAL INC/DE;Medical Instruments & Equipment;4279.47476;550676
+CMD;CANTEL MEDICAL CORP;Medical Instruments & Equipment;3400.793299;52478
+SILK;Silk Road Medical Inc;Medical Instruments & Equipment;1678.789613;963382
+AVNS;Avanos Medical, Inc.;Medical Instruments & Equipment;1345.212;536304
+BLFS;BIOLIFE SOLUTIONS INC;Medical Instruments & Equipment;1056.46774;148798
+UTMD;UTAH MEDICAL PRODUCTS INC;Medical Instruments & Equipment;345.4706;515633
+IVTY;Invuity, Inc.;Medical Instruments & Equipment;177.90448;103578
+INFU;InfuSystem Holdings, Inc;Medical Instruments & Equipment;163.848067;371010
+MYMD;MyMD Pharmaceuticals, Inc.;Medical Instruments & Equipment;150.235219;592461
+LAKE;LAKELAND INDUSTRIES INC;Medical Instruments & Equipment;121.093875;243284
+SPAN;SPAN AMERICA MEDICAL SYSTEMS INC;Medical Instruments & Equipment;82.641194;164268
+PDEX;PRO DEX INC;Medical Instruments & Equipment;64.47291;246198
+AUGX;Augmedix, Inc.;Medical Instruments & Equipment;64.355683;1295830
+CFMS;ConforMIS Inc;Medical Instruments & Equipment;63.103696;613117
+BMRA;BIOMERICA INC;Medical Instruments & Equipment;39.791798;245138
+MBOT;Microbot Medical Inc.;Medical Instruments & Equipment;36.606885;705845
+NEPH;NEPHROS INC;Medical Instruments & Equipment;17.199577;138152
+REMI;REMEDENT, INC.;Medical Instruments & Equipment;3.399315;76840
+VLRX;Valeritas Holdings Inc.;Medical Instruments & Equipment;0.249945;867483
+RIO;RIO TINTO PLC;Metals & Mining;397613.992;1301815
+FCX;Freeport-McMoran Cp & Gld;Metals & Mining;44887.7;378154
+SCCO;SOUTHERN COPPER CORP/;Metals & Mining;38129.292;1300946
+NEM;NEWMONT MINING CORP /DE/;Metals & Mining;36563.7;103736
+CLF;CLEVELAND-CLIFFS INC.;Metals & Mining;10242.86;754906
+AA;Alcoa Corp;Metals & Mining;9774.08;367153
+RGLD;ROYAL GOLD INC;Metals & Mining;6670.275077;1054412
+BTU;PEABODY ENERGY CORP;Metals & Mining;3374.986;918412
+ARCH;ARCH COAL INC;Metals & Mining;2600.12276;646016
+HL;HECLA MINING CO/DE/;Metals & Mining;2448.88054;896570
+MTRN;MATERION Corp;Metals & Mining;1980.50601;739542
+CRS;CARPENTER TECHNOLOGY CORP;Metals & Mining;1897.83;993068
+HCC;WARRIOR MET COAL, INC.;Metals & Mining;1743.84288;1253797
+CMP;COMPASS MINERALS INTERNATIONAL INC;Metals & Mining;1501.75138;638470
+SLCA;U.S. SILICA HOLDINGS, INC.;Metals & Mining;1116.00824;534435
+CDE;Coeur Mining, Inc.;Metals & Mining;825.228;529633
+CENX;CENTURY ALUMINUM CO;Metals & Mining;817.215;1334621
+MUX;McEwen Mining Inc.;Metals & Mining;158.40952;809890
+HP;Helmerich & Payne, Inc.;Oil & Gas - Drilling;4294.73831;360878
+PTEN;PATTERSON UTI ENERGY INC;Oil & Gas - Drilling;3071.86009;345674
+RSPP;RSP Permian Inc;Oil & Gas - Drilling;2440.082222;448551
+RIG;Transocean Ltd.;Oil & Gas - Drilling;2359.72;350729
+NE;Noble Corp plc;Oil & Gas - Drilling;2027.0367;134105
+RDC;ROWAN COMPANIES PLC;Oil & Gas - Drilling;1391.330448;252069
+NBR;NABORS INDUSTRIES LTD;Oil & Gas - Drilling;1121.14026;1249671
+ATW;ATWOOD OCEANICS INC;Oil & Gas - Drilling;735.392107;412984
+VALPQ;Valaris plc;Oil & Gas - Drilling;13.981137;822750
+COP;ConocoPhillips;Oil & Gas - E&P;130323.193;378120
+EOG;EOG RESOURCES INC;Oil & Gas - E&P;65422.62;100699
+OXY;OCCIDENTAL PETROLEUM CORP /DE/;Oil & Gas - E&P;59477.115;334205
+PXD;Pioneer Natural Resources;Oil & Gas - E&P;55447.04;378199
+DVN;DEVON ENERGY CORP/DE;Oil & Gas - E&P;41708.48;122079
+APC;ANADARKO PETROLEUM CORP;Oil & Gas - E&P;36563.53581;67564
+HES;Hess Corporation;Oil & Gas - E&P;34512.791211;378163
+CLR;CONTINENTAL RESOURCES, INC;Oil & Gas - E&P;24253.475745;101392
+FANG;Diamondback Energy, Inc.;Oil & Gas - E&P;22175.4263;896740
+EQT;EQT Corporation;Oil & Gas - E&P;17655.76098;378136
+MRO;Marathon Oil Corp.;Oil & Gas - E&P;16204.15;378185
+CXO;Concho Resources;Oil & Gas - E&P;12877.584384;378119
+AR;ANTERO RESOURCES Corp;Oil & Gas - E&P;12729.33435;466098
+ECA;ENCANA CORP;Oil & Gas - E&P;12552.022415;897579
+OVV;Ovintiv Inc.;Oil & Gas - E&P;12434.994;980326
+APA;APACHE CORP;Oil & Gas - E&P;11328.02;254576
+CHK;Chesapeake Energy;Oil & Gas - E&P;10782.52;378111
+XEC;Cimarex Energy;Oil & Gas - E&P;8965.799011;378115
+COG;Cabot Oil & Gas;Oil & Gas - E&P;8887.089393;378102
+SWN;SOUTHWESTERN ENERGY CO;Oil & Gas - E&P;8371.318185;401903
+RRC;RANGE RESOURCES CORP;Oil & Gas - E&P;8149.67724;110931
+MTDR;Matador Resources Co;Oil & Gas - E&P;6723.60379;1333935
+NFG;National Fuel Gas Co;Oil & Gas - E&P;6609.544272;448011
+MUR;MURPHY OIL CORP /DE;Oil & Gas - E&P;5296.57804;333627
+WPX;WPX Energy Inc;Oil & Gas - E&P;5290.612717;449237
+SM;SM Energy Co;Oil & Gas - E&P;4926.3831;978928
+DEN;DENBURY INC;Oil & Gas - E&P;4083.6273;919129
+NBL;NOBLE ENERGY INC;Oil & Gas - E&P;4058.843743;249388
+CRC;California Resources Corp;Oil & Gas - E&P;3542.006;822165
+NFX;NEWFIELD EXPLORATION CO /DE/;Oil & Gas - E&P;3419.803237;123505
+CNX;CNX Resources Corp;Oil & Gas - E&P;3409.513624;976576
+KOS;Kosmos Energy Ltd.;Oil & Gas - E&P;2742.18224;998443
+CPE;CALLON PETROLEUM CO;Oil & Gas - E&P;2409.79853;628030
+GPOR;GULFPORT ENERGY CORP;Oil & Gas - E&P;1875.03594;785453
+BCEI;Bonanza Creek Energy, Inc.;Oil & Gas - E&P;1731.320276;960881
+TALO;TALOS ENERGY INC.;Oil & Gas - E&P;1510.9578;1333936
+LINE;LINN ENERGY, INC.;Oil & Gas - E&P;1353.249821;640898
+ESTE;EARTHSTONE ENERGY INC;Oil & Gas - E&P;1146.623863;638141
+SYRG;SRC Energy Inc.;Oil & Gas - E&P;974.25312;786501
+CRZO;CARRIZO OIL & GAS INC;Oil & Gas - E&P;725.139095;628031
+REN;Resolute Energy Corp;Oil & Gas - E&P;716.000322;637543
+SGY;STONE ENERGY CORP;Oil & Gas - E&P;709.753898;123623
+SD;SANDRIDGE ENERGY INC;Oil & Gas - E&P;697.64799;849174
+PVAC;PENN VIRGINIA CORP;Oil & Gas - E&P;522.607877;359467
+EGY;VAALCO ENERGY INC /DE/;Oil & Gas - E&P;292.85725;699964
+REI;RING ENERGY, INC.;Oil & Gas - E&P;281.541099;942590
+EPM;EVOLUTION PETROLEUM CORP;Oil & Gas - E&P;221.054102;516432
+PHX;PANHANDLE OIL & GAS INC;Oil & Gas - E&P;104.88403;371566
+UPL;ULTRA PETROLEUM CORP;Oil & Gas - E&P;27.697608;700786
+EPE;EP Energy Corp;Oil & Gas - E&P;15.289184;716965
+XCO;EXCO RESOURCES INC;Oil & Gas - E&P;13.843759;470616
+CIE;Cobalt International Energy, Inc.;Oil & Gas - E&P;11.368343;546550
+LGCY;Legacy Reserves Inc.;Oil & Gas - E&P;4.592427;795422
+AREX;Approach Resources Inc;Oil & Gas - E&P;0.936304;919131
+XOM;EXXON MOBIL CORP;Oil & Gas - Integrated;387781.710202;121214
+CVX;CHEVRON CORP;Oil & Gas - Integrated;304640.22623;248396
+IMO;IMPERIAL OIL LTD;Oil & Gas - Integrated;31073.1356;702831
+QEP;QEP RESOURCES, INC.;Oil & Gas - Integrated;988.262174;504259
+TUSK;MAMMOTH ENERGY SERVICES, INC.;Oil & Gas - Integrated;175.66875;825691
+AE;ADAMS RESOURCES & ENERGY, INC.;Oil & Gas - Integrated;127.54434;191518
+ENB;ENBRIDGE INC;Oil & Gas - Midstream;87416.56;1300947
+EPD;ENTERPRISE PRODUCTS PARTNERS L P;Oil & Gas - Midstream;59415.162725;469948
+KMI;KINDER MORGAN, INC.;Oil & Gas - Midstream;42242.25;88392
+WMB;WILLIAMS COMPANIES INC;Oil & Gas - Midstream;41765.3808;344928
+LNG;CHENIERE ENERGY INC;Oil & Gas - Midstream;40900.608;260533
+ET;Energy Transfer LP;Oil & Gas - Midstream;31921.36;767563
+OKE;ONEOK INC /NEW/;Oil & Gas - Midstream;28271.9322;334076
+CQP;Cheniere Energy Partners, L.P.;Oil & Gas - Midstream;24040.28;704562
+TRGP;Targa Resources Corp.;Oil & Gas - Midstream;15542.794;625570
+WES;Western Gas Equity Partners, LP;Oil & Gas - Midstream;11405.6641;745556
+MMP;MAGELLAN MIDSTREAM PARTNERS LP;Oil & Gas - Midstream;11160.218;918211
+PAA;PLAINS ALL AMERICAN PIPELINE LP;Oil & Gas - Midstream;8220.42;980332
+ANDX;ANDEAVOR LOGISTICS LP;Oil & Gas - Midstream;7901.931383;904346
+CQH;Cheniere Energy Partners LP Holdings, LLC;Oil & Gas - Midstream;7430.619;704560
+BPL;BUCKEYE PARTNERS, L.P.;Oil & Gas - Midstream;6381.667978;669884
+DTM;DT Midstream, Inc.;Oil & Gas - Midstream;5545.745;1234768
+EQM;EQM Midstream Partners, LP;Oil & Gas - Midstream;4295.807011;1071166
+ETRN;Equitrans Midstream Corp;Oil & Gas - Midstream;4138.33015;980328
+EEP;ENBRIDGE ENERGY PARTNERS LP;Oil & Gas - Midstream;3405.573457;569369
+ENBL;Enable Midstream Partners, LP;Oil & Gas - Midstream;3072.85628;998439
+SHLX;Shell Midstream Partners, L.P.;Oil & Gas - Midstream;1957.278;909105
+HEP;HOLLY ENERGY PARTNERS LP;Oil & Gas - Midstream;1883.6152;967503
+BPMP;BP Midstream Partners LP;Oil & Gas - Midstream;1793.128;960880
+GEL;GENESIS ENERGY LP;Oil & Gas - Midstream;1356.951943;767446
+SEMG;SemGroup Corp;Oil & Gas - Midstream;1195.683457;733959
+GLP;GLOBAL PARTNERS LP;Oil & Gas - Midstream;951.00184;861498
+PUMP;ProPetro Holding Corp.;Oil & Gas - Midstream;893.30252;1145424
+OMP;Oasis Midstream Partners LP;Oil & Gas - Midstream;858.330358;914862
+CNNX;CONE Midstream Partners LP;Oil & Gas - Midstream;500.147525;208611
+ALTM;Altus Midstream Co;Oil & Gas - Midstream;289.34104;1249012
+SMLP;Summit Midstream Partners, LP;Oil & Gas - Midstream;162.656;890067
+MPC;Marathon Petroleum Corp;Oil & Gas - Refining & Marketing;54510.6;353184
+VLO;VALERO ENERGY CORP/TX;Oil & Gas - Refining & Marketing;46230.48;410846
+PSX;Phillips 66;Oil & Gas - Refining & Marketing;43168.74368;353084
+ANDV;Andeavor;Oil & Gas - Refining & Marketing;23197.839005;378224
+UGI;UGI CORP /PA/;Oil & Gas - Refining & Marketing;8817.4705;1070710
+HFC;HollyFrontier Corp;Oil & Gas - Refining & Marketing;5915.23089;684316
+PBF;PBF Energy Inc.;Oil & Gas - Refining & Marketing;4123.124036;546186
+REGI;Renewable Energy Group, Inc.;Oil & Gas - Refining & Marketing;2931.243258;760763
+DK;Delek US Holdings, Inc.;Oil & Gas - Refining & Marketing;1925.200403;823947
+INT;WORLD FUEL SERVICES CORP;Oil & Gas - Refining & Marketing;1711.744;344219
+CLNE;Clean Energy Fuels Corp.;Oil & Gas - Refining & Marketing;1710.516691;260313
+NS;NuStar Energy L.P.;Oil & Gas - Refining & Marketing;1670.042545;998422
+ALJ;Alon USA Energy, Inc.;Oil & Gas - Refining & Marketing;957.40782;344561
+SRLP;Sprague Resources LP;Oil & Gas - Refining & Marketing;496.357629;918357
+NGL;NGL Energy Partners LP;Oil & Gas - Refining & Marketing;212.937984;36205
+FGP;FERRELLGAS PARTNERS L P;Oil & Gas - Refining & Marketing;83.551292;825012
+SLB;SCHLUMBERGER LIMITED/NV;Oil & Gas - Services;50310.12;353500
+HAL;Halliburton Co.;Oil & Gas - Services;25501.84;378158
+BKR;Baker Hughes Company;Oil & Gas - Services;25085.06;679135
+BHI;BAKER HUGHES Holdings LLC;Oil & Gas - Services;24571.68;71832
+NOV;National Oilwell Varco Inc.;Oil & Gas - Services;6828.9;378193
+FTI;TechnipFMC plc;Oil & Gas - Services;3807.524;637893
+FTI_old;FMC Technologies Inc.;Oil & Gas - Services;2554.152472;378150
+WFRD;Weatherford International plc;Oil & Gas - Services;1657.14;117829
+RES;RPC Inc;Oil & Gas - Services;1565.76495;448466
+DNOW;NOW Inc.;Oil & Gas - Services;1182.15;558120
+AROC;Archrock, Inc.;Oil & Gas - Services;1162.2016;998457
+OII;OCEANEERING INTERNATIONAL INC;Oil & Gas - Services;900.29888;638114
+TDW;TIDEWATER INC;Oil & Gas - Services;821.8848;419436
+DRQ;DRIL-QUIP INC;Oil & Gas - Services;805.77984;113753
+MRC;MRC GLOBAL INC.;Oil & Gas - Services;771.375;558197
+LPG;DORIAN LPG LTD.;Oil & Gas - Services;589.983068;976577
+BOOM;DMC Global Inc.;Oil & Gas - Services;464.993136;953277
+FMSA;FAIRMOUNT SANTROL HOLDINGS INC.;Oil & Gas - Services;253.482085;645665
+TESO;TESCO CORP;Oil & Gas - Services;172.998243;141183
+MTRX;MATRIX SERVICE CO;Oil & Gas - Services;149.52691;182638
+FET;FORUM ENERGY TECHNOLOGIES, INC.;Oil & Gas - Services;145.122;124637
+MDR;MCDERMOTT INTERNATIONAL INC;Oil & Gas - Services;135.1;638112
+NINE;Nine Energy Service, Inc.;Oil & Gas - Services;86.63951;1249670
+GEOS;GEOSPACE TECHNOLOGIES CORP;Oil & Gas - Services;61.554404;357500
+SDPI;Superior Drilling Products, Inc.;Oil & Gas - Services;24.757018;745554
+WFT_old;Weatherford International LTD;Oil & Gas - Services;15.452643;449193
+LRDC;Laredo Oil, Inc.;Oil & Gas - Services;11.448101;176863
+IO;ION GEOPHYSICAL CORP;Oil & Gas - Services;10.069794;905324
+CRR;CARBO CERAMICS INC;Oil & Gas - Services;8.808361;534434
+BRS;Bristow Group Inc;Oil & Gas - Services;0.359189;255858
+GOOG;Alphabet (Google);Online Media;1608923.83;18
+META;Meta Platforms, Inc.;Online Media;485286.88;121021
+TWTR;TWITTER, INC.;Online Media;34047.5628;30388
+VRSN;Verisign Inc.;Online Media;22195.2;378234
+SNAP;Snap Inc;Online Media;20581.2854;449958
+MTCH;Match Group, Inc.;Online Media;19277.78643;647179
+NERO;NEUROMAMA, LTD.;Online Media;18902.99997;666925
+PINS;PINTEREST, INC.;Online Media;15224.94358;979810
+GDDY;GoDaddy Inc.;Online Media;13325.95836;647209
+IAC;IAC HOLDINGS, INC.;Online Media;7000.126506;647051
+GRUB;GrubHub Inc.;Online Media;5698.893752;433759
+ANGI;ANGI Homeservices Inc.;Online Media;2747.8176;647538
+YELP;YELP;Online Media;2672.06184;440174
+UPWK;Upwork Inc.;Online Media;2563.50231;898008
+WBMD;WebMD Health Corp.;Online Media;2524.978077;646643
+CARG;CarGurus, Inc.;Online Media;2457.789707;645427
+SSTK;Shutterstock, Inc.;Online Media;2335.35195;623203
+SOHU;SOHU COM INC;Online Media;2334.254568;138944
+CNVR;CONVERSANT, INC.;Online Media;2219.457663;521210
+TTGT;TechTarget Inc;Online Media;2119.86432;652015
+CRTO;Criteo S.A.;Online Media;1690.946456;884751
+WEB;WEB.COM GROUP, INC.;Online Media;1401.432849;651626
+RATE;Bankrate, Inc.;Online Media;1255.73721;140381
+VMEO;Vimeo, Inc.;Online Media;1187.25632;1207431
+XOXO;XO GROUP INC.;Online Media;907.207564;651859
+RST;ROSETTA STONE INC;Online Media;737.775413;985520
+QNST;QUINSTREET, INC;Online Media;691.76448;168827
+TCX;TUCOWS INC /PA/;Online Media;580.111647;651784
+MEET;Meet Group, Inc.;Online Media;458.256371;652598
+GRPN;Groupon, Inc.;Online Media;402.525722;639037
+LEAF;LEAF GROUP LTD.;Online Media;305.912487;652547
+BNFT;Benefitfocus, Inc.;Online Media;263.720271;967945
+TRUE;TrueCar, Inc.;Online Media;234.82128;81812
+LTRPA;Liberty TripAdvisor Holdings, Inc.;Online Media;110.2;651624
+LOV;SPARK NETWORKS INC;Online Media;94.597508;147014
+TZOO;TRAVELZOO;Online Media;77.70573;515536
+MARK;REMARK HOLDINGS, INC.;Online Media;48.06768;652365
+IPDN;Professional Diversity Network, Inc.;Online Media;13.124469;655301
+ABTL;AutoWeb, Inc.;Online Media;5.16589;445589
+WE;WeWork Inc.;Other;4375.738714;1298953
+LZ;LEGALZOOM.COM, INC.;Other;2441.08646;1271647
+TASK;TaskUs, Inc.;Other;1559.651754;1321941
+ADV;Advantage Solutions Inc.;Other;1401.679387;1108279
+MODN;MODEL N, INC.;Other;1143.92234;1251887
+CCO;Clear Channel Outdoor Holdings, Inc.;Other;936.43032;650825
+CRD-A;CRAWFORD & CO;Other;365.20058;823170
+BLL;BALL CORP;Packaging & Containers;22424.423;247618
+IP;INTERNATIONAL PAPER CO /NEW/;Packaging & Containers;17188.785708;261549
+PKG;Packaging Corp Of America;Packaging & Containers;13530.330441;448316
+CCK;Crown Holdings Inc;Packaging & Containers;12583.332415;446122
+WRK;WestRock Co;Packaging & Containers;10980.576;359889
+SEE;Sealed Air;Packaging & Containers;8656.34;378213
+BERY;BERRY GLOBAL GROUP INC;Packaging & Containers;8117.772;470977
+ATR;Aptargroup Inc;Packaging & Containers;7362.77486;445832
+BMS;BEMIS CO INC;Packaging & Containers;5221.88637;687804
+OI;OWENS ILLINOIS INC /DE/;Packaging & Containers;2283.18785;406666
+AEPI;AEP INDUSTRIES INC;Packaging & Containers;608.185566;210001
+TUP;TUPPERWARE BRANDS CORP;Packaging & Containers;567.84;125534
+CKP;CHECKPOINT SYSTEMS INC;Packaging & Containers;424.829496;669154
+HRB;H&R BLOCK INC;Personal Services;8876.38832;506954
+PLNT;Planet Fitness, Inc.;Personal Services;6678.7875;948485
+BFAM;BRIGHT HORIZONS FAMILY SOLUTIONS INC.;Personal Services;4679.979693;132997
+FCFS;FIRSTCASH, INC;Personal Services;3943.70175;1067474
+MCW;Mister Car Wash, Inc.;Personal Services;3468.555695;1248289
+CHGG;CHEGG, INC;Personal Services;2771.6704;987221
+FTDR;frontdoor, inc.;Personal Services;2112.433;952705
+SKIN;Beauty Health Co;Personal Services;2022.816609;1302957
+SFLY;SHUTTERFLY INC;Personal Services;1712.819938;650373
+NTRI;NUTRI SYSTEM INC /DE/;Personal Services;1265.104842;346874
+ROVR;ROVER GROUP, INC.;Personal Services;779.6217;1241210
+WW;WEIGHT WATCHERS INTERNATIONAL INC;Personal Services;511.11735;564422
+PETQ;PetIQ, Inc.;Personal Services;441.25132;1371623
+SLQT;SelectQuote, Inc.;Personal Services;373.84248;1251886
+EVI;EnviroStar, Inc.;Personal Services;166.37274;258455
+RGS;REGIS CORP;Personal Services;44.22;171506
+GRMM;Grom Social Enterprises, Inc.;Personal Services;5.622132;647541
+YOGAQ;YogaWorks, Inc.;Personal Services;0.682559;826179
+NYT;NEW YORK TIMES CO;Publishing;5545.056;647918
+JW-A;WILEY JOHN & SONS, INC.;Publishing;2959.39218;195872
+MDP;MEREDITH CORP;Publishing;2405.327151;253689
+TIME;Time Inc.;Publishing;2091.81;535758
+SCHL;SCHOLASTIC CORP;Publishing;1615.3206;651267
+VALU;VALUE LINE INC;Publishing;738.002533;208845
+TPCO;Tribune Publishing Co;Publishing;636.451246;627811
+DJCO;DAILY JOURNAL CORP;Publishing;371.365444;1076497
+GCI;Gannett Co., Inc.;Publishing;332.877;651516
+LEE;LEE ENTERPRISES, INC;Publishing;111.4961;652664
+DALN;DallasNews Corp;Publishing;35.808158;652799
+MNI;MCCLATCHY CO;Publishing;5.94797;653890
+CSGP;COSTAR GROUP INC;Real Estate Services;29551.78446;486790
+CBRE;CBRE Group;Real Estate Services;28973.742328;378105
+INVH;Invitation Homes Inc.;Real Estate Services;24297.302708;949710
+VNA.DE;Vonovia;Real Estate Services;19655.272922;858328
+JLL;JONES LANG LASALLE INC;Real Estate Services;9393.55704;122208
+Z;ZILLOW GROUP, INC.;Real Estate Services;9330.7815;647182
+DWNI.DE;Deutsche Wohnen;Real Estate Services;8422.433655;1105024
+DEI;Douglas Emmett Inc;Real Estate Services;3948.10864;1057794
+HIW;HIGHWOODS PROPERTIES, INC.;Real Estate Services;3702.78923;949691
+OPEN;Opendoor Technologies Inc.;Real Estate Services;3549.76144;1124649
+KW;Kennedy-Wilson Holdings, Inc.;Real Estate Services;2831.642896;949713
+EXPI;EXP World Holdings, Inc.;Real Estate Services;2559.02681;795710
+JOE;ST JOE CO;Real Estate Services;2518.399906;546306
+DEA;Easterly Government Properties, Inc.;Real Estate Services;1756.038642;949499
+MMI;Marcus & Millichap, Inc.;Real Estate Services;1628.75216;134979
+RDFN;Redfin Corp;Real Estate Services;1336.545953;808089
+CXW;CoreCivic, Inc.;Real Estate Services;1221.24756;949493
+VCSA;Vacasa, Inc.;Real Estate Services;1210.5788;1307826
+FPI;Farmland Partners Inc.;Real Estate Services;750.3938;1249733
+FOR;Forestar Group Inc.;Real Estate Services;680.268;627775
+TRC;TEJON RANCH CO;Real Estate Services;426.626802;669774
+FPH;Five Point Holdings, LLC;Real Estate Services;272.021593;882941
+BRRE;BLUE RIDGE REAL ESTATE CO;Real Estate Services;23.891634;547113
+CAGU;CASTLE GROUP INC;Real Estate Services;1.005639;154936
+LSI_old;Lsi Corp;REITs;115428.952112;447735
+PLD;Prologis, Inc.;REITs;101548.73907;113992
+EQIX;Equinix;REITs;64821.27344;378138
+PSA;Public Storage;REITs;61894.38738;378204
+O;REALTY INCOME CORP;REITs;43765.071936;81605
+DLR;Digital Realty Trust, Inc.;REITs;38299.88382;286372
+SPG;SIMON PROPERTY GROUP INC /DE/;REITs;37633.44788;111127
+WELL;Welltower Inc.;REITs;35241.07994;378241
+VICI;VICI PROPERTIES INC.;REITs;33968.305064;1338976
+AVB;AVALONBAY COMMUNITIES INC;REITs;30647.775332;66223
+EQR;Equity Residential;REITs;30104.55653;421306
+EXR;Extra Space Storage Inc.;REITs;28548.12096;130051
+ARE;Alexandria Real Estate Equities Inc;REITs;27143.61284;445788
+DRE;Duke Realty Corp;REITs;25208.41923;446513
+MAA;MID AMERICA APARTMENT COMMUNITIES INC.;REITs;21714.19248;744578
+VTR;VENTAS INC;REITs;20223.35112;398980
+SUI;SUN COMMUNITIES INC;REITs;19727.83;749231
+ESS;Essex Property Trust Inc;REITs;19482.860564;378140
+WPC;W P Carey Inc;REITs;17137.738107;449233
+CPT;Camden Property Trust;REITs;15860.23126;446323
+UDR;UDR, Inc.;REITs;15631.02839;424210
+PEAK;HEALTHPEAK PROPERTIES, INC.;REITs;15227.34325;378162
+ELS;Equity Lifestyle Properties Inc;REITs;14932.41078;446592
+KIM;Kimco Realty;REITs;14609.18466;378175
+BXP;BOSTON PROPERTIES INC;REITs;14078.1576;70579
+HST;HOST HOTELS & RESORTS, INC.;REITs;13943.136;346970
+AMH;American Homes 4 Rent;REITs;13461.943024;445723
+GLPI;Gaming & Leisure Properties Inc;REITs;12580.6576;447206
+VER;VEREIT, Inc.;REITs;11525.236686;543421
+LSI;LIFE STORAGE, INC.;REITs;11470.04115;901127
+CUBE;CubeSmart;REITs;11358.2304;117529
+REXR;Rexford Industrial Realty, Inc.;REITs;11222.82176;139560
+CONE;CyrusOne Inc.;REITs;11222.712;1055097
+LAMR;LAMAR ADVERTISING CO/NEW;REITs;10734.899379;143321
+FRT;Federal Realty Investment Trust;REITs;8763.11872;378144
+NNN;National Retail Properties Inc;REITs;8352.44718;448043
+STOR;STORE CAPITAL Corp;REITs;8035.595637;534667
+OHI;OMEGA HEALTHCARE INVESTORS INC;REITs;7993.01599;531049
+EGP;EASTGROUP PROPERTIES INC;REITs;7364.06084;899359
+FR;FIRST INDUSTRIAL REALTY TRUST INC;REITs;7328.6916;949678
+COR;CoreSite Realty Corp;REITs;7282.062761;82753
+BRX;Brixmor Property Group Inc.;REITs;7265.80624;108186
+GGP_old;General Growth Properties Inc.;REITs;7001.670432;378155
+AGNC;American Capital Agency Corp;REITs;6735.36;445654
+MGP;MGM Growth Properties LLC;REITs;6529.90152;949731
+STAG;STAG Industrial, Inc.;REITs;6291.78186;1298651
+VNO;Vornado Realty Trust;REITs;5823.20802;378237
+SRC;Spirit Realty Capital Inc;REITs;5339.608329;448754
+NSA;National Storage Affiliates Trust;REITs;5227.90651;949734
+PSB;PS BUSINESS PARKS INC/CA;REITs;5166.7836;949477
+DFT;Dupont Fabros Technology Inc;REITs;5165.694153;446473
+CUZ;Cousins Properties Inc;REITs;4585.53792;446395
+GPT;Gramercy Property Trust;REITs;4418.668502;630304
+EPR;EPR PROPERTIES;REITs;4154.97426;701414
+DOC;Physicians Realty Trust;REITs;4088.185023;998407
+WRI;Weingarten Realty Investors;REITs;4012.58568;449242
+PK;Park Hotels & Resorts Inc.;REITs;3750.6;641161
+SBRA;Sabra Health Care REIT, Inc.;REITs;3681.616578;737503
+SLG;SL GREEN REALTY CORP;REITs;3452.715;127650
+OUT;OUTFRONT Media Inc.;REITs;3329.2;706846
+EPRT;ESSENTIAL PROPERTIES REALTY TRUST, INC.;REITs;3181.128591;949674
+JBGS;JBG SMITH Properties;REITs;3178.6942;949711
+IIPR;INNOVATIVE INDUSTRIAL PROPERTIES INC;REITs;2914.004197;949475
+SHO;Sunstone Hotel Investors Inc;REITs;2662.3714;448662
+PEB;Pebblebrook Hotel Trust;REITs;2657.368983;107219
+ABR;ARBOR REALTY TRUST INC;REITs;2579.359513;638468
+MAC;Macerich;REITs;2478.8347;378184
+UNIT;Uniti Group Inc.;REITs;2431.96992;990739
+SAFE;Safehold Inc.;REITs;2414.89972;998404
+FCPT;Four Corners Property Trust, Inc.;REITs;2315.702147;623532
+CXP;COLUMBIA PROPERTY TRUST, INC.;REITs;2214.67673;949490
+XHR;Xenia Hotels & Resorts, Inc.;REITs;2083.027117;983818
+QCP;QUALITY CARE PROPERTIES, INC.;REITs;1953.630889;356195
+STFR;Steadfast Apartment REIT, Inc.;REITs;1930.509388;152617
+ARI;Apollo Commercial Real Estate Finance, Inc.;REITs;1837.522318;498489
+AAT;American Assets Trust, Inc.;REITs;1835.430229;919944
+PGRE;Paramount Group, Inc.;REITs;1721.939032;350539
+AKR;ACADIA REALTY TRUST;REITs;1685.67016;664572
+CHSP;Chesapeake Lodging Trust;REITs;1651.006677;115723
+AIV;APARTMENT INVESTMENT & MANAGEMENT CO;REITs;1397.264;67201
+ALX;ALEXANDERS INC;REITs;1331.198144;87732
+BFS;SAUL CENTERS INC;REITs;1175.80932;664571
+GEO;GEO GROUP INC;REITs;955.62891;365061
+BRMK;Broadmark Realty Capital Inc.;REITs;949.610247;996201
+CPLG;CorePoint Lodging Inc.;REITs;935.205099;949495
+GOOD;GLADSTONE COMMERCIAL CORP;REITs;815.598059;106972
+LAND;GLADSTONE LAND Corp;REITs;796.605544;1300438
+CLDT;Chatham Lodging Trust;REITs;671.381026;849434
+SRG;Seritage Growth Properties;REITs;597.50136;998409
+HT;HERSHA HOSPITALITY TRUST;REITs;464.25732;949690
+SNH;Senior Housing Properties Trust;REITs;450.327423;448715
+BHR;Braemar Hotels & Resorts Inc.;REITs;406.0476;949483
+CDR;CEDAR REALTY TRUST, INC.;REITs;384.6876;664567
+MSB;MESABI TRUST;REITs;358.569873;1171698
+NHHS;NorthStar Healthcare Income, Inc.;REITs;349.280476;148446
+AJX;Great Ajax Corp.;REITs;228.594565;90767
+PINE;Alpine Income Property Trust, Inc.;REITs;221.129496;1338974
+SHOS;SEARS HOMETOWN & OUTLET STORES, INC.;REITs;77.187249;39593
+SOHO;Sotherly Hotels Inc.;REITs;47.786351;158088
+IHT;INNSUITES HOSPITALITY TRUST;REITs;22.316246;244789
+MCD;MCDONALDS CORP;Restaurants;196933.95199;243628
+SBUX;STARBUCKS CORP;Restaurants;102541.8;86689
+CMG;CHIPOTLE MEXICAN GRILL INC;Restaurants;47848.1454;80874
+YUM;YUM BRANDS INC;Restaurants;34402.56;98663
+QSR;Restaurant Brands International Inc.;Restaurants;18732.56;716651
+DRI;DARDEN RESTAURANTS INC;Restaurants;17062.45;108420
+DPZ;DOMINOS PIZZA INC;Restaurants;14850.300524;338660
+DHER.DE;Delivery Hero;Restaurants;10744.040071;1087474
+ARMK;Aramark;Restaurants;9681.7425;361112
+DNKN;DUNKIN' BRANDS GROUP, INC.;Restaurants;8775.770252;101599
+PNRA;PANERA BREAD CO;Restaurants;7155.3425;412883
+TXRH;Texas Roadhouse, Inc.;Restaurants;6433.21886;821877
+WEN;Wendy's Co;Restaurants;4590.52851;217619
+WING;Wingstop Inc.;Restaurants;4020.02546;1057792
+PZZA;PAPA JOHNS INTERNATIONAL INC;Restaurants;3330.844;352171
+CBRL;CRACKER BARREL OLD COUNTRY STORE, INC;Restaurants;2523.684645;37621
+SG;Sweetgreen, Inc.;Restaurants;2297.784834;1334625
+BROS;Dutch Bros Inc.;Restaurants;2262.13292;1329540
+SHAK;Shake Shack Inc.;Restaurants;2113.15849;148890
+PLAY;Dave & Buster's Entertainment, Inc.;Restaurants;2112.134413;44636
+JACK;JACK IN THE BOX INC /NEW/;Restaurants;2059.88229;682281
+CAKE;CHEESECAKE FACTORY INC;Restaurants;1707.61543;817638
+SONC;SONIC CORP;Restaurants;1552.056464;343236
+EAT;BRINKER INTERNATIONAL, INC;Restaurants;1504.085;980378
+KKD;KRISPY KREME DOUGHNUTS INC;Restaurants;1279.194;47513
+DIN;DineEquity, Inc;Restaurants;1226.862;545516
+RICK;RCI HOSPITALITY HOLDINGS, INC.;Restaurants;693.428225;100383
+RUTH;Ruths Hospitality Group, Inc.;Restaurants;679.443859;998690
+BJRI;BJs RESTAURANTS INC;Restaurants;662.0105;537369
+DENN;DENNY'S Corp;Restaurants;614.96022;986862
+BOJA;Bojangles', Inc.;Restaurants;604.158165;82963
+TACO;Del Taco Restaurants, Inc.;Restaurants;456.063096;823787
+HABT;Habit Restaurants, Inc.;Restaurants;365.264351;639722
+FRSH;Papa Murphy's Holdings, Inc.;Restaurants;278.943669;881925
+NDLS;NOODLES & Co;Restaurants;255.559142;759987
+JMBA;JAMBA, INC.;Restaurants;203.484427;365536
+FRGI;Fiesta Restaurant Group, Inc.;Restaurants;183.358054;625539
+RT;RUBY TUESDAY INC;Restaurants;145.353922;330525
+RRGB;RED ROBIN GOURMET BURGERS INC;Restaurants;142.16645;980379
+TAST;CARROLS RESTAURANT GROUP, INC.;Restaurants;111.241768;625660
+ARKR;ARK RESTAURANTS CORP;Restaurants;75.0186;952460
+WTRH;Waitr Holdings Inc.;Restaurants;62.607393;1241828
+BBRG;Bravo Brio Restaurant Group, Inc.;Restaurants;61.944811;350647
+RAVE;RAVE RESTAURANT GROUP, INC.;Restaurants;25.02695;640428
+KONAQ;KONA GRILL INC;Restaurants;1.061106;884107
+ARMK_old;Aramark Services, Inc.;Restaurants;0.03775;692435
+AMZN;AMAZON COM INC;Retail - Apparel & Specialty;1473136.5;62747
+HD;HOME DEPOT INC;Retail - Apparel & Specialty;339820.44;261673
+BABA;Alibaba Group Holding Ltd;Retail - Apparel & Specialty;247852.235667;1202765
+LOW;LOWES COMPANIES INC;Retail - Apparel & Specialty;141319.2;186050
+TJX;TJX COMPANIES INC /DE/;Retail - Apparel & Specialty;78276.031632;256569
+MELI;MERCADOLIBRE INC;Retail - Apparel & Specialty;53118.224528;884834
+ORLY;O REILLY AUTOMOTIVE INC;Retail - Apparel & Specialty;48354.49044;334679
+AZO;AUTOZONE INC;Retail - Apparel & Specialty;48068.23817;58197
+LULU;lululemon athletica inc.;Retail - Apparel & Specialty;42483.1409;90670
+ADS.DE;adidas Group;Retail - Apparel & Specialty;34263.128839;847329
+ROST;ROSS STORES INC;Retail - Apparel & Specialty;32150.98992;200092
+EBAY;EBAY INC;Retail - Apparel & Specialty;27522;104109
+TSCO;Tractor Supply Company;Retail - Apparel & Specialty;22845.8207;378228
+GPC;GENUINE PARTS CO;Retail - Apparel & Specialty;22585.9314;115285
+ULTA;Ulta Salon, Cosmetics & Fragrance, Inc.;Retail - Apparel & Specialty;21279.335;178804
+CHWY;Chewy, Inc.;Retail - Apparel & Specialty;21024.50406;951287
+BBY;BEST BUY CO INC;Retail - Apparel & Specialty;19266.66;71192
+TIF;TIFFANY & CO;Retail - Apparel & Specialty;15959.244;249289
+ETSY;ETSY INC;Retail - Apparel & Specialty;15359.862086;469839
+WFM;WHOLE FOODS MARKET INC;Retail - Apparel & Specialty;13447.369303;90839
+AAP;ADVANCE AUTO PARTS INC;Retail - Apparel & Specialty;13174.1984;184955
+GME;GameStop Corp.;Retail - Apparel & Specialty;12808.884;44534
+WSM;WILLIAMS SONOMA INC;Retail - Apparel & Specialty;11964.60837;198669
+BBWI;Bath & Body Works, Inc.;Retail - Apparel & Specialty;10690.26322;185942
+FND;Floor & Decor Holdings, Inc.;Retail - Apparel & Specialty;10497.5057;693510
+TPR;Tapestry Inc;Retail - Apparel & Specialty;10068.654;331230
+DECK;DECKERS OUTDOOR CORP;Retail - Apparel & Specialty;9148.36205;1054410
+DKS;DICKS SPORTING GOODS INC;Retail - Apparel & Specialty;8597.02585;179423
+PETM;PETSMART INC;Retail - Apparel & Specialty;8249.15067;953585
+FIVE;FIVE BELOW, INC;Retail - Apparel & Specialty;8201.284336;902627
+W;Wayfair Inc.;Retail - Apparel & Specialty;7721.7;417451
+RH;RH;Retail - Apparel & Specialty;7057.296726;951586
+VIPS;Vipshop Holdings Ltd;Retail - Apparel & Specialty;6757.390079;1253412
+SPLS;STAPLES INC;Retail - Apparel & Specialty;6731.31154;166539
+DDS;DILLARD'S, INC.;Retail - Apparel & Specialty;6311.1;949971
+M;Macy's, Inc.;Retail - Apparel & Specialty;6259.115;185124
+CVNA;CARVANA CO.;Retail - Apparel & Specialty;5538.1555;717670
+KSS;KOHLS Corp;Retail - Apparel & Specialty;4702.06;186130
+JWN;NORDSTROM INC;Retail - Apparel & Specialty;4293.882;184768
+GPS;GAP INC;Retail - Apparel & Specialty;4247.6;250974
+ASO;Academy Sports & Outdoors, Inc.;Retail - Apparel & Specialty;4199.44668;1271540
+YETI;YETI Holdings, Inc.;Retail - Apparel & Specialty;4074.74285;1234805
+FTCH;Farfetch Ltd;Retail - Apparel & Specialty;3778.819848;1242699
+SIG;SIGNET JEWELERS LTD;Retail - Apparel & Specialty;3437.96;185651
+CRI;Carter's Inc;Retail - Apparel & Specialty;3437.523597;933049
+MIK;Michaels Companies, Inc.;Retail - Apparel & Specialty;3111.18308;50465
+BID;SOTHEBYS;Retail - Apparel & Specialty;2656.768539;136608
+SHOO;STEVEN MADDEN, LTD.;Retail - Apparel & Specialty;2651.13428;1198893
+HOME;At Home Group Inc.;Retail - Apparel & Specialty;2425.539093;233408
+KATE;Kate Spade & Co;Retail - Apparel & Specialty;2377.900367;441025
+URBN;URBAN OUTFITTERS INC;Retail - Apparel & Specialty;2327.80062;46954
+AEO;AMERICAN EAGLE OUTFITTERS INC;Retail - Apparel & Specialty;2311.3758;173396
+BOOT;Boot Barn Holdings, Inc.;Retail - Apparel & Specialty;2249.17067;39510
+RVLV;Revolve Group, Inc.;Retail - Apparel & Specialty;2069.59776;1338983
+KAR;KAR Auction Services, Inc.;Retail - Apparel & Specialty;2041.948;123411
+ODP;OFFICE DEPOT INC;Retail - Apparel & Specialty;1852.69;528624
+SBH;Sally Beauty Holdings, Inc.;Retail - Apparel & Specialty;1675.7498;978927
+BKE;BUCKLE INC;Retail - Apparel & Specialty;1672.29172;196385
+BBBY;BED BATH & BEYOND INC;Retail - Apparel & Specialty;1643.96715;60362
+OSTK;OVERSTOCK.COM, INC;Retail - Apparel & Specialty;1470.04736;176064
+DBI;Designer Brands Inc.;Retail - Apparel & Specialty;1373.14009;596024
+GES;GUESS INC;Retail - Apparel & Specialty;1299.18656;181484
+ANF;ABERCROMBIE & FITCH CO /DE/;Retail - Apparel & Specialty;1123.82166;188522
+RGR;STURM RUGER & CO INC;Retail - Apparel & Specialty;1032.919716;1248958
+SFIX;Stitch Fix, Inc.;Retail - Apparel & Specialty;930.978769;902273
+GCO;GENESCO INC;Retail - Apparel & Specialty;893.93166;51883
+MOV;MOVADO GROUP INC;Retail - Apparel & Specialty;839.1416;250875
+WINA;WINMARK CORP;Retail - Apparel & Specialty;828.838642;102395
+TA;TRAVELCENTERS OF AMERICA LLC;Retail - Apparel & Specialty;828.6771;133962
+HIBB;HIBBETT SPORTS INC;Retail - Apparel & Specialty;827.55792;515787
+PLCE;Childrens Place, Inc.;Retail - Apparel & Specialty;784.08155;737152
+SCVL;SHOE CARNIVAL INC;Retail - Apparel & Specialty;742.45392;201975
+FLWS;1 800 FLOWERS COM INC;Retail - Apparel & Specialty;655.87305;247341
+LQDT;LIQUIDITY SERVICES INC;Retail - Apparel & Specialty;642.006344;533622
+ZUMZ;Zumiez Inc;Retail - Apparel & Specialty;600.63975;45730
+LE;LANDS' END, INC.;Retail - Apparel & Specialty;550.17417;182473
+SPWH;SPORTSMAN'S WAREHOUSE HOLDINGS, INC.;Retail - Apparel & Specialty;475.40916;1249258
+BKS;BARNES & NOBLE INC;Retail - Apparel & Specialty;475.11219;763488
+PRTS;U.S. Auto Parts Network, Inc.;Retail - Apparel & Specialty;472.46656;675964
+RMBL;RumbleON, Inc.;Retail - Apparel & Specialty;433.27959;647388
+DLTH;DULUTH HOLDINGS INC.;Retail - Apparel & Specialty;337.0512;50213
+BGFV;BIG 5 SPORTING GOODS Corp;Retail - Apparel & Specialty;336.56112;1248288
+WMAR;WEST MARINE INC;Retail - Apparel & Specialty;327.62696;543710
+REAL;TheRealReal, Inc.;Retail - Apparel & Specialty;312.179903;978937
+CONN;CONNS INC;Retail - Apparel & Specialty;310.272857;230908
+LL;Lumber Liquidators Holdings, Inc.;Retail - Apparel & Specialty;305.75839;517434
+CATO;CATO CORP;Retail - Apparel & Specialty;301.588371;998426
+DXLG;DESTINATION XL GROUP, INC.;Retail - Apparel & Specialty;287.7192;178401
+TLYS;TILLY'S, INC.;Retail - Apparel & Specialty;253.7865;978925
+JILL;J.Jill, Inc.;Retail - Apparel & Specialty;246.966919;680726
+APRN;Blue Apron Holdings, Inc.;Retail - Apparel & Specialty;183.316479;978546
+SMRT;STEIN MART INC;Retail - Apparel & Specialty;177.560793;45048
+EXPR;EXPRESS, INC.;Retail - Apparel & Specialty;172.73227;50957
+BNED;Barnes & Noble Education, Inc.;Retail - Apparel & Specialty;164.98582;75409
+LEAT;Leatt Corp;Retail - Apparel & Specialty;132.029057;155590
+ZAGG;ZAGG Inc;Retail - Apparel & Specialty;128.050091;903954
+CSS;CSS INDUSTRIES INC;Retail - Apparel & Specialty;83.474792;702391
+KIRK;KIRKLAND'S, INC;Retail - Apparel & Specialty;66.46885;188255
+JCP;J C PENNEY CO INC;Retail - Apparel & Specialty;41.9767;180279
+PERF;Perfumania Holdings, Inc.;Retail - Apparel & Specialty;28.818399;209149
+SHLDQ;SEARS HOLDINGS CORP;Retail - Apparel & Specialty;24.031938;100266
+NWY;New York & Company, Inc.;Retail - Apparel & Specialty;16.325121;33184
+ARO;AEROPOSTALE INC;Retail - Apparel & Specialty;11.999169;93605
+JAN;JanOne Inc.;Retail - Apparel & Specialty;9.556646;165913
+KSPN;Kaspien Holdings Inc.;Retail - Apparel & Specialty;8.15211;197548
+IVDN;INNOVATIVE DESIGNS INC;Retail - Apparel & Specialty;5.696795;258246
+TLRD;TAILORED BRANDS INC;Retail - Apparel & Specialty;3.422991;929181
+CHKE;CHEROKEE INC;Retail - Apparel & Specialty;1.308999;240259
+ASNA;Ascena Retail Group, Inc.;Retail - Apparel & Specialty;1.009016;35533
+PIR;PIER 1 IMPORTS INC/DE;Retail - Apparel & Specialty;0.85158;244053
+FRANQ;Francesca's Holdings CORP;Retail - Apparel & Specialty;0.454926;202677
+SSI;STAGE STORES INC;Retail - Apparel & Specialty;0.289113;42463
+BONT;BON TON STORES INC;Retail - Apparel & Specialty;0.265634;200557
+CBKCQ;CHRISTOPHER & BANKS CORP;Retail - Apparel & Specialty;0;100810
+DESTQ;Destination Maternity Corp;Retail - Apparel & Specialty;0;175862
+WMT;Walmart Inc;Retail - Defensive;385915.53;239962
+COST;COSTCO WHOLESALE CORP /NEW;Retail - Defensive;244337.403959;217867
+TGT;TARGET CORP;Retail - Defensive;83608.16;72458
+DG;DOLLAR GENERAL CORP;Retail - Defensive;58668.32406;80798
+SYY;SYSCO CORP;Retail - Defensive;44103.13172;247719
+DLTR;Dollar Tree;Retail - Defensive;37849.5;378128
+WBA;Walgreens Boots Alliance, Inc.;Retail - Defensive;36322.56;87466
+KR;KROGER CO;Retail - Defensive;35975.64;258154
+ACI;Albertsons Companies, Inc.;Retail - Defensive;13842.925;1077533
+BURL;Burlington Stores, Inc.;Retail - Defensive;11203.69095;179036
+SCI;SERVICE CORP INTERNATIONAL;Retail - Defensive;10968.10255;1056222
+BJ;BJ's Wholesale Club Holdings, Inc.;Retail - Defensive;9328.77444;1234040
+PFGC;Performance Food Group Co;Retail - Defensive;8157.96;180458
+SWY;SAFEWAY INC;Retail - Defensive;8122.14;86808
+CASY;CASEYS GENERAL STORES INC;Retail - Defensive;7920.384108;188690
+USFD;US Foods Holding Corp.;Retail - Defensive;7456.759898;365184
+MUSA;Murphy USA Inc.;Retail - Defensive;7134.34272;1057793
+VVV;VALVOLINE INC;Retail - Defensive;5526;1059911
+OLLI;Ollie's Bargain Outlet Holdings, Inc.;Retail - Defensive;4249.70835;102057
+GO;Grocery Outlet Holding Corp.;Retail - Defensive;4032.1315;998534
+CST;CST BRANDS, INC.;Retail - Defensive;3684.627972;42704
+SFM;Sprouts Farmers Market, Inc.;Retail - Defensive;3335.26886;520294
+UNFI;UNITED NATURAL FOODS INC;Retail - Defensive;2766.992;52168
+WMK;WEIS MARKETS INC;Retail - Defensive;2229.61194;912450
+CHEF;Chefs' Warehouse, Inc.;Retail - Defensive;1301.130948;350160
+SVU;SUPERVALU INC;Retail - Defensive;1257.967899;684097
+CAPL;CrossAmerica Partners LP;Retail - Defensive;810.194613;998434
+BIG;BIG LOTS INC;Retail - Defensive;781.63951;49609
+RAD;RITE AID CORP;Retail - Defensive;602.17584;84515
+SFS;Smart & Final Stores, Inc.;Retail - Defensive;497.181984;114802
+PETS;PETMED EXPRESS INC;Retail - Defensive;475.29216;820678
+NGVC;Natural Grocers by Vitamin Cottage, Inc.;Retail - Defensive;349.904289;941589
+VLGEA;VILLAGE SUPER MARKET INC;Retail - Defensive;333.259944;333215
+ACU;ACME UNITED CORP;Retail - Defensive;97.8838;998436
+TUEM;TUESDAY MORNING CORP/DE;Retail - Defensive;28.79018;668563
+FRED;FREDS INC;Retail - Defensive;0.352391;51800
+NVDA;NVIDIA CORP;Semiconductors;473107.74;172199
+AVGO;Broadcom Inc.;Semiconductors;227068.125275;686523
+TXN;TEXAS INSTRUMENTS INC;Semiconductors;169241.28;252464
+QCOM;QUALCOMM INC/DE;Semiconductors;168333.66;85758
+AMD;ADVANCED MICRO DEVICES INC;Semiconductors;162123.6;191397
+AVGO_old;Avago Technologies;Semiconductors;152525.474049;378100
+INTC;INTEL CORP;Semiconductors;148379;85652
+AMAT;APPLIED MATERIALS INC /DE;Semiconductors;95254.22;67102
+ADI;ANALOG DEVICES INC;Semiconductors;94048.10064;65917
+LRCX;LAM RESEARCH CORP;Semiconductors;71771.9268;101897
+MU;MICRON TECHNOLOGY INC;Semiconductors;71012.32;60906
+KLAC;KLA TENCOR CORP;Semiconductors;56431.41987;132518
+NXPI;NXP Semiconductors N.V.;Semiconductors;48800.30715;1150946
+XLNX;XILINX INC;Semiconductors;47919.1328;396684
+MCHP;MICROCHIP TECHNOLOGY INC;Semiconductors;41156.995;333440
+ENPH;Enphase Energy, Inc.;Semiconductors;39604.31624;917156
+MRVL;MARVELL TECHNOLOGY GROUP LTD;Semiconductors;36724.295;198029
+IFX.DE;Infineon;Semiconductors;36386.796914;858321
+BRCM;BROADCOM CORP;Semiconductors;33294.03;261267
+ON;ON SEMICONDUCTOR CORP;Semiconductors;30702.282;136025
+MXIM;MAXIM INTEGRATED PRODUCTS INC;Semiconductors;27679.027274;153611
+MPWR;MONOLITHIC POWER SYSTEMS INC;Semiconductors;24803.56175;118204
+SWKS;SKYWORKS SOLUTIONS, INC.;Semiconductors;17903.343;353611
+SEDG;SolarEdge Technologies Inc;Semiconductors;17389.617437;847001
+LLTC;LINEAR TECHNOLOGY CORP /CA/;Semiconductors;15650.420825;178219
+FSLR;FIRST SOLAR, INC.;Semiconductors;12469.49614;260908
+QRVO;Qorvo, Inc.;Semiconductors;11349.21843;35151
+CREE;CREE INC;Semiconductors;10295.67909;178872
+IPHI;INPHI Corp;Semiconductors;9235.114244;923419
+CY;CYPRESS SEMICONDUCTOR CORP /DE/;Semiconductors;8900.205297;526074
+LSCC;LATTICE SEMICONDUCTOR CORP;Semiconductors;8656.33776;1234777
+BRKS;BROOKS AUTOMATION INC;Semiconductors;8408.651694;531292
+MSCC;MICROSEMI CORP;Semiconductors;8108.542285;361632
+RUN;Sunrun Inc.;Semiconductors;7408.48152;148978
+CAVM;Cavium Inc;Semiconductors;6038.077858;446086
+OLED;UNIVERSAL DISPLAY CORP PA;Semiconductors;5897.214267;933165
+AMKR;AMKOR TECHNOLOGY, INC.;Semiconductors;5520.44144;693881
+VSLR;Vivint Solar, Inc.;Semiconductors;5402.856617;809892
+IPGP;IPG PHOTONICS CORP;Semiconductors;5302.05246;570971
+CCMP;CABOT MICROELECTRONICS CORP;Semiconductors;5082.1694;927135
+CRUS;CIRRUS LOGIC INC;Semiconductors;4952.93877;674434
+MTSI;MACOM Technology Solutions Holdings, Inc.;Semiconductors;4356.23688;358330
+NANO;ONTO INNOVATION INC.;Semiconductors;4002.10722;721571
+CNXT;CONEXANT SYSTEMS INC;Semiconductors;3735;706764
+SMTC;SEMTECH CORP;Semiconductors;3497.4255;185350
+AMBA;AMBARELLA INC;Semiconductors;3426.815611;50129
+ISIL;INTERSIL CORP/DE;Semiconductors;3097.606714;355428
+RMBS;RAMBUS INC;Semiconductors;3084.78471;1305201
+VSH;VISHAY INTERTECHNOLOGY INC;Semiconductors;3055.55033;1234801
+KLIC;KULICKE & SOFFA INDUSTRIES INC;Semiconductors;2835.9988;362126
+FORM;FORMFACTOR INC;Semiconductors;2655.50873;931024
+ACLS;AXCELIS TECHNOLOGIES INC;Semiconductors;2372.65224;670942
+FCS;FAIRCHILD SEMICONDUCTOR INTERNATIONAL INC;Semiconductors;2280.535398;147401
+XPER;Xperi Holding Corp;Semiconductors;1731.61665;983817
+PLAB;PHOTRONICS INC;Semiconductors;1450.90764;39856
+AOSL;ALPHA & OMEGA SEMICONDUCTOR Ltd;Semiconductors;1142.16935;175314
+SGH;SMART Global Holdings, Inc.;Semiconductors;1024.9437;630523
+QTNA;QUANTENNA COMMUNICATIONS INC;Semiconductors;944.799323;734346
+NPTN;NEOPHOTONICS CORP;Semiconductors;856.34288;364355
+XCRA;Xcerra Corp;Semiconductors;783.635352;247530
+NLST;NETLIST INC;Semiconductors;703.14592;164920
+AEHR;AEHR TEST SYSTEMS;Semiconductors;463.52475;178053
+AXTI;AXT INC;Semiconductors;399.84952;704072
+IOTS;ADESTO TECHNOLOGIES Corp;Semiconductors;391.868529;884299
+PKE;PARK ELECTROCHEMICAL CORP;Semiconductors;254.6025;89458
+NVEC;NVE CORP /NEW/;Semiconductors;250.236787;102816
+MRAM;EVERSPIN TECHNOLOGIES INC;Semiconductors;175.206246;906016
+KOPN;KOPIN CORP;Semiconductors;142.675578;807728
+ASYS;AMTECH SYSTEMS INC;Semiconductors;140.41779;819674
+INTT;INTEST CORP;Semiconductors;104.082428;645323
+GSIT;GSI TECHNOLOGY INC;Semiconductors;90.98033;48159
+AAOI;APPLIED OPTOELECTRONICS, INC.;Semiconductors;78.971221;671827
+SEV;SEVCON, INC.;Semiconductors;20.894807;129956
+TRT;TRIO-TECH INTERNATIONAL;Semiconductors;20.71344;288723
+LEDS;SemiLEDs Corp;Semiconductors;14.0936;93692
+SIGM;SIGMA DESIGNS INC;Semiconductors;11.197159;202034
+NUE;NUCOR CORP;Steel;38738.6046;334772
+STLD;STEEL DYNAMICS INC;Steel;15782.3153;978926
+RS;Reliance Steel & Aluminum Co;Steel;12172.94151;448547
+X;UNITED STATES STEEL CORP;Steel;6695.28555;721031
+CMC;COMMERCIAL METALS Co;Steel;5319.868985;980334
+WOR;WORTHINGTON INDUSTRIES INC;Steel;2756.0946;332221
+AKS;AK STEEL HOLDING CORP;Steel;491.209365;671046
+ZEUS;OLYMPIC STEEL INC;Steel;336.10194;815280
+USAP;UNIVERSAL STAINLESS & ALLOY PRODUCTS INC;Steel;78.765168;114434
+FRD;FRIEDMAN INDUSTRIES INC;Steel;69.717021;543788
+PM;Philip Morris International Inc.;Tobacco Products;157767.72;82860
+RAI;REYNOLDS AMERICAN INC;Tobacco Products;93268.616267;336424
+MO;ALTRIA GROUP, INC.;Tobacco Products;83392.052767;133574
+VGR;VECTOR GROUP LTD;Tobacco Products;1660.145472;726203
+TPB;Turning Point Brands, Inc.;Tobacco Products;467.657776;58275
+PYYX;PYXUS INTERNATIONAL, INC.;Tobacco Products;12.5;825788
+UPS;UNITED PARCEL SERVICE INC;Transportation & Logistics;180349.9;106423
+UNP;UNION PACIFIC CORP;Transportation & Logistics;150988.56;367644
+CSX;CSX CORP;Transportation & Logistics;74881.512747;248102
+FDX;FEDEX CORP;Transportation & Logistics;63366.52;259098
+NSC;Norfolk Southern Corp.;Transportation & Logistics;61646.073;378195
+CP;CANADIAN PACIFIC RAILWAY LTD/CN;Transportation & Logistics;59074.032;102322
+DPW.DE;Deutsche Post;Transportation & Logistics;51176.958151;854468
+ODFL;OLD DOMINION FREIGHT LINE INC/VA;Transportation & Logistics;35062.40553;782146
+KSU;KANSAS CITY SOUTHERN;Transportation & Logistics;26710.94738;99395
+JBHT;J. B. Hunt Transport Services;Transportation & Logistics;20292.6518;378173
+EXPD;Expeditors International;Transportation & Logistics;17836.53968;378143
+WAB;WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP;Transportation & Logistics;17524.246;749129
+CHRW;C. H. Robinson Worldwide;Transportation & Logistics;15094.00775;378101
+KNX;Knight-Swift Transportation Holdings Inc.;Transportation & Logistics;9249.93405;993639
+XPO;XPO Logistics, Inc.;Transportation & Logistics;7024.2;364942
+GWR;Genesee & Wyoming Inc;Transportation & Logistics;6381.60723;447280
+SAIA;SAIA INC;Transportation & Logistics;6309.56028;942700
+CHPT;ChargePoint Holdings, Inc.;Transportation & Logistics;5995.440434;1326827
+LSTR;LANDSTAR SYSTEM INC;Transportation & Logistics;5918.09688;770173
+GXO;GXO Logistics, Inc.;Transportation & Logistics;5729.90354;1307827
+SNDR;Schneider National, Inc.;Transportation & Logistics;4537.47;1136135
+KEX;KIRBY CORP;Transportation & Logistics;4052.79864;1067478
+MATX;Matson, Inc.;Transportation & Logistics;3384.318;885542
+EVGO;EVgo Inc.;Transportation & Logistics;3179.731975;1311761
+WERN;WERNER ENTERPRISES INC;Transportation & Logistics;2887.42696;1067484
+AAWW;ATLAS AIR WORLDWIDE HOLDINGS INC;Transportation & Logistics;2824.3;762204
+TRN;TRINITY INDUSTRIES INC;Transportation & Logistics;2304.728;247970
+ARCB;ARCBEST CORP /DE/;Transportation & Logistics;2272.888806;822441
+INSW;International Seaways, Inc.;Transportation & Logistics;1427.550769;1023512
+HTLD;HEARTLAND EXPRESS INC;Transportation & Logistics;1325.30186;1077530
+GBX;GREENBRIER COMPANIES INC;Transportation & Logistics;1088.4392;87143
+ULH;UNIVERSAL LOGISTICS HOLDINGS, INC.;Transportation & Logistics;1053.09393;682408
+DSKE;Daseke, Inc.;Transportation & Logistics;451.17258;770175
+YELL;Yellow Corp;Transportation & Logistics;365.30065;1136136
+MIC;Macquarie Infrastructure Corp;Transportation & Logistics;358.257955;345220
+USX;US XPRESS ENTERPRISES INC;Transportation & Logistics;148.02869;1035803
+RAIL;FreightCar America, Inc.;Transportation & Logistics;125.438894;543593
+DIT;AMCON DISTRIBUTING CO;Transportation & Logistics;117.020327;1079780
+SINO;Sino-Global Shipping America, Ltd.;Transportation & Logistics;67.677353;257712
+BKNG;Booking Holdings Inc.;Travel & Leisure;88359.83648;261036
+ABNB;Airbnb, Inc.;Travel & Leisure;78169.07476;1214552
+UBER;Uber Technologies, Inc;Travel & Leisure;63604.16352;914943
+MAR;MARRIOTT INTERNATIONAL INC /MD/;Travel & Leisure;54576.592;98192
+HLT;Hilton Worldwide Holdings Inc.;Travel & Leisure;38786.58;740329
+EXPE;Expedia, Inc.;Travel & Leisure;18428.0964;112653
+MGM;MGM Resorts International;Travel & Leisure;16832.0712;139431
+POOL;Pool Corp;Travel & Leisure;15573.2922;448357
+HOT;STARWOOD HOTEL & RESORTS WORLDWIDE, INC;Travel & Leisure;13063.818562;113871
+CCL;CARNIVAL CORP;Travel & Leisure;12723.03;288836
+HAS;HASBRO INC;Travel & Leisure;11456.38;249756
+RCL;ROYAL CARIBBEAN CRUISES LTD;Travel & Leisure;11238.81312;403292
+CZR;CAESARS ENTERTAINMENT Corp;Travel & Leisure;11138.7;821879
+H;Hyatt Hotels Corp;Travel & Leisure;10473.813;133448
+CAR;AVIS BUDGET GROUP, INC.;Travel & Leisure;10296.621;980327
+MTN;VAIL RESORTS INC;Travel & Leisure;10059.5047;264322
+HTZ;HERTZ CORP;Travel & Leisure;8652.52;536728
+MAT;Mattel Inc.;Travel & Leisure;8382.717;378187
+CHDN;CHURCHILL DOWNS Inc;Travel & Leisure;8352.847;883031
+WYNN;Wynn Resorts Ltd;Travel & Leisure;7765.71264;378245
+LYFT;Lyft, Inc.;Travel & Leisure;6779.17284;939173
+CHH;CHOICE HOTELS INTERNATIONAL INC /DE;Travel & Leisure;6716.48852;1059905
+BC;BRUNSWICK CORP;Travel & Leisure;6686.586;121407
+WH;WYNDHAM HOTELS & RESORTS, INC.;Travel & Leisure;6648.9;991363
+VAC;MARRIOTT VACATIONS WORLDWIDE Corp;Travel & Leisure;6501.616;340222
+BYD;BOYD GAMING CORP;Travel & Leisure;6420.98058;899361
+NCLH;Norwegian Cruise Line Holdings Ltd.;Travel & Leisure;6102.202725;744483
+ELY;CALLAWAY GOLF CO;Travel & Leisure;4615.653;434282
+IGT;International Game Technology;Travel & Leisure;4532.60292;447449
+WOOF;Petco Health & Wellness Company, Inc.;Travel & Leisure;4378.626;1340570
+PTON;PELOTON INTERACTIVE, INC.;Travel & Leisure;4341.239966;963029
+BMBL;Bumble Inc.;Travel & Leisure;4249.208758;1242698
+TNL;Travel & Leisure Co.;Travel & Leisure;4149.405;116466
+SEAS;SeaWorld Entertainment, Inc.;Travel & Leisure;4030.18692;785588
+DUOL;Duolingo, Inc.;Travel & Leisure;3981.7162;1271648
+TRIP;TripAdvisor, Inc.;Travel & Leisure;3920;89539
+GOLF;Acushnet Holdings Corp.;Travel & Leisure;3900.409903;370220
+STAY;Extended Stay America Inc;Travel & Leisure;3636.371616;448789
+NUS;NU SKIN ENTERPRISES, INC.;Travel & Leisure;2364.27392;1234781
+SIX;Six Flags Entertainment Corp;Travel & Leisure;2234.64059;816466
+TVPT;Travelport Worldwide LTD;Travel & Leisure;1992.737801;625611
+VSTO;Vista Outdoor Inc.;Travel & Leisure;1798.51424;158610
+SPCE;Virgin Galactic Holdings, Inc;Travel & Leisure;1793.434333;949272
+CRSR;Corsair Gaming, Inc.;Travel & Leisure;1689.7659;1243777
+VORB;Virgin Orbit Holdings, Inc.;Travel & Leisure;1477.18212;1334643
+MBUU;MALIBU BOATS, INC.;Travel & Leisure;1428.946742;1338977
+MYCC;ClubCorp Holdings, Inc.;Travel & Leisure;1124.402754;97729
+CLAR;Clarus Corp;Travel & Leisure;1063.80395;569146
+FNKO;Funko, Inc.;Travel & Leisure;957.9279;694474
+HZO;MARINEMAX INC;Travel & Leisure;942.764997;993630
+JOUT;JOHNSON OUTDOORS INC;Travel & Leisure;745.00452;667535
+KODK;EASTMAN KODAK CO;Travel & Leisure;548.628;1023511
+RSI;Rush Street Interactive, Inc.;Travel & Leisure;416.48471;1326824
+MPX;MARINE PRODUCTS CORP;Travel & Leisure;392.15;953278
+AGS;PlayAGS, Inc.;Travel & Leisure;307.0834;967946
+JAKK;JAKKS PACIFIC INC;Travel & Leisure;217.07232;908372
+DS;Drive Shack Inc.;Travel & Leisure;124.711553;816790
+DDE;DOVER DOWNS GAMING & ENTERTAINMENT INC;Travel & Leisure;87.867674;157094
+NLS;NAUTILUS, INC.;Travel & Leisure;80.746477;958643
+PRKA;PARKS AMERICA, INC;Travel & Leisure;33.8058;954543
+LBUY;LEAFBUYER TECHNOLOGIES, INC.;Travel & Leisure;4.525553;653863
+CVSI;CV Sciences, Inc.;Travel & Leisure;4.06242;150939
+XSPY;Spy Inc.;Travel & Leisure;1.215147;734429
+PCAR;PACCAR INC;Truck Manufacturing;33021.352;406606
+NAV;NAVISTAR INTERNATIONAL CORP;Truck Manufacturing;4437.346692;203261
+WNC;WABASH NATIONAL CORP /DE;Truck Manufacturing;922.81988;109798
+HYLN;Hyliion Holdings Corp.;Truck Manufacturing;777.321901;998432
+ACW;ACCURIDE CORP;Truck Manufacturing;124.673358;671043
+CHART;Vistra Energy Corp.;Utilities - Independent Power Producers;12451.481115;708868
+NRG;NRG Energy;Utilities - Independent Power Producers;10096.2;378196
+NEP;NextEra Energy Partners, LP;Utilities - Independent Power Producers;6977.81;704398
+MDU;MDU RESOURCES GROUP INC;Utilities - Independent Power Producers;6505.19849;1063682
+CPN;CALPINE CORP;Utilities - Independent Power Producers;5498.285676;113443
+ORA;ORMAT TECHNOLOGIES, INC.;Utilities - Independent Power Producers;5370.67094;708961
+PNM;PNM RESOURCES INC;Utilities - Independent Power Producers;4158.1953;1067473
+PEGI;Pattern Energy Group Inc.;Utilities - Independent Power Producers;2626.366033;708994
+FCEL;FUELCELL ENERGY INC;Utilities - Independent Power Producers;1833.269854;197812
+HTM;US GEOTHERMAL INC;Utilities - Independent Power Producers;106.245385;709126
+NEE;NEXTERA ENERGY INC;Utilities - Regulated;178685.442641;188922
+DUK;Duke Energy CORP;Utilities - Regulated;86324.7;191249
+SO;SOUTHERN CO;Utilities - Regulated;83972.34;189248
+D;DOMINION RESOURCES INC /VA/;Utilities - Regulated;69214.5;189087
+SRE;Sempra Energy;Utilities - Regulated;53908.3545;378214
+AEP;AMERICAN ELECTRIC POWER CO INC;Utilities - Regulated;53653.103602;66050
+EXC;Exelon Corp.;Utilities - Regulated;45709.51;378142
+XEL;Xcel Energy Inc;Utilities - Regulated;42047.46;378246
+ED;Consolidated Edison;Utilities - Regulated;35417.082;378121
+PEG;PUBLIC SERVICE ENTERPRISE GROUP INC;Utilities - Regulated;34188.63;117316
+WEC;Wisconsin Energy Corporation;Utilities - Regulated;33750.954;378244
+ES;Eversource Energy;Utilities - Regulated;32368.733756;378141
+RWE.DE;RWE;Utilities - Regulated;30001.648527;858324
+AWK;American Water Works Company, Inc.;Utilities - Regulated;29029;168302
+EIX;Edison International;Utilities - Regulated;27359.61;378134
+DTE;DTE Energy Co.;Utilities - Regulated;26265.37;378131
+EOAN.DE;E.ON;Utilities - Regulated;25214.791687;854469
+ETR;ENTERGY CORP /DE/;Utilities - Regulated;24803.770214;354347
+AEE;AMEREN CORP;Utilities - Regulated;24792.364;68703
+PCG;PG&E Corp.;Utilities - Regulated;24618.93;378198
+FE;FIRSTENERGY CORP;Utilities - Regulated;23422.42;422040
+PPL;PPL Corp;Utilities - Regulated;22749.04907;26853
+CNP;CenterPoint Energy;Utilities - Regulated;20650.07;378108
+CMS;CMS Energy;Utilities - Regulated;20312.166;378117
+AGR;Avangrid, Inc.;Utilities - Regulated;19967.219642;709430
+AES;AES CORP;Utilities - Regulated;16671.494739;62329
+EVRG;Evergy, Inc.;Utilities - Regulated;16356.937;995321
+LNT;ALLIANT ENERGY CORP;Utilities - Regulated;16072.654;119577
+ATO;Atmos Energy Corp;Utilities - Regulated;15445.07364;445830
+WTRG;Essential Utilities, Inc.;Utilities - Regulated;13600.47804;449267
+NI;NISOURCE INC/DE;Utilities - Regulated;12417.256;119873
+WR;WESTAR ENERGY INC /KS;Utilities - Regulated;11653.203996;351692
+PNW;PINNACLE WEST CAPITAL CORP;Utilities - Regulated;8836.22475;327292
+WGL;WGL Holdings Inc;Utilities - Regulated;8682.207835;449198
+OGE;OKLAHOMA GAS & ELECTRIC CO;Utilities - Regulated;8530.522;998476
+ES_old;Energysolutions Inc;Utilities - Regulated;8476.474435;446632
+GXP;Great Plains Energy Inc;Utilities - Regulated;6903.310329;447283
+SCG;SCANA CORP;Utilities - Regulated;6832.54;190587
+IDA;IDACORP INC;Utilities - Regulated;5834.92688;627772
+SWX;Southwest Gas Corp;Utilities - Regulated;4852.36647;448826
+NJR;NEW JERSEY RESOURCES CORP;Utilities - Regulated;4534.62264;511242
+OGS;ONE Gas, Inc.;Utilities - Regulated;4484.69274;351460
+SR;SPIRE INC;Utilities - Regulated;4040.28;627776
+SJI;SOUTH JERSEY INDUSTRIES INC;Utilities - Regulated;3873.8336;525920
+OTTR;Otter Tail Corp;Utilities - Regulated;3394.3152;703658
+CWT;CALIFORNIA WATER SERVICE GROUP;Utilities - Regulated;3361.64868;939565
+ALE;Allete Inc;Utilities - Regulated;3330.02;445686
+AVA;AVISTA CORP;Utilities - Regulated;3145.4246;703252
+MGEE;MGE ENERGY INC;Utilities - Regulated;3099.53073;703431
+NWE;NORTHWESTERN CORP;Utilities - Regulated;3044.03819;342218
+APU;AMERIGAS PARTNERS LP;Utilities - Regulated;2903.450759;723175
+SJW;SJW GROUP;Utilities - Regulated;2058.441419;953794
+BKH;BLACK HILLS POWER INC;Utilities - Regulated;1846.148661;253495
+CWEN;Clearway Energy, Inc.;Utilities - Regulated;1405.95;904225
+EE;EL PASO ELECTRIC CO /TX/;Utilities - Regulated;1046.202633;709578
+UTL;UNITIL CORP;Utilities - Regulated;906.4;704075
+GWRS;Global Water Resources, Inc.;Utilities - Regulated;326.913315;761716
+WM;Waste Management Inc.;Waste Management;72441.264;378239
+RSG;REPUBLIC SERVICES, INC.;Waste Management;46578.192;101495
+CLH;CLEAN HARBORS INC;Waste Management;6426.03574;857873
+SRCL;STERICYCLE INC;Waste Management;5069.184;101113
+CVA;COVANTA HOLDING CORP;Waste Management;2694.766027;821325
+SCHN;SCHNITZER STEEL INDUSTRIES, INC.;Waste Management;1030.31523;951289
+YORW;YORK WATER CO;Waste Management;607.316933;998415
+RELY;Elah Holdings, Inc.;Waste Management;349.141939;689895
+SMED;SHARPS COMPLIANCE CORP;Waste Management;167.8164;179660
+PESI;PERMA FIX ENVIRONMENTAL SERVICES INC;Waste Management;70.2992;664574
+EEI;ECOLOGY & ENVIRONMENT INC;Waste Management;66.898515;55609
+AWX;AVALON HOLDINGS CORP;Waste Management;12.32084;129218
